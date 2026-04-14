@@ -418,7 +418,7 @@ msgstr "{actor} a mis à jour le rôle {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:718
 msgid "{actor} updated the sticker {namedTarget}."
-msgstr "{actor} a mis à jour l'autocollant {namedTarget}."
+msgstr "{actor} a mis à jour l'sticker {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:680
 msgid "{actor} updated the webhook {namedTarget}."
@@ -1948,7 +1948,7 @@ msgstr "Ajoute quelques amis pour les voir ici."
 
 #: src/components/modals/AddGuildStickerModal.tsx:109
 msgid "Add Sticker"
-msgstr "Ajouter un autocollant"
+msgstr "Ajouter un sticker"
 
 #: src/components/modals/AddGuildStickerModal.tsx:111
 msgid "Add sticker form"
@@ -3872,7 +3872,7 @@ msgstr "Bulgare"
 
 #: src/components/modals/CreatePackModal.tsx:77
 msgid "Bundle your favorite stickers into a pack you can distribute."
-msgstr "Rassemble tes autocollants préférés dans un pack à partager."
+msgstr "Rassemble tes stickers préférés dans un pack à partager."
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:663
 msgid "button"
@@ -4184,7 +4184,7 @@ msgstr "Impossible d'installer le pack d'émojis"
 
 #: src/actions/InviteActionCreators.tsx:318
 msgid "Cannot install sticker pack"
-msgstr "Impossible d'installer le pack d'autocollants"
+msgstr "Impossible d'installer le pack d'stickers"
 
 #: src/actions/GiftActionCreators.tsx:109
 msgid "Cannot Redeem Gift"
@@ -6331,7 +6331,7 @@ msgstr "Créer un MP"
 
 #: src/utils/PermissionUtils.tsx:284
 msgid "Create Emoji & Stickers"
-msgstr "Créer des Émojis et des Autocollants"
+msgstr "Créer des Émojis et des stickers"
 
 #: src/components/modals/CreatePackModal.tsx:52
 #: src/components/modals/tabs/ExpressionPacksTab.tsx:256
@@ -8031,7 +8031,7 @@ msgstr "Télécharge l'application de bureau pour le Push-to-Talk global"
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:192
 msgid "Drag and drop a sticker file here (one at a time)"
-msgstr "Glisse-dépose un fichier d'autocollant ici (un à la fois)"
+msgstr "Glisse-dépose un fichier d'sticker ici (un à la fois)"
 
 #: src/components/guild/UploadDropZone.tsx:65
 msgid "Drag and drop area for file upload"
@@ -8296,7 +8296,7 @@ msgstr "Modifier le Raccourci"
 
 #: src/components/modals/EditGuildStickerModal.tsx:102
 msgid "Edit Sticker"
-msgstr "Modifier l'Autocollant"
+msgstr "Modifier l'sticker"
 
 #: src/components/modals/EditPackModal.tsx:56
 msgid "Edit Sticker Pack"
@@ -8452,7 +8452,7 @@ msgstr "émoji {emojiName}"
 
 #: src/components/modals/components/FeatureComparisonTable.tsx:53
 msgid "Emoji & sticker packs"
-msgstr "Packs d'émojis et d'autocollants"
+msgstr "Packs d'émojis et d'stickers"
 
 #: src/constants/AuditLogConstants.tsx:175
 msgid "Emoji Created"
@@ -8540,40 +8540,40 @@ msgstr "Activer"
 
 #: src/components/modals/tabs/notifications_tab/TextToSpeech.tsx:70
 msgid "Enable /tts Speech Playback"
-msgstr "Activer la lecture vocale /tts"
+msgstr "Activer la Lecture Vocale /tts"
 
 #: src/components/modals/guild_tabs/GuildModerationTab.tsx:149
 msgid "Enable 2FA on your account to change this setting"
-msgstr "Activez la 2FA sur votre compte pour changer ce paramètre"
+msgstr "Activez l'A2F sur votre compte pour changer ce paramètre"
 
 #: src/components/modals/tabs/AdvancedTab.tsx:151
 msgid "Enable advanced features for debugging and development. Note that copying snowflake IDs for entities is always available to all users without needing developer mode."
-msgstr "Active des fonctionnalités avancées pour le débogage et le développement. Copier les identifiants snowflake des entités reste toujours possible pour tous les utilisateurs sans besoin du mode développeur."
+msgstr "Active des fonctionnalités avancées pour le débogage et le développement. Copier les identifiants snowflake des entités reste toujours possible pour tous les utilisateurs sans avoir besoin du mode développeur."
 
 #: src/components/modals/tabs/notifications_tab/Sounds.tsx:123
 msgid "Enable All"
-msgstr "Tout activer"
+msgstr "Tout Activer"
 
 #: src/components/modals/AudioPlaybackPermissionModal.tsx:34
 msgid "Enable Audio"
-msgstr "Activer l'audio"
+msgstr "Activer l'Audio"
 
 #: src/components/modals/tabs/component_gallery_tab/index.tsx:110
 #: src/components/modals/tabs/component_gallery_tab/Inline.tsx:105
 msgid "Enable Beta Feature"
-msgstr "Activer la fonction bêta"
+msgstr "Activer la Fonction Bêta"
 
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:90
 msgid "Enable Browser Notifications"
-msgstr "Activer les notifications du navigateur"
+msgstr "Activer les Notifications sur Navigateur"
 
 #: src/stores/QuickSwitcherStore.tsx:914
 msgid "Enable Compact Mode"
-msgstr "Activer le mode compact"
+msgstr "Activer le Mode Compact"
 
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:90
 msgid "Enable Desktop Notifications"
-msgstr "Activer les notifications de bureau"
+msgstr "Activer les Notifications sur le Bureau"
 
 #: src/components/layout/app_layout/nagbars/DesktopNotificationNagbar.tsx:123
 msgid "Enable desktop notifications to stay updated on new messages."
@@ -8595,15 +8595,15 @@ msgstr "Activer les favoris"
 #: src/components/modals/InputMonitoringCTAModal.tsx:73
 #: src/components/modals/InputMonitoringCTAModal.tsx:95
 msgid "Enable Input Monitoring"
-msgstr "Activer la surveillance des entrées"
+msgstr "Activer la Surveillance des Entrées"
 
 #: src/components/modals/tabs/VoiceTab.tsx:318
 msgid "Enable Input Monitoring permission"
-msgstr "Autoriser la surveillance des entrées"
+msgstr "Autoriser la Surveillance des Entrées"
 
 #: src/components/invites/DisableInvitesButton.tsx:90
 msgid "Enable Invites"
-msgstr "Activer les invitations"
+msgstr "Activer les Invitations"
 
 #: src/components/layout/GuildLayout.tsx:111
 msgid "Enable Invites Again"
@@ -8623,17 +8623,17 @@ msgstr "Activer le seuil d'historique des messages"
 #: src/components/voice/VoiceConnectionStatus.tsx:1044
 #: src/components/voice/VoiceConnectionStatus.tsx:1050
 msgid "Enable Noise Suppression"
-msgstr "Activer la suppression du bruit"
+msgstr "Activer la Suppression du Bruit"
 
 #: src/components/layout/app_layout/nagbars/DesktopNotificationNagbar.tsx:91
 #: src/components/layout/app_layout/nagbars/DesktopNotificationNagbar.tsx:128
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:144
 msgid "Enable Notifications"
-msgstr "Activer les notifications"
+msgstr "Activer les Notifications"
 
 #: src/components/layout/app_layout/nagbars/DesktopNotificationNagbar.tsx:81
 msgid "Enable notifications to stay updated on mentions when you're away from the app."
-msgstr "Active les notifications pour rester informé des mentions lorsque tu es loin de l'application."
+msgstr "Active les notifications pour rester informé des mentions lorsque tu n'es pas sur l'application."
 
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:119
 msgid "Enable push for this device"
@@ -8645,7 +8645,7 @@ msgstr "Active les notifications push pour cette PWA installée afin de continue
 
 #: src/stores/QuickSwitcherStore.tsx:930
 msgid "Enable Reduced Motion"
-msgstr "Activer la réduction du mouvement"
+msgstr "Activer la Réduction du Mouvement"
 
 #: src/components/modals/tabs/developer_options_tab/DeveloperOptionsToggleGroups.tsx:45
 msgid "Enable self-hosted mode client-side (hides all premium/billing UI)"
@@ -8653,11 +8653,11 @@ msgstr "Activer le mode auto-hébergé côté client (cache toutes les interface
 
 #: src/components/modals/tabs/chat_settings_tab/InteractionTab.tsx:202
 msgid "Enable Shift to Expand"
-msgstr "Activer le décalage pour étendre"
+msgstr "Activer Shift-pour-Étendre"
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:156
 msgid "Enable SMS 2FA"
-msgstr "Activer la 2FA par SMS"
+msgstr "Activer l'A2F par SMS"
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:418
 msgid "Enable SMS codes as a backup for your authenticator app"
@@ -8665,7 +8665,7 @@ msgstr "Active les codes SMS comme solution de secours pour ton application d'au
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:149
 msgid "Enable SMS Two-Factor Authentication"
-msgstr "Activer l'authentification à deux facteurs par SMS"
+msgstr "Activer l'Authentification à Deux Facteurs par SMS"
 
 #: src/components/modals/tabs/accessibility_tab/VisualTab.tsx:97
 msgid "Enable text selection"
@@ -8673,7 +8673,7 @@ msgstr "Activer la sélection de texte"
 
 #: src/components/layout/app_layout/nagbars/VisionaryMfaNagbar.tsx:58
 msgid "Enable Two-Factor Auth"
-msgstr "Activer l'authentification à deux facteurs"
+msgstr "Activer l'Authentification à Deux Facteurs"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:134
 msgid "Enable two-factor authentication"
@@ -8709,12 +8709,12 @@ msgstr "Contenus NSFW activés."
 #: src/components/bottomsheets/DirectCallLobbyBottomSheet.tsx:332
 #: src/components/bottomsheets/VoiceLobbyBottomSheet.tsx:257
 msgid "Endpoint"
-msgstr "Point de terminaison"
+msgstr "Endpoint"
 
 #: src/components/voice/VoiceConnectionStatus.tsx:246
 #: src/components/voice/VoiceConnectionStatus.tsx:1007
 msgid "Endpoint:"
-msgstr "Point de terminaison :"
+msgstr "Endpoint :"
 
 #: src/utils/LocaleUtils.tsx:44
 msgid "English"
@@ -8746,7 +8746,7 @@ msgstr "Choisis un mot de passe sécurisé"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:208
 msgid "Enter Code"
-msgstr "Saisis le code"
+msgstr "Saisis le Code"
 
 #: src/components/media_player/components/MediaFullscreenButton.tsx:62
 #: src/components/voice/CompactVoiceCallView.tsx:354
@@ -8764,15 +8764,15 @@ msgstr "Entrez l'URL de l'instance (par ex. fluxer.app)"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:207
 msgid "Enter Phone"
-msgstr "Saisis ton numéro"
+msgstr "Saisis ton Numéro de Téléphone"
 
 #: src/components/media_player/components/MediaPipButton.tsx:62
 msgid "Enter Picture-in-Picture"
-msgstr "Entrer en mode image dans l'image"
+msgstr "Entrer en mode Image-Dans-Image"
 
 #: src/components/modals/tabs/DevicesTab.tsx:270
 msgid "Enter Selection Mode"
-msgstr "Activer le mode sélection"
+msgstr "Activer le Mode Sélection"
 
 #: src/components/modals/tabs/component_gallery_tab/InputsTab.tsx:204
 msgid "Enter text"
@@ -8811,7 +8811,7 @@ msgstr "Saisis le code envoyé à ton adresse Email actuelle."
 
 #: src/components/modals/PasswordChangeModal.tsx:159
 msgid "Enter the code sent to your email address."
-msgstr "Entrez le code envoyé à votre adresse Email."
+msgstr "Entrez le code envoyé à ton adresse Email."
 
 #: src/components/modals/EmailChangeModal.tsx:284
 msgid "Enter the code we emailed to your new address."
@@ -8823,7 +8823,7 @@ msgstr "Saisis le code que nous avons envoyé à ton Email pour le vérifier. To
 
 #: src/components/modals/AddGuildModal.tsx:427
 msgid "Enter the invite link to join a community."
-msgstr "Colle le lien d'invitation pour rejoindre une communauté."
+msgstr "Entre le lien d'invitation pour rejoindre une communauté."
 
 #: src/components/modals/EmailChangeModal.tsx:250
 msgid "Enter the new email you want to use. We'll send a code there next."
@@ -8926,7 +8926,7 @@ msgstr "Estonie"
 #: src/components/voice/VoiceRegionSelector.tsx:78
 #: src/components/voice/VoiceSettingsMenus.tsx:436
 msgid "EU Central"
-msgstr "UE Centre"
+msgstr "UE Centrale"
 
 #: src/components/modals/tabs/notifications_tab/TextToSpeech.tsx:48
 msgid "Every Channel"
@@ -8972,15 +8972,15 @@ msgstr "Quitter le plein écran"
 
 #: src/components/media_player/components/MediaPipButton.tsx:62
 msgid "Exit Picture-in-Picture"
-msgstr "Quitter le mode image dans l'image"
+msgstr "Quitter le Mode Image-dans-Image"
 
 #: src/components/modals/InvitePagePreviewModal.tsx:107
 msgid "Exit Preview"
-msgstr "Quitter l'aperçu"
+msgstr "Quitter l'Aperçu"
 
 #: src/components/modals/tabs/DevicesTab.tsx:270
 msgid "Exit Selection Mode"
-msgstr "Quitter le mode sélection"
+msgstr "Quitter le Mode Sélection"
 
 #: src/components/popouts/UnreadChannelsContent.tsx:255
 #: src/components/popouts/UnreadChannelsContent.tsx:261
@@ -9015,11 +9015,11 @@ msgstr "Expiré"
 
 #: src/components/modals/tabs/developer_options_tab/PremiumScenarioOptions.tsx:65
 msgid "Expired (Over 30 Days Ago)"
-msgstr "Expiré (il y a plus de 30 jours)"
+msgstr "Expiré (Plus de 30 Jours)"
 
 #: src/components/modals/tabs/developer_options_tab/PremiumScenarioOptions.tsx:64
 msgid "Expired (Within 30 Days)"
-msgstr "Expiré (dans les 30 derniers jours)"
+msgstr "Expiré (Dans les 30 Derniers Jours)"
 
 #: src/utils/AttachmentExpiryUtils.tsx:50
 msgid "Expired {absolute}"
@@ -9060,7 +9060,7 @@ msgstr "Expire le {earliest}"
 
 #: src/components/invites/InviteListItem.tsx:214
 msgid "Expires:"
-msgstr "Expire :"
+msgstr "Expire :"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:140
 #: src/components/modals/guild_tabs/GuildModerationTab.tsx:185
@@ -9091,7 +9091,7 @@ msgstr "Complétion d'expression (complétion par deux-points)"
 #: src/components/modals/utils/SettingsConstants.tsx:136
 #: src/components/modals/utils/SettingsSearchIndex.tsx:284
 msgid "Expression Packs"
-msgstr "Packs d'expressions"
+msgstr "Packs d'Expressions"
 
 #: src/components/modals/tabs/ExpressionPacksTab.tsx:146
 msgid "Expression Packs are a Plutonium feature"
@@ -9119,7 +9119,7 @@ msgstr "expressions"
 
 #: src/utils/SearchUtils.tsx:332
 msgid "ext:"
-msgstr "ext :"
+msgstr "ext :"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:462
 msgid "extended network"
@@ -9131,11 +9131,11 @@ msgstr "externe"
 
 #: src/components/modals/ExternalLinkWarningModal.tsx:61
 msgid "External Link Warning"
-msgstr "Avertissement lien externe"
+msgstr "Avertissement Lien Externe"
 
 #: src/components/modals/tabs/chat_settings_tab/LinksTab.tsx:72
 msgid "External link warnings will be shown again. You will need to add trusted domains individually."
-msgstr "Les avertissements de lien externe seront à nouveau affichés. Vous devrez ajouter les domaines de confiance individuellement."
+msgstr "Les avertissements de lien externe seront à nouveau affichés. Tu dois ajouter les domaines de confiance individuellement."
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:350
 msgid "external links"
@@ -9144,7 +9144,7 @@ msgstr "liens externes"
 #: src/components/modals/tabs/ChatSettingsTab.tsx:63
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:346
 msgid "External Links"
-msgstr "Liens externes"
+msgstr "Liens Externes"
 
 #: src/components/modals/ExternalLinkWarningModal.tsx:77
 msgid "External links can be dangerous. Please be careful."
@@ -9156,12 +9156,12 @@ msgstr "urls externes"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:123
 msgid "Extra Large"
-msgstr "Très grand"
+msgstr "Très Grand"
 
 #: src/components/pages/report/OptionDescriptors.tsx:72
 #: src/constants/IARConstants.tsx:165
 msgid "Extremist Community"
-msgstr "Communauté extrémiste"
+msgstr "Communauté Extrémiste"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:204
 msgid "faded unread"
@@ -9169,7 +9169,7 @@ msgstr "non-lu estompe"
 
 #: src/utils/RelationshipActionUtils.tsx:90
 msgid "Failed to accept friend request. Please try again."
-msgstr "Impossible d'accepter la demande d'ami. Réessaie."
+msgstr "Échec d'acceptation la demande d'ami. Réessaie."
 
 #: src/components/alerts/InviteAcceptFailedModal.tsx:27
 msgid "Failed to Accept Invite"
@@ -9177,27 +9177,27 @@ msgstr "Échec de l'acceptation de l'invitation"
 
 #: src/utils/modals/AddFriendsToGroupModalUtils.tsx:98
 msgid "Failed to add friend to group"
-msgstr "Impossible d'ajouter l'ami au groupe"
+msgstr "Échec d'ajout de l'ami au groupe"
 
 #: src/components/modals/BanMemberModal.tsx:83
 msgid "Failed to ban member. Please try again."
-msgstr "Impossible de bannir le membre. Réessaie."
+msgstr "Échec de bannissement du membre. Réessaie."
 
 #: src/utils/RelationshipActionUtils.tsx:136
 msgid "Failed to block user. Please try again."
-msgstr "Impossible de bloquer l'utilisateur. Réessaie."
+msgstr "Échec de bloquage de l'utilisateur. Réessaie."
 
 #: src/utils/RelationshipActionUtils.tsx:100
 msgid "Failed to cancel friend request. Please try again."
-msgstr "Impossible d'annuler la demande d'ami. Réessaie."
+msgstr "Échec d'annulation de la demande d'ami. Réessaie."
 
 #: src/components/modals/components/plutonium/hooks/useSubscriptionActions.tsx:55
 msgid "Failed to cancel subscription. Please try again."
-msgstr "Impossible d'annuler l'abonnement. Réessaie."
+msgstr "Échec d'annulation de l'abonnement. Réessaie."
 
 #: src/components/modals/tabs/privacy_safety_tab/DataDeletionTab.tsx:125
 msgid "Failed to cancel the deletion. Please try again."
-msgstr "Impossible d'annuler la suppression. Réessaie."
+msgstr "Échec d'annulation de la suppression. Réessaie."
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:148
 msgid "Failed to clear trusted domains."
@@ -9205,7 +9205,7 @@ msgstr "Échec de l'effacement des domaines de confiance."
 
 #: src/components/alerts/DMCloseFailedModal.tsx:28
 msgid "Failed to Close DM"
-msgstr "Échec de la fermeture du DM"
+msgstr "Échec de la fermeture du MP"
 
 #: src/components/pages/SsoCallbackPage.tsx:95
 msgid "Failed to complete SSO login"
@@ -9217,15 +9217,15 @@ msgstr "Échec de la connexion à l'instance"
 
 #: src/utils/modals/AddFriendsToGroupModalUtils.tsx:149
 msgid "Failed to copy invite link"
-msgstr "Impossible de copier le lien d'invitation"
+msgstr "Échec de copie du lien d'invitation"
 
 #: src/actions/TextCopyActionCreators.tsx:72
 msgid "Failed to copy to clipboard"
-msgstr "Impossible de copier dans le presse-papiers"
+msgstr "Échec de copie dans le presse-papiers"
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:81
 msgid "Failed to copy URL"
-msgstr "Impossible de copier l'URL"
+msgstr "Échec de copie de l'URL"
 
 #: src/components/alerts/RoleCreateFailedModal.tsx:27
 msgid "Failed to Create Role"
@@ -9233,46 +9233,46 @@ msgstr "Échec de la création du rôle"
 
 #: src/components/modals/AddGuildStickerModal.tsx:93
 msgid "Failed to create sticker"
-msgstr "Impossible de créer l'autocollant"
+msgstr "Échec de création de l'sticker"
 
 #: src/components/modals/channel_tabs/ChannelWebhooksTab.tsx:116
 msgid "Failed to create webhook"
-msgstr "Impossible de créer le webhook"
+msgstr "Échec de création du webhook"
 
 #: src/components/modals/AssetCropModal.tsx:211
 msgid "Failed to crop avatar. Please try again."
-msgstr "Impossible de rogner l'avatar. Réessaie."
+msgstr "Rogner l'avatar a échoué. Réessaie."
 
 #: src/components/modals/AssetCropModal.tsx:220
 msgid "Failed to crop background. Please try again."
-msgstr "Impossible de rogner l'arrière-plan. Réessaie."
+msgstr "Rogner l'arrière-plan a échoué. Réessaie."
 
 #: src/components/modals/AssetCropModal.tsx:217
 msgid "Failed to crop banner. Please try again."
-msgstr "Impossible de rogner la bannière. Réessaie."
+msgstr "Rogner la bannière a échoué. Réessaie."
 
 #: src/components/modals/AssetCropModal.tsx:214
 msgid "Failed to crop icon. Please try again."
-msgstr "Impossible de rogner l'icône. Réessaie."
+msgstr "Rogner l'icône a échoué. Réessaie."
 
 #: src/components/modals/tabs/applications_tab/ApplicationDetail.tsx:418
 msgid "Failed to delete application. Please try again."
-msgstr "Impossible de supprimer l'application. Réessaie."
+msgstr "Échec de la suppression de l'application. Réessaie."
 
 #: src/components/uikit/context_menu/items/CategoryMenuData.tsx:201
 #: src/components/uikit/context_menu/items/CategoryMenuItems.tsx:340
 msgid "Failed to delete category"
-msgstr "Impossible de supprimer la catégorie"
+msgstr "Échec de la suppression de la catégorie"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:797
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:268
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:343
 msgid "Failed to delete channel"
-msgstr "Impossible de supprimer le canal"
+msgstr "Échec de la suppression du canal"
 
 #: src/components/modals/guild_tabs/GuildEmojiTab.tsx:165
 msgid "Failed to delete emoji. Please try again."
-msgstr "Échec de la suppression de l'emoji. Veuillez réessayer."
+msgstr "Échec de la suppression de l'émoji. Veuillez réessayer."
 
 #: src/components/alerts/RoleDeleteFailedModal.tsx:33
 msgid "Failed to Delete Role"
@@ -9280,11 +9280,11 @@ msgstr "Échec de la suppression du rôle"
 
 #: src/components/webhooks/WebhookListItem.tsx:126
 msgid "Failed to delete webhook"
-msgstr "Impossible de supprimer le webhook"
+msgstr "Échec de la suppression du webhook"
 
 #: src/components/modals/CameraPreviewModal.tsx:357
 msgid "Failed to enable camera."
-msgstr "Impossible d'activer la caméra."
+msgstr "Échec de l'activation de la caméra."
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:108
 msgid "Failed to forget authorized IPs. Please try again."
@@ -9296,19 +9296,19 @@ msgstr "Échec du transfert du message"
 
 #: src/components/auth/DesktopHandoffAccountSelector.tsx:76
 msgid "Failed to generate handoff code"
-msgstr "Impossible de générer le code de transfert"
+msgstr "Échec de généreration du code de transfert"
 
 #: src/utils/modals/AddFriendsToGroupModalUtils.tsx:135
 msgid "Failed to generate invite link"
-msgstr "Impossible de générer le lien d'invitation"
+msgstr "Échec de généreration du lien d'invitation"
 
 #: src/components/modals/ShareThemeModal.tsx:81
 msgid "Failed to generate theme link."
-msgstr "Impossible de générer le lien de thème."
+msgstr "Échec de généreration du lien de thème."
 
 #: src/utils/RelationshipActionUtils.tsx:190
 msgid "Failed to ignore friend request. Please try again."
-msgstr "Impossible d'ignorer la demande d'ami. Réessaie."
+msgstr "Ignorer la demande d'ami a échoué. Réessaie."
 
 #: src/actions/ConnectionActionCreators.tsx:77
 msgid "Failed to initiate connection"
@@ -9316,11 +9316,11 @@ msgstr "Échec de l'initiation de la connexion"
 
 #: src/actions/InviteActionCreators.tsx:326
 msgid "Failed to install this emoji pack. Please try again later."
-msgstr "Impossible d'installer ce pack d'emoji. Réessaie plus tard."
+msgstr "Échec d'installation de ce pack d'émoji. Réessaie plus tard."
 
 #: src/actions/InviteActionCreators.tsx:327
 msgid "Failed to install this sticker pack. Please try again later."
-msgstr "Impossible d'installer ce pack d'autocollants. Réessaie plus tard."
+msgstr "Échec d'installation de ce pack d'stickers. Réessaie plus tard."
 
 #: src/components/modals/discovery/DiscoveryGuildCard.tsx:62
 msgid "Failed to join this community. Please try again."
@@ -9328,15 +9328,15 @@ msgstr "Échec de l'adhésion à cette communauté. Veuillez réessayer."
 
 #: src/components/modals/KickMemberModal.tsx:45
 msgid "Failed to kick member. Please try again."
-msgstr "Impossible d'expulser le membre. Réessaie."
+msgstr "Échec d'expulsion du membre. Réessaie."
 
 #: src/hooks/useLeaveGuild.tsx:60
 msgid "Failed to Leave Community"
-msgstr "Échec de la sortie de la communauté"
+msgstr "Échec de la Sortie de la Communauté"
 
 #: src/components/alerts/GroupLeaveFailedModal.tsx:29
 msgid "Failed to Leave Group"
-msgstr "Échec de la sortie du groupe"
+msgstr "Échec de la Sortie du Groupe"
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:199
 msgid "Failed to load"
@@ -9345,11 +9345,11 @@ msgstr "Échec du chargement"
 #: src/components/modals/tabs/AuthorizedAppsTab.tsx:74
 #: src/components/modals/tabs/AuthorizedAppsTab.tsx:115
 msgid "Failed to Load Authorized Applications"
-msgstr "Échec du chargement des applications autorisées"
+msgstr "Échec du Chargement des Applications Autorisées"
 
 #: src/components/modals/guild_tabs/GuildBansTab.tsx:68
 msgid "Failed to load bans. Please try again."
-msgstr "Impossible de charger les bannissements. Réessaie."
+msgstr "Échec du chargement des bannissements. Réessaie."
 
 #: src/components/modals/guild_tabs/GuildEmojiTab.tsx:336
 msgid "Failed to load emojis. Please try again later."
@@ -9363,27 +9363,27 @@ msgstr "Échec du chargement de l'inventaire des cadeaux"
 #: src/components/modals/channel_tabs/ChannelInvitesTab.tsx:227
 #: src/components/modals/guild_tabs/GuildInvitesTab.tsx:121
 msgid "Failed to Load Invites"
-msgstr "Échec du chargement des invitations"
+msgstr "Échec du Chargement des Invitations"
 
 #: src/components/modals/GroupInvitesModal.tsx:133
 msgid "Failed to load invites. Please try again."
-msgstr "Impossible de charger les invitations. Réessaie."
+msgstr "Échec du chargement des invitations. Réessaie."
 
 #: src/components/modals/components/plutonium/hooks/usePremiumData.tsx:47
 msgid "Failed to load premium information. Please try again later."
-msgstr "Impossible de charger les infos premium. Réessaie plus tard."
+msgstr "Échec du chargement des infos premium. Réessaie plus tard."
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:230
 msgid "Failed to Load Stickers"
-msgstr "Échec du chargement des autocollants"
+msgstr "Échec du chargement des stickers"
 
 #: src/components/modals/guild_tabs/GuildVanityURLTab.tsx:92
 msgid "Failed to load vanity URL. Please try again."
-msgstr "Impossible de charger l'URL personnalisée. Réessaie."
+msgstr "Échec du chargement de l'URL personnalisée. Réessaie."
 
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:223
 msgid "Failed to load voice regions for this channel."
-msgstr "Impossible de charger les régions vocales pour ce canal."
+msgstr "Échec du chargement des régions vocales pour ce canal."
 
 #: src/components/modals/channel_tabs/ChannelWebhooksTab.tsx:158
 #: src/components/modals/guild_tabs/GuildWebhooksTab.tsx:134
@@ -9392,33 +9392,33 @@ msgstr "Échec du chargement des webhooks"
 
 #: src/components/pages/OAuthAuthorizePage.tsx:216
 msgid "Failed to load your communities."
-msgstr "Impossible de charger tes communautés."
+msgstr "Échec du chargement de tes communautés."
 
 #: src/components/modals/components/plutonium/hooks/useSubscriptionActions.tsx:42
 msgid "Failed to open customer portal. Please try again."
-msgstr "Impossible d'ouvrir le portail client. Réessaie."
+msgstr "Échec de l'ouverture du portail client. Réessaie."
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:686
 #: src/components/channel/direct_message/DMList.tsx:520
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:401
 msgid "Failed to pin DM"
-msgstr "Impossible d'épingler le MP"
+msgstr "Échec de l'épinglage du MP"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:686
 msgid "Failed to pin group"
-msgstr "Impossible d'épingler le groupe"
+msgstr "Échec de l'épinglage du groupe"
 
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:401
 msgid "Failed to pin group DM"
-msgstr "Échec de l'épinglage du DM de groupe"
+msgstr "Échec de l'épinglage du MP de groupe"
 
 #: src/components/alerts/PinFailedModal.tsx:33
 msgid "Failed to pin message"
-msgstr "Impossible d'épingler le message"
+msgstr "Échec de l'épinglage du message"
 
 #: src/components/modals/guild_tabs/GuildEmojiTab.tsx:241
 msgid "Failed to Prepare Emojis"
-msgstr "Impossible de préparer les emojis"
+msgstr "Échec de la Préparation des Émojis"
 
 #: src/components/modals/AddGuildModal.tsx:248
 #: src/components/modals/EditGroupBottomSheet.tsx:106
@@ -9427,56 +9427,56 @@ msgstr "Impossible de préparer les emojis"
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:210
 #: src/components/modals/tabs/my_profile_tab/BannerUploader.tsx:122
 msgid "Failed to process the cropped image. Please try again."
-msgstr "Impossible de traiter l'image recadrée. Réessaie."
+msgstr "Échec du traitement de l'image recadrée. Réessaie."
 
 #: src/components/modals/components/plutonium/hooks/useSubscriptionActions.tsx:68
 msgid "Failed to reactivate subscription. Please try again."
-msgstr "Impossible de réactiver l'abonnement. Réessaie."
+msgstr "Échec de la réactivation de l'abonnement. Réessaie."
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:96
 msgid "Failed to redeem gift"
-msgstr "Impossible d'échanger le cadeau"
+msgstr "Échec de l'activation du cadeau"
 
 #: src/actions/GiftActionCreators.tsx:152
 #: src/actions/GiftActionCreators.tsx:163
 msgid "Failed to Redeem Gift"
-msgstr "Impossible d'échanger le cadeau"
+msgstr "Échec de l'Activation du Cadeau"
 
 #: src/components/modals/components/plutonium/hooks/useCommunityActions.tsx:75
 msgid "Failed to rejoin the Operators community. Please try again."
-msgstr "Impossible de rejoindre à nouveau la communauté Operators. Réessaie."
+msgstr "La tentative de rejoindre à nouveau la communauté Operators a échoué. Réessaie."
 
 #: src/components/modals/components/plutonium/hooks/useCommunityActions.tsx:74
 msgid "Failed to rejoin the Visionary community. Please try again."
-msgstr "Impossible de rejoindre à nouveau la communauté Visionary. Réessaie."
+msgstr "La tentative de rejoindre à nouveau la communauté Visionary a échoué. Réessaie."
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:457
 msgid "Failed to remove background image. Please try again."
-msgstr "Impossible de supprimer l'image de fond. Réessaie."
+msgstr "Échec de suppression de l'image de fond. Réessaie."
 
 #: src/components/modals/tabs/notifications_tab/useSoundSettings.tsx:144
 msgid "Failed to remove custom sound"
-msgstr "Impossible de supprimer le son personnalisé"
+msgstr "Échec de suppression du son personnalisé"
 
 #: src/components/modals/tabs/hooks/useEntranceSound.tsx:115
 msgid "Failed to remove entrance sound"
-msgstr "Impossible de supprimer le son d'entrée"
+msgstr "Échec de suppression du son d'entrée"
 
 #: src/utils/RelationshipActionUtils.tsx:110
 msgid "Failed to remove friend. Please try again."
-msgstr "Impossible de supprimer l'ami. Réessaie."
+msgstr "Échec de suppression de l'ami. Réessaie."
 
 #: src/components/alerts/GroupRemoveUserFailedModal.tsx:36
 msgid "Failed to Remove from Group"
-msgstr "Échec de la suppression du groupe"
+msgstr "Échec de l'Expulsion du Groupe"
 
 #: src/components/modals/RemoveTimeoutModal.tsx:57
 msgid "Failed to remove timeout. Please try again."
-msgstr "Impossible de lever le timeout. Réessaie."
+msgstr "Lever le timeout a échoué. Réessaie."
 
 #: src/components/pages/ReportPage.tsx:241
 msgid "Failed to resend code. Please try again."
-msgstr "Échec de la nouvelle envoi du code. Veuillez réessayer."
+msgstr "Échec du renvoi du code. Veuillez réessayer."
 
 #: src/components/modals/RequiredActionModal.tsx:375
 msgid "Failed to resend verification code. Please try again later."
@@ -9484,7 +9484,7 @@ msgstr "Échec de l'envoi du code de vérification. Veuillez réessayer plus tar
 
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:685
 msgid "Failed to reset hoist order"
-msgstr "Impossible de réinitialiser l'ordre de surélévation"
+msgstr "Échec de la réinitialisation de l'ordre de surélévation"
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:186
 msgid "Failed to reset premium state."
@@ -9492,7 +9492,7 @@ msgstr "Échec de la réinitialisation de l'état premium."
 
 #: src/components/modals/guild_tabs/GuildBansTab.tsx:116
 msgid "Failed to revoke ban. Please try again."
-msgstr "Impossible de lever l'interdiction. Réessaie."
+msgstr "Échec de la levée du bannissement. Réessaie."
 
 #: src/components/alerts/InviteRevokeFailedModal.tsx:28
 msgid "Failed to Revoke Invite"
@@ -9500,45 +9500,45 @@ msgstr "Échec de la révocation de l'invitation"
 
 #: src/components/modals/tabs/applications_tab/ApplicationDetail.tsx:455
 msgid "Failed to rotate. Please try again."
-msgstr "Impossible de faire pivoter. Réessaie."
+msgstr "Échec de la rotation. Réessaie."
 
 #: src/utils/RelationshipActionUtils.tsx:53
 msgid "Failed to send friend request. Please try again."
-msgstr "Impossible d'envoyer la demande d'ami. Réessaie."
+msgstr "Échec d'envoi la demande d'ami. Réessaie."
 
 #: src/components/channel/direct_message/DMList.tsx:487
 #: src/components/modals/InviteModal.tsx:175
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:284
 #: src/components/uikit/context_menu/items/InviteMenuItems.tsx:124
 msgid "Failed to send invite. Please try again."
-msgstr "Échec de l'envoi de l'invitation. Veuillez réessayer."
+msgstr "Échec de l'envoi de l'invitation. Réessaie."
 
 #: src/components/channel/UserMessage.tsx:432
 #: src/components/channel/UserMessage.tsx:563
 msgid "Failed to send message. Hold for options."
-msgstr "Impossible d'envoyer le message. Maintiens pour les options."
+msgstr "Échec d'envoi du message. Maintiens pour les options."
 
 #: src/components/modals/SudoVerificationModal.tsx:197
 msgid "Failed to send SMS code. Please try again."
-msgstr "Impossible d'envoyer le code SMS. Réessaie."
+msgstr "Échec d'envoi du code SMS. Réessaie."
 
 #: src/components/modals/ShareThemeModal.tsx:124
 msgid "Failed to send theme link. Please try again."
-msgstr "Échec de l'envoi du lien du thème. Veuillez réessayer."
+msgstr "Échec de l'envoi du lien du thème. Réessaie."
 
 #: src/components/pages/ReportPage.tsx:239
 msgid "Failed to send verification code. Please try again."
-msgstr "Impossible d'envoyer le code de vérification. Réessaie."
+msgstr "Échec de l'envoi du code de vérification. Réessaie."
 
 #: src/components/modals/components/EmailVerificationAlert.tsx:46
 #: src/components/modals/RequiredActionModal.tsx:341
 #: src/components/modals/RequiredActionModal.tsx:357
 msgid "Failed to send verification email. Please try again later."
-msgstr "Impossible d'envoyer l'Email de vérification. Réessaie plus tard."
+msgstr "Échec de l'envoi de l'Email de vérification. Réessaie plus tard."
 
 #: src/components/BootstrapErrorScreen.tsx:49
 msgid "Failed to Start"
-msgstr "Impossible de démarrer"
+msgstr "Échec du Démarrage"
 
 #: src/actions/ConnectionActionCreators.tsx:88
 msgid "Failed to start Bluesky authorisation"
@@ -9546,11 +9546,11 @@ msgstr "Échec du démarrage de l'autorisation Bluesky"
 
 #: src/components/modals/CameraPreviewModal.tsx:321
 msgid "Failed to start camera preview. Please check your camera permissions."
-msgstr "Impossible de lancer la prévisualisation de la caméra. Vérifie les autorisations."
+msgstr "Échec du démarrage de la prévisualisation de la caméra. Vérifie les autorisations."
 
 #: src/components/modals/components/plutonium/hooks/useCheckoutActions.tsx:57
 msgid "Failed to start checkout. Please try again."
-msgstr "Impossible de lancer le paiement. Réessaie."
+msgstr "Échec du démarrage du processus de paiement. Réessaie."
 
 #: src/components/auth/AuthLoginLayout.tsx:196
 msgid "Failed to start SSO"
@@ -9558,16 +9558,16 @@ msgstr "Échec du démarrage de SSO"
 
 #: src/components/modals/IARModal.tsx:168
 msgid "Failed to submit report. Please try again."
-msgstr "Impossible de soumettre le rapport. Réessaie."
+msgstr "Échec de soumission du rapport. Réessaie."
 
 #: src/components/auth/AuthLoginLayout.tsx:173
 msgid "Failed to switch account"
-msgstr "Impossible de changer de compte"
+msgstr "Échec du changement de compte"
 
 #: src/components/modals/TimeoutMemberModal.tsx:134
 #: src/components/modals/TimeoutMemberSheet.tsx:74
 msgid "Failed to timeout member. Please try again."
-msgstr "Impossible de mettre le membre en timeout. Réessaie."
+msgstr "Échec de mise en temps mort du membre. Réessaie."
 
 #: src/components/alerts/GroupOwnershipTransferFailedModal.tsx:36
 msgid "Failed to Transfer Ownership"
@@ -9575,29 +9575,29 @@ msgstr "Échec du transfert de propriété"
 
 #: src/components/modals/TransferOwnershipModal.tsx:61
 msgid "Failed to transfer ownership. Please try again."
-msgstr "Impossible de transférer la propriété. Réessaie."
+msgstr "Échec du transfert de propriété. Réessaie."
 
 #: src/utils/RelationshipActionUtils.tsx:164
 msgid "Failed to unblock user. Please try again."
-msgstr "Impossible de débloquer l'utilisateur. Réessaie."
+msgstr "Échec du déblocage de l'utilisateur. Réessaie."
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:703
 #: src/components/channel/direct_message/DMList.tsx:530
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:418
 msgid "Failed to unpin DM"
-msgstr "Impossible de désépingler le MP"
+msgstr "Échec du désépinglage du MP"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:703
 msgid "Failed to unpin group"
-msgstr "Impossible de désépingler le groupe"
+msgstr "Échec du désépinglage du groupe"
 
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:418
 msgid "Failed to unpin group DM"
-msgstr "Échec du désépinglage du DM de groupe"
+msgstr "Échec du désépinglage du MP de groupe"
 
 #: src/components/alerts/PinFailedModal.tsx:33
 msgid "Failed to unpin message"
-msgstr "Impossible de désépingler le message"
+msgstr "Échec du désépinglage du message"
 
 #: src/components/modals/EditAltTextModal.tsx:99
 msgid "Failed to update alt text"
@@ -9609,40 +9609,40 @@ msgstr "Échec de la mise à jour des permissions de canal"
 
 #: src/components/emojis/EmojiListItem.tsx:181
 msgid "Failed to update emoji name. Reverted to the previous name."
-msgstr "Impossible de modifier le nom de l'emoji. Le nom précédent a été restauré."
+msgstr "Échec de la modification le nom de l'émoji. Le nom précédent a été restauré."
 
 #: src/components/alerts/RoleUpdateFailedModal.tsx:29
 msgid "Failed to Update Roles"
-msgstr "Échec de la mise à jour des rôles"
+msgstr "Échec de la Mise à Jour des Rôles"
 
 #: src/components/modals/EditGuildStickerModal.tsx:81
 msgid "Failed to update sticker"
-msgstr "Impossible de mettre à jour l'autocollant"
+msgstr "Échec de la mise à jour de l'sticker"
 
 #: src/hooks/useWebhookUpdates.tsx:88
 msgid "Failed to update webhooks"
-msgstr "Impossible de mettre à jour les webhooks"
+msgstr "Échec de la mise à jour des webhooks"
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:363
 msgid "Failed to upload background image. Please try again."
-msgstr "Impossible de télécharger l'image de fond. Réessaie."
+msgstr "Échec du téléversement de l'image de fond. Réessaie."
 
 #: src/components/modals/tabs/notifications_tab/useSoundSettings.tsx:122
 msgid "Failed to upload custom sound"
-msgstr "Impossible de télécharger le son personnalisé"
+msgstr "Échec du téléversement du son personnalisé"
 
 #. placeholder {0}: startIndex + 1
 #: src/components/modals/guild_tabs/GuildEmojiTab.tsx:293
 msgid "Failed to upload emojis starting at #{0}: {errorMsg}"
-msgstr "Échec du téléchargement des emojis à partir de #{0} : {errorMsg}"
+msgstr "Échec du téléversement des émojis à partir de #{0} : {errorMsg}"
 
 #: src/components/modals/guild_tabs/GuildEmojiTab.tsx:289
 msgid "Failed to upload emojis. Please try again."
-msgstr "Impossible de télécharger les emojis. Réessaie."
+msgstr "Échec du téléversement des émojis. Réessaie."
 
 #: src/components/modals/tabs/hooks/useEntranceSound.tsx:95
 msgid "Failed to upload entrance sound"
-msgstr "Impossible de télécharger le son d'entrée"
+msgstr "Échec du téléversement du son d'entrée"
 
 #: src/actions/ConnectionActionCreators.tsx:116
 msgid "Failed to verify connection"
@@ -9662,20 +9662,20 @@ msgstr "false"
 
 #: src/components/modals/AddGuildModal.tsx:183
 msgid "Family Chat"
-msgstr "Discussion familiale"
+msgstr "Discussion Familiale"
 
 #: src/components/modals/AddGuildModal.tsx:158
 msgid "Family Reunion"
-msgstr "Réunion de famille"
+msgstr "Réunion de Famille"
 
 #: src/components/modals/tabs/AccessibilityTab.tsx:183
 msgid "Faster"
-msgstr "Plus rapide"
+msgstr "Plus Rapide"
 
 #: src/components/channel/direct_message/DMList.tsx:211
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:386
 msgid "Favorite Channel"
-msgstr "Salon favori"
+msgstr "Salon Favori"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:235
 msgid "favorite channels"
@@ -9684,25 +9684,25 @@ msgstr "canaux favoris"
 #: src/components/channel/direct_message/DMList.tsx:206
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:381
 msgid "Favorite DM"
-msgstr "MP favori"
+msgstr "MP Favori"
 
 #: src/components/channel/emoji_picker/EmojiRenderer.tsx:122
 msgid "Favorite Emoji"
-msgstr "Emoji favori"
+msgstr "Émoji Favori"
 
 #: src/components/channel/direct_message/DMList.tsx:209
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:384
 msgid "Favorite Group DM"
-msgstr "MP de groupe favori"
+msgstr "MP de Groupe Favori"
 
 #: src/components/channel/sticker_picker/VirtualRow.tsx:269
 msgid "Favorite Sticker"
-msgstr "Autocollant favori"
+msgstr "sticker Favori"
 
 #: src/components/channel/emoji_picker/hooks/useVirtualRows.tsx:59
 #: src/components/channel/sticker_picker/hooks/useVirtualRows.tsx:70
 msgid "Favorited"
-msgstr "Ajouté aux favoris"
+msgstr "Ajouté aux Favoris"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:206
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:235
@@ -9728,7 +9728,7 @@ msgstr "Fonctionnalité"
 
 #: src/components/alerts/FeatureTemporarilyDisabledModal.tsx:28
 msgid "Feature Temporarily Disabled"
-msgstr "Fonctionnalité momentanément désactivée"
+msgstr "Fonctionnalité Momentanément Désactivée"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:269
 msgid "features"
@@ -9753,7 +9753,7 @@ msgstr "Le fichier est trop volumineux pour un aperçu en ligne (limite {PREVIEW
 
 #: src/components/channel/MediaActionBottomSheet.tsx:109
 msgid "File Options"
-msgstr "Options de fichier"
+msgstr "Options de Fichier"
 
 #: src/components/alerts/FileSizeTooLargeModal.tsx:76
 msgid "File size limit exceeded"
@@ -9773,7 +9773,7 @@ msgstr "Nom de fichier"
 
 #: src/utils/SearchUtils.tsx:318
 msgid "filename:"
-msgstr "nom de fichier :"
+msgstr "nom de fichier :"
 
 #: src/components/modals/UploadDropModal.tsx:54
 msgid "Files will be sent immediately without preview."
@@ -9806,7 +9806,7 @@ msgstr "Filtrer les mentions"
 
 #: src/components/modals/tabs/VoiceTab.tsx:419
 msgid "Filters out background noise like fans and keyboard typing"
-msgstr "Élimine les bruits de fond comme les ventilateurs et le clavier"
+msgstr "Élimine les bruits de fond comme les ventilateurs et les bruits de touches du clavier"
 
 #: src/components/modals/CameraPreviewModal.tsx:461
 msgid "Finalizing camera..."
@@ -9814,15 +9814,15 @@ msgstr "Finalisation de la caméra…"
 
 #: src/stores/KeybindStore.tsx:120
 msgid "Find or Start a Direct Message"
-msgstr "Trouve ou lance un message direct"
+msgstr "Trouve ou Lance un Message Privé"
 
 #: src/components/channel/emoji_picker/EmojiPickerSearchBar.tsx:179
 msgid "Find the emoji of your dreams"
-msgstr "Trouve l'emoji de tes rêves"
+msgstr "Trouve l'émoji de tes rêves"
 
 #: src/components/channel/sticker_picker/StickerPickerSearchBar.tsx:177
 msgid "Find the perfect sticker"
-msgstr "Trouve l'autocollant parfait"
+msgstr "Trouve le sticker parfait"
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:466
 msgid "Fine-tune core colors and fonts for this app. Changes here are stored as custom CSS overrides and sync with the editor below."
@@ -9843,11 +9843,11 @@ msgstr "Prénom et nom"
 #: src/components/modals/tabs/component_gallery_tab/index.tsx:84
 #: src/components/modals/tabs/component_gallery_tab/Inline.tsx:79
 msgid "First Option"
-msgstr "Première option"
+msgstr "Première Option"
 
 #: src/components/modals/AddGuildModal.tsx:171
 msgid "Fitness Friends"
-msgstr "Amis sportifs"
+msgstr "Amis Sportifs"
 
 #: src/lib/UnicodeEmojis.tsx:248
 msgid "Flags"
@@ -9875,11 +9875,11 @@ msgstr "Fluxer évite d'envoyer des notifications push à tes appareils mobiles 
 
 #: src/components/popouts/UserProfileBadges.tsx:115
 msgid "Fluxer Bug Hunter"
-msgstr "Chasseur de bugs Fluxer"
+msgstr "Chasseur de Bugs Fluxer"
 
 #: src/components/popouts/UserProfileBadges.tsx:95
 msgid "Fluxer Community Team"
-msgstr "Équipe communautaire Fluxer"
+msgstr "Équipe Communautaire Fluxer"
 
 #: src/components/modals/tabs/DevicesTab.tsx:99
 msgid "Fluxer Desktop"
@@ -9899,7 +9899,7 @@ msgstr "Fluxer a détecté un nouvel appareil de sortie audio nommé <0>{deviceN
 
 #: src/components/popouts/UserProfileShared.tsx:238
 msgid "Fluxer Member Since"
-msgstr "Membre Fluxer depuis"
+msgstr "Membre Fluxer Depuis"
 
 #: src/components/modals/tabs/VoiceTab.tsx:212
 msgid "Fluxer needs access to list the available microphones and speakers."
@@ -9983,17 +9983,17 @@ msgstr "focus"
 
 #: src/stores/KeybindStore.tsx:468
 msgid "Focus Text Area"
-msgstr "Focus sur la zone de texte"
+msgstr "Focus sur la Zone de Texte"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:364
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:593
 msgid "Focus This Device"
-msgstr "Focus sur cet appareil"
+msgstr "Focus sur Cet Appareil"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:365
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:594
 msgid "Focus This Person"
-msgstr "Focus sur cette personne"
+msgstr "Focus sur Cette Personne"
 
 #: src/components/layout/guild_list/GuildFolderItem.tsx:133
 #: src/components/modals/GuildFolderSettingsModal.tsx:91
@@ -10668,7 +10668,7 @@ msgstr "Content que tu sois là, {username} ! Fais gaffe à Biff !"
 
 #: src/components/modals/components/FeatureComparisonTable.tsx:56
 msgid "Global emoji & sticker access"
-msgstr "Accès global aux émojis et autocollants"
+msgstr "Accès global aux émojis et stickers"
 
 #: src/components/modals/tabs/my_profile_tab/ProfileTypeSelector.tsx:40
 msgid "Global Profile"
@@ -14088,7 +14088,7 @@ msgstr "Plus d'options"
 
 #: src/utils/modals/guild_tabs/GuildAuditLogTabUtils.tsx:274
 msgid "More sticker slots"
-msgstr "Plus d'emplacements d'autocollants"
+msgstr "Plus d'emplacements d'stickers"
 
 #: src/components/modals/components/PricingCard.tsx:95
 msgid "Most popular"
@@ -14369,7 +14369,7 @@ msgstr "Mes médias géniaux"
 
 #: src/components/modals/sticker_form/StickerFormFields.tsx:96
 msgid "My awesome sticker"
-msgstr "Mon autocollant génial"
+msgstr "Mon sticker génial"
 
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:480
 msgid "My Category"
@@ -14993,20 +14993,20 @@ msgstr "Aucune portée spécifique demandée."
 #: src/components/channel/MobileStickersPicker.tsx:180
 #: src/components/channel/StickersPicker.tsx:244
 msgid "No Stickers Available"
-msgstr "Aucun autocollant disponible"
+msgstr "Aucun sticker disponible"
 
 #: src/components/channel/MobileStickersPicker.tsx:206
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:207
 msgid "No Stickers Found"
-msgstr "Aucun autocollant trouvé"
+msgstr "Aucun sticker trouvé"
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:208
 msgid "No stickers found matching your search."
-msgstr "Aucun autocollant ne correspond à ta recherche."
+msgstr "Aucun sticker ne correspond à ta recherche."
 
 #: src/components/channel/StickersPicker.tsx:327
 msgid "No stickers match your search"
-msgstr "Aucun autocollant ne correspond à votre recherche"
+msgstr "Aucun sticker ne correspond à votre recherche"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/SystemWelcomeSection.tsx:40
 msgid "No System Channel"
@@ -15624,7 +15624,7 @@ msgstr "Ouvrir ou fermer le sélecteur de médias enregistrés"
 
 #: src/stores/KeybindStore.tsx:261
 msgid "Open or close the sticker picker"
-msgstr "Ouvrir ou fermer le sélecteur d'autocollants"
+msgstr "Ouvrir ou fermer le sélecteur d'stickers"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:177
 msgid "Open Overlay"
@@ -16853,7 +16853,7 @@ msgstr "Supprimer cet émoji du stockage et du CDN"
 
 #: src/components/stickers/StickerGridItem.tsx:75
 msgid "Purge this sticker from storage and CDN"
-msgstr "Supprimer cet autocollant du stockage et du CDN"
+msgstr "Supprimer cet sticker du stockage et du CDN"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:613
 msgid "push"
@@ -17507,7 +17507,7 @@ msgstr "Supprimer le spoiler"
 #: src/components/channel/ChannelStickersArea.tsx:80
 #: src/components/channel/ChannelStickersArea.tsx:82
 msgid "Remove sticker"
-msgstr "Supprimer l'autocollant"
+msgstr "Supprimer l'sticker"
 
 #: src/stores/KeybindStore.tsx:326
 msgid "Remove the focused message"
@@ -17679,7 +17679,7 @@ msgstr "Renommé de {oldLabel} en {newLabel}."
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:709
 msgid "Renamed sticker to {0}."
-msgstr "Autocollant renommé en {0}."
+msgstr "sticker renommé en {0}."
 
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:421
@@ -19090,7 +19090,7 @@ msgstr "a envoyé {count} pièces jointes"
 
 #: src/utils/TtsUtils.tsx:187
 msgid "sent a sticker"
-msgstr "a envoyé un autocollant"
+msgstr "a envoyé un sticker"
 
 #: src/utils/TtsUtils.tsx:191
 msgid "sent an attachment"
@@ -19707,11 +19707,11 @@ msgstr "Afficher le contenu spoiler lors du clic"
 #: src/components/channel/textarea/TextareaPlusMenu.tsx:119
 #: src/components/modals/tabs/chat_settings_tab/InputTab.tsx:120
 msgid "Show Stickers Button"
-msgstr "Afficher le bouton Autocollants"
+msgstr "Afficher le bouton stickers"
 
 #: src/components/modals/tabs/chat_settings_tab/InputTab.tsx:77
 msgid "Show stickers in expression autocomplete"
-msgstr "Afficher les autocollants dans l'autocomplétion d'expressions"
+msgstr "Afficher les stickers dans l'autocomplétion d'expressions"
 
 #: src/components/modals/tabs/chat_settings_tab/MediaTab.tsx:212
 msgid "Show suppress embeds button"
@@ -20461,69 +20461,69 @@ msgstr "Parcours les messages et les barres d'action dans le chat."
 #: src/utils/SearchUtils.tsx:217
 #: src/utils/SearchUtils.tsx:233
 msgid "sticker"
-msgstr "autocollant"
+msgstr "sticker"
 
 #: src/components/search/HasFilterSheet.tsx:56
 #: src/constants/AuditLogConstants.tsx:244
 msgid "Sticker"
-msgstr "Autocollant"
+msgstr "sticker"
 
 #: src/components/modals/tabs/accessibility_tab/AnimationTab.tsx:155
 msgid "Sticker animation preference"
-msgstr "Préférence d'animation des autocollants"
+msgstr "Préférence d'animation des stickers"
 
 #: src/components/modals/tabs/accessibility_tab/AnimationTab.tsx:142
 msgid "Sticker animations"
-msgstr "Animations des autocollants"
+msgstr "Animations des stickers"
 
 #: src/constants/AuditLogConstants.tsx:190
 msgid "Sticker Created"
-msgstr "Autocollant créé"
+msgstr "sticker créé"
 
 #: src/constants/AuditLogConstants.tsx:200
 msgid "Sticker Deleted"
-msgstr "Autocollant supprimé"
+msgstr "sticker supprimé"
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:154
 msgid "Sticker density"
-msgstr "Densité d'autocollants"
+msgstr "Densité d'stickers"
 
 #: src/components/auth/InviteHeader.tsx:143
 #: src/components/channel/InviteEmbed.tsx:222
 #: src/components/modals/InviteAcceptModal.tsx:159
 #: src/components/modals/tabs/ExpressionPacksTab.tsx:74
 msgid "Sticker pack"
-msgstr "Pack d'autocollants"
+msgstr "Pack d'stickers"
 
 #: src/actions/InviteActionCreators.tsx:291
 msgid "Sticker pack creation limit reached"
-msgstr "Limite de création de packs d'autocollants atteinte"
+msgstr "Limite de création de packs d'stickers atteinte"
 
 #: src/components/modals/PackInviteModal.tsx:78
 msgid "Sticker Pack Invite"
-msgstr "Invitation au pack d'autocollants"
+msgstr "Invitation au pack d'stickers"
 
 #: src/actions/InviteActionCreators.tsx:277
 msgid "Sticker pack limit reached"
-msgstr "Limite de packs d'autocollants atteinte"
+msgstr "Limite de packs d'stickers atteinte"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:285
 msgid "sticker packs"
-msgstr "packs d'autocollants"
+msgstr "packs d'stickers"
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:177
 msgid "Sticker Slots"
-msgstr "Emplacements d'autocollants"
+msgstr "Emplacements d'stickers"
 
 #: src/constants/AuditLogConstants.tsx:195
 msgid "Sticker Updated"
-msgstr "Autocollant mis à jour"
+msgstr "sticker mis à jour"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:285
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:277
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:331
 msgid "stickers"
-msgstr "autocollants"
+msgstr "stickers"
 
 #: src/components/channel/AutocompleteEmoji.tsx:113
 #: src/components/channel/textarea/TextareaButtons.tsx:142
@@ -20532,28 +20532,28 @@ msgstr "autocollants"
 #: src/components/panels/panels/GuildExpressionPickerPanel.tsx:74
 #: src/components/popouts/ExpressionPickerPopout.tsx:81
 msgid "Stickers"
-msgstr "Autocollants"
+msgstr "stickers"
 
 #. placeholder {0}: Math.round(GlobalLimits.getStickerMaxSize() / 1024)
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:183
 msgid "Stickers must be exactly 320x320 pixels and no larger than {0} KB, but we automatically resize and compress images for you. Allowed file types: JPEG, PNG, WebP, GIF."
-msgstr "Les autocollants doivent faire exactement 320x320 pixels et ne pas dépasser {0} Ko, mais nous redimensionnons et compressons automatiquement les images pour toi. Types de fichiers autorisés : JPEG, PNG, WebP, GIF."
+msgstr "Les stickers doivent faire exactement 320x320 pixels et ne pas dépasser {0} Ko, mais nous redimensionnons et compressons automatiquement les images pour toi. Types de fichiers autorisés : JPEG, PNG, WebP, GIF."
 
 #: src/components/modals/tabs/accessibility_tab/AnimationTab.tsx:45
 msgid "Stickers will always animate"
-msgstr "Les autocollants s'animeront toujours"
+msgstr "Les stickers s'animeront toujours"
 
 #: src/components/modals/tabs/accessibility_tab/AnimationTab.tsx:51
 msgid "Stickers will animate when you hover or interact with them"
-msgstr "Les autocollants s'animeront lorsque tu les survoles ou interagis avec eux"
+msgstr "Les stickers s'animeront lorsque tu les survoles ou interagis avec eux"
 
 #: src/components/modals/tabs/accessibility_tab/AnimationTab.tsx:50
 msgid "Stickers will animate when you press them"
-msgstr "Les autocollants s'animeront lorsque tu les appuies"
+msgstr "Les stickers s'animeront lorsque tu les appuies"
 
 #: src/components/modals/tabs/accessibility_tab/AnimationTab.tsx:53
 msgid "Stickers will never animate"
-msgstr "Les autocollants ne s'animeront jamais"
+msgstr "Les stickers ne s'animeront jamais"
 
 #: src/components/modals/tabs/chat_settings_tab/SidebarTab.tsx:72
 msgid "Stop hiding muted channels by default?"
@@ -21188,11 +21188,11 @@ msgstr "La Squad"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:716
 msgid "The sticker was uploaded as animated."
-msgstr "L'autocollant a été téléchargé en tant qu'animé."
+msgstr "L'sticker a été téléchargé en tant qu'animé."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:720
 msgid "The sticker was uploaded as static."
-msgstr "L'autocollant a été téléchargé en tant que statique."
+msgstr "L'sticker a été téléchargé en tant que statique."
 
 #: src/components/modals/tabs/privacy_safety_tab/DataDeletionTab.tsx:83
 msgid "The time to complete depends on how many messages you have sent"
@@ -21978,7 +21978,7 @@ msgstr "Activer/désactiver les médias enregistrés"
 
 #: src/stores/KeybindStore.tsx:260
 msgid "Toggle Sticker Picker"
-msgstr "Activer/désactiver le sélecteur d'autocollants"
+msgstr "Activer/désactiver le sélecteur d'stickers"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:140
 msgid "Toggle switches on and off to see state changes."
@@ -22411,7 +22411,7 @@ msgstr "Impossible d'installer le pack d'émojis"
 
 #: src/actions/InviteActionCreators.tsx:324
 msgid "Unable to install sticker pack"
-msgstr "Impossible d'installer le pack d'autocollants"
+msgstr "Impossible d'installer le pack d'stickers"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.tsx:644
 msgid "Unable to Load Activity Logs"
@@ -22601,7 +22601,7 @@ msgstr "Retirer ce DM de groupe des favoris"
 
 #: src/components/channel/sticker_picker/VirtualRow.tsx:269
 msgid "Unfavorite Sticker"
-msgstr "Retirer cet autocollant des favoris"
+msgstr "Retirer cet sticker des favoris"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:363
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:592
@@ -22725,7 +22725,7 @@ msgstr "Émojis illimités"
 
 #: src/utils/modals/guild_tabs/GuildAuditLogTabUtils.tsx:276
 msgid "Unlimited stickers"
-msgstr "Autocollants illimités"
+msgstr "stickers illimités"
 
 #: src/components/channel/EmojiPicker.tsx:176
 #: src/components/channel/MobileEmojiPicker.tsx:179
@@ -22739,7 +22739,7 @@ msgstr "Déverrouillez {stickerLabel} de {communityLabel} avec Plutonium."
 
 #: src/components/channel/PremiumUpsellBanner.tsx:82
 msgid "Unlock all custom emojis and stickers across all communities with Plutonium"
-msgstr "Débloque tous les émojis et autocollants personnalisés dans toutes les communautés avec Plutonium"
+msgstr "Débloque tous les émojis et stickers personnalisés dans toutes les communautés avec Plutonium"
 
 #: src/utils/ExpressionPermissionUtils.tsx:75
 msgid "Unlock custom emojis in DMs with Plutonium"
@@ -22751,7 +22751,7 @@ msgstr "Débloque les émojis personnalisés externes avec Plutonium"
 
 #: src/utils/ExpressionPermissionUtils.tsx:220
 msgid "Unlock external stickers with Plutonium"
-msgstr "Débloque les autocollants externes avec Plutonium"
+msgstr "Débloque les stickers externes avec Plutonium"
 
 #: src/components/modals/tabs/VideoTab.tsx:271
 msgid "Unlock HD Screen Sharing with Plutonium"
@@ -22771,7 +22771,7 @@ msgstr "Débloque plus d'arrière-plans avec Plutonium"
 
 #: src/utils/ExpressionPermissionUtils.tsx:166
 msgid "Unlock stickers in DMs with Plutonium"
-msgstr "Débloque les autocollants dans les DM avec Plutonium"
+msgstr "Débloque les stickers dans les DM avec Plutonium"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:1015
 #: src/components/bottomsheets/DirectCallLobbyBottomSheet.tsx:270
@@ -23063,7 +23063,7 @@ msgstr "Icône de rôle mise à jour."
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:712
 msgid "Updated the sticker description to {0}."
-msgstr "Description de l'autocollant mise à jour : {0}."
+msgstr "Description de l'sticker mise à jour : {0}."
 
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:428
@@ -23174,7 +23174,7 @@ msgstr "Télécharger l'image"
 
 #: src/utils/PermissionUtils.tsx:285
 msgid "Upload new emoji and stickers, and manage your own creations."
-msgstr "Télécharger de nouveaux émojis et autocollants, et gérer vos propres créations."
+msgstr "Télécharger de nouveaux émojis et stickers, et gérer vos propres créations."
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:577
 msgid "upload sound"
@@ -23182,7 +23182,7 @@ msgstr "télécharger un son"
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:180
 msgid "Upload Sticker"
-msgstr "Télécharger un autocollant"
+msgstr "Télécharger un sticker"
 
 #: src/components/modals/UploadDropModal.tsx:50
 msgid "Upload to {displayName}"
@@ -23308,7 +23308,7 @@ msgstr "Utiliser des emojis externes"
 #: src/utils/PermissionUtils.tsx:347
 #: src/utils/PermissionUtils.tsx:484
 msgid "Use External Stickers"
-msgstr "Utiliser des autocollants externes"
+msgstr "Utiliser des stickers externes"
 
 #: src/components/bottomsheets/ChannelSearchBottomSheet.tsx:279
 msgid "Use filters or enter keywords to find messages"
@@ -25093,11 +25093,11 @@ msgstr "Tu as créé le maximum de {limit} packs d'emoji. Supprime-en un pour en
 
 #: src/actions/InviteActionCreators.tsx:296
 msgid "You have created the maximum of {limit} sticker pack. Delete one to create another."
-msgstr "Tu as créé le maximum de {limit} pack d'autocollants. Supprime-en un pour en créer un autre."
+msgstr "Tu as créé le maximum de {limit} pack d'stickers. Supprime-en un pour en créer un autre."
 
 #: src/actions/InviteActionCreators.tsx:297
 msgid "You have created the maximum of {limit} sticker packs. Delete one to create another."
-msgstr "Tu as créé le maximum de {limit} packs d'autocollants. Supprime-en un pour en créer un autre."
+msgstr "Tu as créé le maximum de {limit} packs d'stickers. Supprime-en un pour en créer un autre."
 
 #: src/actions/InviteActionCreators.tsx:250
 msgid "You have installed the maximum of {limit} emoji pack. Remove one to install another."
@@ -25109,11 +25109,11 @@ msgstr "Tu as installé le maximum de {limit} packs d'emoji. Retire-en un pour e
 
 #: src/actions/InviteActionCreators.tsx:282
 msgid "You have installed the maximum of {limit} sticker pack. Remove one to install another."
-msgstr "Tu as installé le maximum de {limit} pack d'autocollants. Retire-en un pour en installer un autre."
+msgstr "Tu as installé le maximum de {limit} pack d'stickers. Retire-en un pour en installer un autre."
 
 #: src/actions/InviteActionCreators.tsx:283
 msgid "You have installed the maximum of {limit} sticker packs. Remove one to install another."
-msgstr "Tu as installé le maximum de {limit} packs d'autocollants. Retire-en un pour en installer un autre."
+msgstr "Tu as installé le maximum de {limit} packs d'stickers. Retire-en un pour en installer un autre."
 
 #: src/components/common/FriendSelector.tsx:211
 msgid "You have no friends yet"
@@ -25125,7 +25125,7 @@ msgstr "Tu as atteint la limite de création de packs d'emojis. Supprime un de t
 
 #: src/actions/InviteActionCreators.tsx:300
 msgid "You have reached the limit for creating sticker packs. Delete one of your packs to create another."
-msgstr "Tu as atteint la limite de création de packs d'autocollants. Supprime un de tes packs pour en créer un autre."
+msgstr "Tu as atteint la limite de création de packs d'stickers. Supprime un de tes packs pour en créer un autre."
 
 #: src/actions/InviteActionCreators.tsx:254
 msgid "You have reached the limit for installing emoji packs. Remove one of your installed packs to install another."
@@ -25133,7 +25133,7 @@ msgstr "Tu as atteint la limite d'installation de packs d'emojis. Supprime un de
 
 #: src/actions/InviteActionCreators.tsx:286
 msgid "You have reached the limit for installing sticker packs. Remove one of your installed packs to install another."
-msgstr "Tu as atteint la limite d'installation de packs d'autocollants. Supprime un des packs installés pour en installer un autre."
+msgstr "Tu as atteint la limite d'installation de packs d'stickers. Supprime un des packs installés pour en installer un autre."
 
 #: src/components/modals/tabs/AuthorizedAppsTab.tsx:133
 msgid "You haven't authorized any applications to access your account."
@@ -25162,7 +25162,7 @@ msgstr "Tu n'as pas la permission d'utiliser des emojis externes dans ce salon"
 #: src/utils/ExpressionPermissionUtils.tsx:203
 #: src/utils/ExpressionPermissionUtils.tsx:210
 msgid "You lack permission to use external stickers in this channel"
-msgstr "Tu n'as pas la permission d'utiliser des autocollants externes dans ce salon"
+msgstr "Tu n'as pas la permission d'utiliser des stickers externes dans ce salon"
 
 #: src/components/shared/SavedMessageMissingCard.tsx:36
 msgid "You lost access to this saved message. Remove?"

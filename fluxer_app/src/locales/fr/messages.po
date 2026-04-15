@@ -418,7 +418,7 @@ msgstr "{actor} a mis à jour le rôle {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:718
 msgid "{actor} updated the sticker {namedTarget}."
-msgstr "{actor} a mis à jour l'sticker {namedTarget}."
+msgstr "{actor} a mis à jour le sticker {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:680
 msgid "{actor} updated the webhook {namedTarget}."
@@ -8296,7 +8296,7 @@ msgstr "Modifier le Raccourci"
 
 #: src/components/modals/EditGuildStickerModal.tsx:102
 msgid "Edit Sticker"
-msgstr "Modifier l'sticker"
+msgstr "Modifier le Sticker"
 
 #: src/components/modals/EditPackModal.tsx:56
 msgid "Edit Sticker Pack"
@@ -9233,7 +9233,7 @@ msgstr "Échec de la création du rôle"
 
 #: src/components/modals/AddGuildStickerModal.tsx:93
 msgid "Failed to create sticker"
-msgstr "Échec de création de l'sticker"
+msgstr "Échec de création du sticker"
 
 #: src/components/modals/channel_tabs/ChannelWebhooksTab.tsx:116
 msgid "Failed to create webhook"
@@ -9617,7 +9617,7 @@ msgstr "Échec de la Mise à Jour des Rôles"
 
 #: src/components/modals/EditGuildStickerModal.tsx:81
 msgid "Failed to update sticker"
-msgstr "Échec de la mise à jour de l'sticker"
+msgstr "Échec de la mise à jour du sticker"
 
 #: src/hooks/useWebhookUpdates.tsx:88
 msgid "Failed to update webhooks"
@@ -17507,7 +17507,7 @@ msgstr "Supprimer le spoiler"
 #: src/components/channel/ChannelStickersArea.tsx:80
 #: src/components/channel/ChannelStickersArea.tsx:82
 msgid "Remove sticker"
-msgstr "Supprimer l'sticker"
+msgstr "Supprimer le sticker"
 
 #: src/stores/KeybindStore.tsx:326
 msgid "Remove the focused message"
@@ -21188,11 +21188,11 @@ msgstr "La Squad"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:716
 msgid "The sticker was uploaded as animated."
-msgstr "L'sticker a été téléchargé en tant qu'animé."
+msgstr "Le sticker a été téléchargé en tant qu'animé."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:720
 msgid "The sticker was uploaded as static."
-msgstr "L'sticker a été téléchargé en tant que statique."
+msgstr "Le sticker a été téléchargé en tant que statique."
 
 #: src/components/modals/tabs/privacy_safety_tab/DataDeletionTab.tsx:83
 msgid "The time to complete depends on how many messages you have sent"
@@ -23063,7 +23063,7 @@ msgstr "Icône de rôle mise à jour."
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:712
 msgid "Updated the sticker description to {0}."
-msgstr "Description de l'sticker mise à jour : {0}."
+msgstr "Description du sticker mise à jour : {0}."
 
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:428

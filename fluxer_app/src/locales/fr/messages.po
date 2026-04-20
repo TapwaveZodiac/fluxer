@@ -720,7 +720,7 @@ msgstr "{participantCount} participants de l'appel"
 
 #: src/components/alerts/MaxBookmarksModal.tsx:66
 msgid "{premiumBookmarks} bookmark"
-msgstr "{premiumBookmarks} signet"
+msgstr "{premiumBookmarks} marque-page"
 
 #: src/components/alerts/MaxBookmarksModal.tsx:66
 msgid "{premiumBookmarks} bookmarks"
@@ -2012,7 +2012,7 @@ msgstr "Rôles ajoutés."
 
 #: src/actions/SavedMessageActionCreators.tsx:59
 msgid "Added to bookmarks"
-msgstr "Ajouté aux signets"
+msgstr "Ajouté aux marque-pages"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:658
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:194
@@ -16017,7 +16017,7 @@ msgstr "Pause"
 
 #: src/components/invites/DisableInvitesButton.tsx:90
 msgid "Pause Invites"
-msgstr "Mettre les invitations en pause"
+msgstr "Mettre les Invitations en Pause"
 
 #: src/components/modals/tabs/VideoTab.tsx:236
 msgid "Pause my screen share preview when unfocused"
@@ -16025,11 +16025,11 @@ msgstr "Mettre en pause l'aperçu de mon partage d'écran lorsque je ne suis pas
 
 #: src/components/pages/PremiumCallbackPage.tsx:56
 msgid "Payment Canceled"
-msgstr "Paiement annulé"
+msgstr "Paiement Annulé"
 
 #: src/components/pages/PremiumCallbackPage.tsx:42
 msgid "Payment Successful"
-msgstr "Paiement réussi"
+msgstr "Paiement Réussi"
 
 #: src/components/channel/direct_message/DMFriendsView.tsx:196
 #: src/components/modals/guild_tabs/GuildDiscoveryTab.tsx:58
@@ -16038,7 +16038,7 @@ msgstr "En attente"
 
 #: src/components/modals/tabs/privacy_safety_tab/DataDeletionTab.tsx:136
 msgid "Pending Deletion"
-msgstr "Suppression en attente"
+msgstr "Suppression en Attente"
 
 #: src/components/modals/tabs/privacy_safety_tab/DataDeletionTab.tsx:123
 msgid "Pending deletion canceled"
@@ -16056,7 +16056,7 @@ msgstr "Les personnes des communautés que vous partagez peuvent t'ajouter aux d
 
 #: src/components/modals/tabs/privacy_safety_tab/CommunicationTab.tsx:185
 msgid "People from communities you're both in can call you"
-msgstr "Les personnes des communautés que vous partagez peuvent t'appeler"
+msgstr "Les personnes des communautés que vous avez en commun peuvent t'appeler"
 
 #: src/components/modals/tabs/privacy_safety_tab/CommunicationTab.tsx:255
 msgid "People who are friends with your friends can add you to group chats"
@@ -16125,7 +16125,7 @@ msgstr "Notes personnelles"
 #: src/components/modals/shared/ForwardChannelSelection.tsx:116
 #: src/utils/ChannelUtils.tsx:108
 msgid "Personal Notes"
-msgstr "Notes personnelles"
+msgstr "Notes Personnelles"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:50
 msgid "pfp"
@@ -16152,7 +16152,7 @@ msgstr "Téléphone"
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:345
 #: src/components/modals/utils/SettingsSearchIndex.tsx:115
 msgid "Phone Number"
-msgstr "Numéro de téléphone"
+msgstr "Numéro de Téléphone"
 
 #: src/components/modals/PhoneAddModal.tsx:133
 msgid "Phone number added"
@@ -16173,15 +16173,15 @@ msgstr "Numéro de téléphone vérifié"
 
 #: src/components/modals/RequiredActionModal.tsx:141
 msgid "Phone Re-Verification Required"
-msgstr "Vérification par téléphone requise"
+msgstr "Vérification par Téléphone Requise"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:203
 msgid "Phone Step"
-msgstr "Étape téléphonique"
+msgstr "Étape Téléphonique"
 
 #: src/components/modals/RequiredActionModal.tsx:141
 msgid "Phone Verification Required"
-msgstr "Vérification par téléphone requise"
+msgstr "Vérification par Téléphone Requise"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:50
 msgid "photo"
@@ -16189,7 +16189,7 @@ msgstr "photo"
 
 #: src/components/modals/AddGuildModal.tsx:169
 msgid "Photography Club"
-msgstr "Club de photographie"
+msgstr "Club de Photographie"
 
 #: src/utils/AttachmentPreviewUtils.tsx:186
 msgid "PHP"
@@ -16253,7 +16253,7 @@ msgstr "Épingler ou désépingler le message sélectionné"
 
 #: src/components/channel/MessageActionUtils.tsx:428
 msgid "Pin this message to the channel for all to see. Unless ... you're chicken."
-msgstr "Épingle ce message dans le canal pour que tout le monde le voie. À moins que tu ne sois lâche."
+msgstr "Épingle ce message dans le canal pour que tout le monde le voie. À moins que tu ne sois un lâche."
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:545
 msgid "ping"
@@ -16277,7 +16277,7 @@ msgstr "Ping : {latency}ms"
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:299
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:395
 msgid "Pinned DM"
-msgstr "MP épinglé"
+msgstr "MP Épinglé"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:680
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:299
@@ -16286,14 +16286,14 @@ msgstr "Groupe épinglé"
 
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:395
 msgid "Pinned group DM"
-msgstr "DM de groupe épinglé"
+msgstr "MP de groupe épinglé"
 
 #: src/components/bottomsheets/ChannelPinsBottomSheet.tsx:30
 #: src/components/channel/channel_header_components/ChannelPinsButton.tsx:59
 #: src/components/channel/channel_header_components/ChannelPinsButton.tsx:85
 #: src/components/popouts/ChannelPinsPopout.tsx:33
 msgid "Pinned Messages"
-msgstr "Messages épinglés"
+msgstr "Messages Épinglés"
 
 #: src/utils/SearchUtils.tsx:283
 msgid "pinned:"
@@ -16301,11 +16301,11 @@ msgstr "épinglé :"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:1047
 msgid "Pins"
-msgstr "Épingles"
+msgstr "Messages Épinglés"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:698
 msgid "placeholder"
-msgstr "espace réservé"
+msgstr "contenu temporarire"
 
 #: src/utils/AttachmentPreviewUtils.tsx:175
 msgid "Plain text"
@@ -16317,7 +16317,7 @@ msgstr "plan"
 
 #: src/components/channel/GuildMembersPage.tsx:252
 msgid "Platform Admin"
-msgstr "Administrateur de la plateforme"
+msgstr "Administrateur de la Plateforme"
 
 #: src/components/channel/embeds/media/VoiceMessagePlayer.tsx:330
 #: src/components/media_player/components/AudioPlayer.tsx:267
@@ -16331,7 +16331,7 @@ msgstr "Lire"
 
 #: src/components/modals/tabs/accessibility_tab/AnimationTab.tsx:90
 msgid "Play Animated Emojis"
-msgstr "Jouer des emojis animés"
+msgstr "Jouer des Émojis Animés"
 
 #: src/components/modals/tabs/AccessibilityTab.tsx:246
 msgid "Play sample"
@@ -16428,7 +16428,7 @@ msgstr "Vérifie ton compte en définissant un Email et un mot de passe avant de
 #: src/components/voice/VoiceConnectionStatus.tsx:813
 #: src/components/voice/VoiceConnectionStatus.tsx:819
 msgid "Please wait for connection..."
-msgstr "Attends la connexion..."
+msgstr "Attends la connexion…"
 
 #: src/components/modals/components/plutonium/hooks/useCheckoutActions.tsx:77
 msgid "Please wait for pricing information to load."
@@ -16453,7 +16453,7 @@ msgstr "Plutonium"
 
 #: src/components/modals/tabs/my_profile_tab/PremiumBadgeSettings.tsx:62
 msgid "Plutonium Badge Privacy"
-msgstr "Confidentialité du badge Plutonium"
+msgstr "Confidentialité du Badge Plutonium"
 
 #: src/components/modals/components/PerksButton.tsx:30
 msgid "Plutonium perks"
@@ -16478,7 +16478,7 @@ msgstr "sondage"
 
 #: src/components/modals/tabs/KeybindsTab.tsx:132
 msgid "Popouts"
-msgstr "Fenêtres émergentes"
+msgstr "Pop-outs"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:542
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:684
@@ -16513,15 +16513,15 @@ msgstr "badge premium"
 
 #: src/components/modals/tabs/developer_options_tab/NagbarControls.tsx:118
 msgid "Premium Expired Nagbar"
-msgstr "Barre d'alerte Premium expiré"
+msgstr "Barre d'Alerte Premium Expiré"
 
 #: src/components/modals/tabs/developer_options_tab/NagbarControls.tsx:102
 msgid "Premium Grace Period Nagbar"
-msgstr "Barre d'alerte période de grâce Premium"
+msgstr "Barre d'alerte Période de Grâce Premium"
 
 #: src/components/modals/tabs/developer_options_tab/NagbarControls.tsx:134
 msgid "Premium Onboarding Nagbar"
-msgstr "Barre d'alerte d'accueil Premium"
+msgstr "Barre d'Alerte d'Accueil Premium"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:268
 msgid "Premium Perks"
@@ -16533,11 +16533,11 @@ msgstr "État premium réinitialisé sur le backend."
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:155
 msgid "Premium Subscription Scenarios"
-msgstr "Scénarios d'abonnement Premium"
+msgstr "Scénarios d'Abonnement Premium"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:109
 msgid "Premium Type Override"
-msgstr "Remplacement du type Premium"
+msgstr "Remplacement du Type Premium"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:218
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:428
@@ -16546,7 +16546,7 @@ msgstr "présence"
 
 #: src/components/keybinds/KeybindRecorder.tsx:190
 msgid "Press keys..."
-msgstr "Appuie sur des touches..."
+msgstr "Appuie sur des touches…"
 
 #: src/components/channel/MessageReactions.tsx:133
 msgid "press to add reaction"
@@ -16558,7 +16558,7 @@ msgstr "appuie pour supprimer la réaction"
 
 #: src/constants/IARConstants.tsx:83
 msgid "Pretending to be someone else or a company/organization"
-msgstr "Se faire passer pour quelqu'un d'autre ou une entreprise/organisation"
+msgstr "Se fait passer pour quelqu'un d'autre ou une entreprise/organisation"
 
 #. placeholder {0}: targetUser.tag
 #: src/components/modals/TimeoutMemberSheet.tsx:127
@@ -16593,12 +16593,12 @@ msgstr "Prévisualise toutes les polices, graisses et styles disponibles dans le
 
 #: src/components/modals/tabs/AccessibilityTab.tsx:113
 msgid "Preview Button"
-msgstr "Bouton d'aperçu"
+msgstr "Bouton d'Aperçu"
 
 #: src/components/bottomsheets/VoiceSettingsBottomSheets.tsx:214
 #: src/components/voice/VoiceSettingsMenus.tsx:367
 msgid "Preview Camera"
-msgstr "Caméra d'aperçu"
+msgstr "Caméra d'Aperçu"
 
 #: src/components/voice/HiddenStreamPlaceholder.tsx:33
 msgid "Preview hidden"
@@ -16624,11 +16624,11 @@ msgstr "Précédent"
 
 #: src/components/modals/BanMemberModal.tsx:121
 msgid "Previous 24 Hours"
-msgstr "24 dernières heures"
+msgstr "24 Dernières Heures"
 
 #: src/components/modals/BanMemberModal.tsx:122
 msgid "Previous 7 Days"
-msgstr "7 derniers jours"
+msgstr "7 Derniers Jours"
 
 #: src/components/modals/MediaModal.tsx:186
 #: src/components/modals/MediaModal.tsx:997
@@ -16640,19 +16640,19 @@ msgstr "Pièce jointe précédente"
 
 #: src/stores/KeybindStore.tsx:141
 msgid "Previous Channel"
-msgstr "Canal précédent"
+msgstr "Canal Précédent"
 
 #: src/stores/KeybindStore.tsx:127
 msgid "Previous Community"
-msgstr "Communauté précédente"
+msgstr "Communauté Précédente"
 
 #: src/stores/KeybindStore.tsx:155
 msgid "Previous Unread Channel"
-msgstr "Canal non lu précédent"
+msgstr "Canal Non Lu Précédent"
 
 #: src/stores/KeybindStore.tsx:169
 msgid "Previous Unread Mention"
-msgstr "Mention non lue précédente"
+msgstr "Mention Non Lue Précédente"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:65
 msgid "Primary"
@@ -16660,15 +16660,15 @@ msgstr "Primaire"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:97
 msgid "Primary (Disabled)"
-msgstr "Primaire (désactivé)"
+msgstr "Primaire (Désactivé)"
 
 #: src/components/modals/tabs/component_gallery_tab/InputsTab.tsx:215
 msgid "Primary Accent Color"
-msgstr "Couleur d'accent primaire"
+msgstr "Couleur d'Accent Primaire"
 
 #: src/components/modals/tabs/component_gallery_tab/index.tsx:262
 msgid "Primary Action"
-msgstr "Action principale"
+msgstr "Action Principale"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:63
 msgid "Primary button clicked!"
@@ -16677,7 +16677,7 @@ msgstr "Bouton principal cliqué !"
 #: src/utils/PermissionUtils.tsx:406
 #: src/utils/PermissionUtils.tsx:511
 msgid "Priority Speaker"
-msgstr "Orateur prioritaire"
+msgstr "Orateur Prioritaire"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:438
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:481
@@ -16686,21 +16686,21 @@ msgstr "vie privée"
 
 #: src/components/modals/utils/SettingsConstants.tsx:142
 msgid "Privacy Dashboard"
-msgstr "Tableau de bord confidentialité"
+msgstr "Tableau de Bord Confidentialité"
 
 #: src/components/auth/AuthMinimalRegisterFormCore.tsx:216
 #: src/components/auth/AuthRegisterFormCore.tsx:391
 #: src/components/auth/MockMinimalRegisterForm.tsx:125
 #: src/components/modals/components/DesktopSettingsView.tsx:218
 msgid "Privacy Policy"
-msgstr "Politique de confidentialité"
+msgstr "Politique de Confidentialité"
 
 #: src/components/modals/GuildPrivacySettingsModal.tsx:72
 #: src/components/popouts/GuildHeaderPopout.tsx:215
 #: src/components/uikit/context_menu/items/GuildMenuData.tsx:312
 #: src/components/uikit/context_menu/items/GuildMenuItems.tsx:381
 msgid "Privacy Settings"
-msgstr "Paramètres de confidentialité"
+msgstr "Paramètres de Confidentialité"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:550
 msgid "private message"
@@ -16713,11 +16713,11 @@ msgstr "Continuer"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:265
 msgid "Processing"
-msgstr "Traitement en cours"
+msgstr "Traitement en Cours"
 
 #: src/components/modals/AddGuildModal.tsx:163
 msgid "Professional Peers"
-msgstr "Pairs professionnels"
+msgstr "Pairs Professionnels"
 
 #: src/components/modals/utils/SettingsConstants.tsx:112
 msgid "Profile"
@@ -16737,7 +16737,7 @@ msgstr "Le profil contient du contenu offensant ou NSFW"
 
 #: src/components/modals/tabs/MyProfileTab.tsx:664
 msgid "Profile Customization"
-msgstr "Personnalisation du profil"
+msgstr "Personnalisation du Profil"
 
 #. placeholder {0}: selectedGuild.name || ''
 #: src/components/modals/tabs/MyProfileTab.tsx:663
@@ -16758,7 +16758,7 @@ msgstr "photos de profil"
 
 #: src/components/profile/profile_card/ProfileCardLayout.tsx:38
 msgid "Profile Preview"
-msgstr "Aperçu du profil"
+msgstr "Aperçu du Profil"
 
 #: src/components/profile/ProfilePreview.tsx:221
 msgid "Profile preview (press Enter to open full preview)"
@@ -16766,7 +16766,7 @@ msgstr "Aperçu du profil (appuie sur Entrée pour ouvrir l'aperçu complet)"
 
 #: src/components/modals/tabs/my_profile_tab/ProfileTypeSelector.tsx:96
 msgid "Profile Type"
-msgstr "Type de profil"
+msgstr "Type de Profil"
 
 #: src/components/modals/tabs/MyProfileTab.tsx:435
 msgid "Profile updated"
@@ -16799,7 +16799,7 @@ msgstr "Protégez votre compte Visionary en activant l'authentification à deux 
 
 #: src/components/modals/IARModal.tsx:244
 msgid "Provide any additional context that may help our Safety Team..."
-msgstr "Ajoute tout contexte supplémentaire pouvant aider notre équipe de sécurité..."
+msgstr "Ajoute tout contexte supplémentaire pouvant aider notre équipe de sécurité…"
 
 #: src/components/pages/report/ReportStepDetails.tsx:156
 msgid "Provide at least a user ID or a user tag."
@@ -16828,15 +16828,15 @@ msgstr "ptt"
 
 #: src/components/modals/tabs/applications_tab/application_detail/ApplicationInfoSection.tsx:61
 msgid "Public Bot"
-msgstr "Bot public"
+msgstr "Bot Public"
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:336
 msgid "Purchase a Plutonium gift from the Plutonium tab to share with friends!"
-msgstr "Achète un cadeau Plutonium depuis l'onglet Plutonium pour le partager avec tes amis !"
+msgstr "Achète un cadeau Plutonium depuis l'onglet Plutonium pour le partager avec tes amis !"
 
 #: src/components/modals/components/plutonium/PurchaseHistorySection.tsx:39
 msgid "Purchase History"
-msgstr "Historique d'achats"
+msgstr "Historique d'Achats"
 
 #: src/components/modals/components/plutonium/PricingSection.tsx:58
 msgid "Purchase mode"
@@ -16875,7 +16875,7 @@ msgstr "Notifications push"
 #: src/components/modals/tabs/NotificationsTab.tsx:93
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:612
 msgid "Push Settings"
-msgstr "Paramètres push"
+msgstr "Paramètres Push"
 
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:111
 msgid "Push subscriptions for this device"
@@ -16888,38 +16888,38 @@ msgstr "appuyer pour parler"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:193
 msgid "Push to Talk Key"
-msgstr "Touche appuyer pour parler"
+msgstr "Touche Appuyer Pour Parler"
 
 #: src/components/modals/tabs/VoiceTab.tsx:127
 msgid "Push-to-Talk"
-msgstr "Appuyer pour parler"
+msgstr "Appuyer Pour Parler"
 
 #: src/stores/KeybindStore.tsx:512
 msgid "Push-To-Talk (hold)"
-msgstr "Appuyer pour parler (maintenir)"
+msgstr "Appuyer Pour Parler (maintenir)"
 
 #: src/components/modals/tabs/VoiceTab.tsx:127
 #: src/components/modals/tabs/VoiceTab.tsx:139
 msgid "Push-to-Talk (Limited)"
-msgstr "Appuyer pour parler (limité)"
+msgstr "Appuyer Pour Parler (limité)"
 
 #: src/components/layout/UserArea.tsx:161
 #: src/components/voice/VoiceControlBar.tsx:600
 msgid "Push-to-talk enabled — hold {pushToTalkHint} to speak"
-msgstr "Appuyer pour parler activé — maintiens {pushToTalkHint} pour parler"
+msgstr "Appuyer Pour Parler activé — maintiens {pushToTalkHint} pour parler"
 
 #: src/components/modals/tabs/VoiceTab.tsx:291
 #: src/components/modals/tabs/VoiceTab.tsx:303
 msgid "Push-to-Talk Latching"
-msgstr "Verrouillage Appuyer pour parler"
+msgstr "Verrouillage Appuyer Pour Parler"
 
 #: src/components/modals/tabs/VoiceTab.tsx:272
 msgid "Push-to-Talk Release Delay"
-msgstr "Délai de relâchement Appuyer pour parler"
+msgstr "Délai de relâchement Appuyer pour Parler"
 
 #: src/components/modals/tabs/VoiceTab.tsx:326
 msgid "Push-to-Talk will only work when the app has focus until you enable Input Monitoring permission. To use any key or mouse button for PTT, enable it below."
-msgstr "Appuyer pour parler ne fonctionne que lorsque l'application est au premier plan tant que la permission de surveillance des entrées n'est pas activée. Pour utiliser n'importe quelle touche ou bouton de souris pour PTT, active-la ci-dessous."
+msgstr "Appuyer pour parler ne fonctionne que lorsque l'application est au premier plan tant que la permission de surveillance des entrées n'est pas activée. Pour utiliser n'importe quelle touche ou bouton de souris comme activateur, active-la ci-dessous."
 
 #: src/components/modals/tabs/VoiceTab.tsx:324
 msgid "Push-to-Talk will only work when the browser tab has focus."
@@ -16936,12 +16936,12 @@ msgstr "accès rapide"
 #: src/stores/QuickSwitcherStore.tsx:1356
 #: src/utils/quick_switcher/QuickSwitcherModalUtils.tsx:100
 msgid "Quick Actions"
-msgstr "Actions rapides"
+msgstr "Actions Rapides"
 
 #: src/components/channel/direct_message/DMList.tsx:1360
 #: src/components/quick_switcher/QuickSwitcherModal.tsx:310
 msgid "Quick Switcher"
-msgstr "Sélecteur rapide"
+msgstr "Sélecteur Rapide"
 
 #: src/components/bottomsheets/QuickSwitcherBottomSheet.tsx:324
 msgid "Quick switcher tabs"
@@ -16957,7 +16957,7 @@ msgstr "citer"
 
 #: src/components/channel/embeds/Embed.tsx:762
 msgid "quotes"
-msgstr "Citations"
+msgstr "citations"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:677
 msgid "radio"
@@ -16969,16 +16969,16 @@ msgstr "Les boutons radio permettent de choisir une option parmi un groupe."
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:225
 msgid "Radio Group"
-msgstr "Groupe de boutons radio"
+msgstr "Groupe de Boutons Radio"
 
 #: src/components/pages/report/OptionDescriptors.tsx:75
 #: src/constants/IARConstants.tsx:180
 msgid "Raid Coordination"
-msgstr "Coordination de raid"
+msgstr "Coordination de Raid"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:239
 msgid "Rate Limited"
-msgstr "Limité par débit"
+msgstr "Débit Limité"
 
 #. placeholder {0}: renderInline(joinLabels(removed), i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:400
@@ -17000,7 +17000,7 @@ msgstr "Réagis avec :{0}:"
 
 #: src/components/alerts/ReactionInteractionDisabledModal.tsx:28
 msgid "Reaction Interaction Disabled"
-msgstr "Interaction de réaction désactivée"
+msgstr "Interaction de Réaction Désactivée"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:300
 msgid "reactions"
@@ -17026,7 +17026,7 @@ msgstr "lire à voix haute"
 #: src/utils/PermissionUtils.tsx:333
 #: src/utils/PermissionUtils.tsx:477
 msgid "Read Message History"
-msgstr "Lire l'historique des messages"
+msgstr "Lire l'Historique des Messages"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:604
 msgid "read messages"
@@ -17038,7 +17038,7 @@ msgstr "Consulte le journal d'audit de la communauté sur les changements et les
 
 #: src/components/modals/tabs/applications_tab/index.tsx:161
 msgid "Read the Documentation (fluxer.dev)"
-msgstr "Consulte la documentation (fluxer.dev)"
+msgstr "Consulte la Documentation (fluxer.dev)"
 
 #: src/stores/KeybindStore.tsx:371
 msgid "Read the focused message aloud"
@@ -17046,11 +17046,11 @@ msgstr "Lire le message sélectionné à voix haute"
 
 #: src/components/modals/components/plutonium/BottomCTASection.tsx:54
 msgid "Ready to Buy a Gift?"
-msgstr "Prêt à acheter un cadeau ?"
+msgstr "Prêt à Acheter un Cadeau ?"
 
 #: src/components/modals/components/plutonium/BottomCTASection.tsx:54
 msgid "Ready to Upgrade?"
-msgstr "Prêt à passer à la version supérieure ?"
+msgstr "Prêt à passer à la Vitesse Supérieure ?"
 
 #: src/components/modals/BanDetailsModal.tsx:77
 #: src/components/modals/guild_tabs/GuildAuditLogTab.tsx:588
@@ -17086,15 +17086,15 @@ msgstr "Instances récentes"
 
 #: src/components/channel/GuildMembersPage.tsx:938
 msgid "Recent Members"
-msgstr "Membres récents"
+msgstr "Membres Récents"
 
 #: src/components/pages/RecentMentionsPage.tsx:55
 msgid "Recent Mentions"
-msgstr "Mentions récentes"
+msgstr "Mentions Récentes"
 
 #: src/components/channel/message_search_bar/HistorySection.tsx:99
 msgid "Recent Searches"
-msgstr "Recherches récentes"
+msgstr "Recherches Récentes"
 
 #. placeholder {0}: ChannelUtils.getIcon(channel, {size: 16, className: styles.channelIcon})
 #. placeholder {1}: channel.name
@@ -17104,7 +17104,7 @@ msgstr "Les destinataires seront dirigés vers {0} <0>{1}</0>"
 
 #: src/components/voice/VoiceCallView.tsx:99
 msgid "Reconnecting..."
-msgstr "Reconnexion en cours..."
+msgstr "Reconnexion en cours…"
 
 #: src/components/voice/CompactVoiceCallView.tsx:124
 msgid "Reconnecting…"
@@ -17118,7 +17118,7 @@ msgstr "Raccourci d'enregistrement"
 #: src/components/channel/textarea/HoldToRecordButton.tsx:142
 #: src/components/channel/VoiceMessageRecorder.tsx:328
 msgid "Recording failed. Please try again."
-msgstr "Échec de l'enregistrement. Veuillez réessayer."
+msgstr "Échec de l'enregistrement. Réessaie."
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:141
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:520
@@ -17135,15 +17135,15 @@ msgstr "Utiliser"
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:256
 msgid "Redeem a Gift"
-msgstr "Utiliser un cadeau"
+msgstr "Utiliser un Cadeau"
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:167
 msgid "Redeem for Yourself"
-msgstr "Utiliser pour toi-même"
+msgstr "Utiliser pour Toi-même"
 
 #: src/components/modals/components/plutonium/SubscriptionCard.tsx:245
 msgid "Redeem Gift Code"
-msgstr "Utiliser un code cadeau"
+msgstr "Utiliser un Code Cadeau"
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:262
 msgid "Redeem gift code form"
@@ -17166,11 +17166,11 @@ msgstr "URI de redirection"
 
 #: src/components/modals/tabs/applications_tab/application_detail/OAuthBuilderSection.tsx:61
 msgid "Redirect URI is required because this bot requires OAuth2 code grant."
-msgstr "L'URI de redirection est requise car ce bot nécessite le grant de code OAuth2."
+msgstr "L'URI de redirection est requise car ce bot nécessite qu'on accorde le code OAuth2."
 
 #: src/components/modals/tabs/applications_tab/application_detail/OAuthBuilderSection.tsx:63
 msgid "Redirect URI is required when not using only the bot scope."
-msgstr "L'URI de redirection est requise si tu n'utilises pas uniquement le scope bot."
+msgstr "L'URI de redirection est requise si tu n'utilises pas uniquement la portée bot."
 
 #: src/components/modals/tabs/applications_tab/application_detail/ApplicationInfoSection.tsx:78
 msgid "Redirect URIs"
@@ -17182,7 +17182,7 @@ msgstr "Rétablir"
 
 #: src/components/modals/tabs/accessibility_tab/MotionTab.tsx:42
 msgid "Reduce Motion"
-msgstr "Réduire le mouvement"
+msgstr "Réduire le Mouvement"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:292
 msgid "reduced motion"
@@ -17190,7 +17190,7 @@ msgstr "mouvement réduit"
 
 #: src/components/modals/tabs/VoiceTab.tsx:413
 msgid "Reduces echo and feedback from speakers"
-msgstr "Réduit l'écho et les retours des haut-parleurs"
+msgstr "Réduit l'écho et le retour des haut-parleurs"
 
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:119
 msgid "Refresh push subscription"
@@ -17278,7 +17278,7 @@ msgstr "Rester silencieux sauf si quelqu'un lance /tts manuellement."
 
 #: src/components/modals/tabs/AdvancedTab.tsx:113
 msgid "Remember Size & Position"
-msgstr "Se souvenir de la taille et de la position"
+msgstr "Se Souvenir de la Taille et de la Position"
 
 #: src/components/modals/DisablePiPConfirmModal.tsx:63
 msgid "Remember this preference"
@@ -17340,21 +17340,21 @@ msgstr "Supprimer toutes les réactions {0} de ce message ?"
 #: src/components/channel/MessageActionMenu.tsx:198
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:298
 msgid "Remove All Reactions"
-msgstr "Supprimer toutes les réactions"
+msgstr "Supprimer Toutes les Réactions"
 
 #: src/components/channel/ChannelAttachmentArea.tsx:410
 #: src/components/channel/ChannelAttachmentArea.tsx:614
 msgid "Remove Attachment"
-msgstr "Supprimer la pièce jointe"
+msgstr "Supprimer la Pièce Jointe"
 
 #: src/components/modals/MfaTotpDisableModal.tsx:55
 msgid "Remove Authenticator App"
-msgstr "Supprimer l'application Authenticator"
+msgstr "Supprimer l'Application Authenticator"
 
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:271
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:295
 msgid "Remove Avatar"
-msgstr "Supprimer l'avatar"
+msgstr "Supprimer l'Avatar"
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:219
 #: src/components/modals/BackgroundImageGalleryModal.tsx:225
@@ -17365,17 +17365,17 @@ msgstr "Supprimer l'arrière-plan"
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:478
 msgid "Remove Background"
-msgstr "Supprimer l'arrière-plan"
+msgstr "Supprimer l'Arrière-plan"
 
 #: src/components/modals/tabs/my_profile_tab/BannerUploader.tsx:183
 #: src/components/modals/tabs/my_profile_tab/BannerUploader.tsx:209
 msgid "Remove Banner"
-msgstr "Supprimer la bannière"
+msgstr "Supprimer la Bannière"
 
 #: src/components/popouts/SavedMessagesContent.tsx:110
 #: src/components/popouts/SavedMessagesContent.tsx:116
 msgid "Remove bookmark"
-msgstr "Supprimer le signet"
+msgstr "Supprimer le Marque-page"
 
 #: src/components/channel/MessageActionBar.tsx:532
 #: src/components/channel/MessageActionBar.tsx:727
@@ -17383,15 +17383,15 @@ msgstr "Supprimer le signet"
 #: src/components/modals/BookmarksBottomSheet.tsx:99
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:144
 msgid "Remove Bookmark"
-msgstr "Supprimer le signet"
+msgstr "Supprimer le Marque-page"
 
 #: src/components/modals/tabs/LinkedAccountsTab.tsx:249
 msgid "Remove Connection"
-msgstr "Supprimer la connexion"
+msgstr "Supprimer la Connexion"
 
 #: src/components/modals/tabs/notifications_tab/Sounds.tsx:106
 msgid "Remove Custom Sound"
-msgstr "Supprimer le son personnalisé"
+msgstr "Supprimer le Son Personnalisé"
 
 #: src/components/modals/tabs/components/EntranceSoundSection.tsx:104
 #: src/components/modals/tabs/components/EntranceSoundSection.tsx:109
@@ -17421,7 +17421,7 @@ msgstr "Supprimer le filtre"
 #: src/utils/RelationshipActionUtils.tsx:119
 #: src/utils/RelationshipActionUtils.tsx:121
 msgid "Remove Friend"
-msgstr "Supprimer l'ami"
+msgstr "Supprimer l'Ami"
 
 #: src/components/channel/embeds/media/MediaContainer.tsx:140
 #: src/components/channel/embeds/media/MediaContainer.tsx:145
@@ -17445,20 +17445,20 @@ msgstr "Retirer des favoris"
 #: src/components/uikit/context_menu/items/MediaMenuData.tsx:465
 #: src/components/voice/VoiceCallView.tsx:438
 msgid "Remove from Favorites"
-msgstr "Retirer des favoris"
+msgstr "Retirer des Favoris"
 
 #: src/components/uikit/context_menu/GroupDMContextMenu.tsx:121
 #: src/components/uikit/context_menu/GroupDMContextMenu.tsx:224
 #: src/components/uikit/context_menu/UserContextMenu.tsx:132
 #: src/components/uikit/context_menu/UserContextMenu.tsx:335
 msgid "Remove from Group"
-msgstr "Retirer du groupe"
+msgstr "Retirer du Groupe"
 
 #: src/components/modals/AddGuildModal.tsx:333
 #: src/components/modals/EditGroupBottomSheet.tsx:218
 #: src/components/modals/EditGroupModal.tsx:199
 msgid "Remove Icon"
-msgstr "Supprimer l'icône"
+msgstr "Supprimer l'Icône"
 
 #: src/components/popouts/RecentMentionsContent.tsx:225
 #: src/components/popouts/RecentMentionsContent.tsx:231
@@ -17467,34 +17467,34 @@ msgstr "Supprimer la mention"
 
 #: src/components/modals/GuildNotificationSettingsModal.tsx:267
 msgid "Remove override"
-msgstr "Supprimer l'override"
+msgstr "Supprimer la dérogation"
 
 #: src/components/modals/channel_tabs/ChannelPermissionsTab.tsx:996
 msgid "Remove Override"
-msgstr "Supprimer l'override"
+msgstr "Supprimer l'Override"
 
 #: src/components/modals/tabs/ExpressionPacksTab.tsx:224
 msgid "Remove Pack"
-msgstr "Supprimer le pack"
+msgstr "Supprimer le Pack"
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:380
 msgid "Remove Phone"
-msgstr "Supprimer le téléphone"
+msgstr "Supprimer le Téléphone"
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:363
 msgid "Remove Phone Number"
-msgstr "Supprimer le numéro de téléphone"
+msgstr "Supprimer le Numéro de Téléphone"
 
 #: src/components/channel/MessageReactionsSheet.tsx:93
 #: src/components/channel/MessageReactionsSheet.tsx:114
 #: src/components/channel/MessageReactionsSheet.tsx:140
 #: src/components/modals/MessageReactionsModal.tsx:73
 msgid "Remove Reaction"
-msgstr "Supprimer la réaction"
+msgstr "Supprimer la Réaction"
 
 #: src/components/modals/tabs/applications_tab/application_detail/ApplicationInfoSection.tsx:89
 msgid "Remove redirect URI"
-msgstr "Supprimer l'URI de redirection"
+msgstr "Supprimer l'URI de Redirection"
 
 #: src/components/guild/RoleManagement.tsx:68
 msgid "Remove role"
@@ -17502,7 +17502,7 @@ msgstr "Supprimer le rôle"
 
 #: src/components/channel/ChannelAttachmentArea.tsx:608
 msgid "Remove Spoiler"
-msgstr "Supprimer le spoiler"
+msgstr "Supprimer le Spoiler"
 
 #: src/components/channel/ChannelStickersArea.tsx:80
 #: src/components/channel/ChannelStickersArea.tsx:82
@@ -17521,11 +17521,11 @@ msgstr "Supprimer le message sélectionné"
 #: src/components/uikit/context_menu/items/ModerationSubmenu.tsx:189
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:918
 msgid "Remove Timeout"
-msgstr "Supprimer le timeout"
+msgstr "Supprimer le Timeout"
 
 #: src/components/modals/tabs/my_profile_tab/PremiumBadgeSettings.tsx:83
 msgid "Remove when you first bought Plutonium from your badge"
-msgstr "Supprimer depuis ton badge lorsque tu as acheté Plutonium pour la première fois"
+msgstr "Supprimer la date où tu as as acheté Plutonium pour la première fois de ton badge"
 
 #: src/components/modals/tabs/my_profile_tab/PremiumBadgeSettings.tsx:106
 msgid "Remove your Visionary ID badge"
@@ -17564,7 +17564,7 @@ msgstr "Refus supprimé pour {0}."
 
 #: src/actions/SavedMessageActionCreators.tsx:85
 msgid "Removed from bookmarks"
-msgstr "Retiré des signets"
+msgstr "Retiré des marque-pages"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:655
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:191
@@ -17651,7 +17651,7 @@ msgstr "Renommer et modifier les paramètres de ce salon."
 
 #: src/components/uikit/context_menu/FavoritesCategoryContextMenu.tsx:84
 msgid "Rename Category"
-msgstr "Renommer la catégorie"
+msgstr "Renommer la Catégorie"
 
 #: src/components/modals/RenameChannelModal.tsx:59
 msgid "Rename channel form"
@@ -17659,27 +17659,27 @@ msgstr "Formulaire de renommage de salon"
 
 #: src/components/emojis/EmojiListItem.tsx:101
 msgid "Rename Emoji"
-msgstr "Renommer l'emoji"
+msgstr "Renommer l'Émoji"
 
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:703
 msgid "Renamed emoji to {0}."
-msgstr "Emoji renommé en {0}."
+msgstr "Émoji renommé en {0}."
 
 #. placeholder {0}: renderInline(change.oldValue, i18n)
 #. placeholder {1}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:735
 msgid "Renamed from {0} to {1}."
-msgstr "Renommé de {0} en {1}."
+msgstr "Renommé de {0} à {1}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:607
 msgid "Renamed from {oldLabel} to {newLabel}."
-msgstr "Renommé de {oldLabel} en {newLabel}."
+msgstr "Renommé de {oldLabel} à {newLabel}."
 
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:709
 msgid "Renamed sticker to {0}."
-msgstr "sticker renommé en {0}."
+msgstr "Sticker renommé en {0}."
 
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:421
@@ -17701,7 +17701,7 @@ msgstr "Renouvellement le <0>{renewalDate}</0>."
 
 #: src/components/modals/tabs/AdvancedTab.tsx:120
 msgid "Reopen in maximized mode if that’s how you last used Fluxer."
-msgstr "Rouvre en mode maximisé si c'est ainsi que tu as utilisé Fluxer pour la dernière fois."
+msgstr "Rouvre en mode maximisé si tu as utilisé Fluxer de cette manière pour la dernière fois."
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:280
 #: src/components/modals/BackgroundImageGalleryModal.tsx:396
@@ -17719,7 +17719,7 @@ msgstr "Remplacer l'arrière-plan ?"
 
 #: src/components/modals/tabs/components/EntranceSoundSection.tsx:129
 msgid "Replace Entrance Sound"
-msgstr "Remplacer le son d'entrée"
+msgstr "Remplacer le Son d'Entrée"
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:282
 msgid "Replace your custom background"
@@ -17743,21 +17743,21 @@ msgstr "Répond à <0>{authorNickname}</0>"
 
 #: src/components/pages/report/OptionDescriptors.tsx:38
 msgid "Report a Community"
-msgstr "Signaler une communauté"
+msgstr "Signaler une Communauté"
 
 #: src/components/pages/report/OptionDescriptors.tsx:36
 msgid "Report a Message"
-msgstr "Signaler un message"
+msgstr "Signaler un Message"
 
 #: src/components/pages/report/OptionDescriptors.tsx:37
 msgid "Report a User Profile"
-msgstr "Signaler un profil utilisateur"
+msgstr "Signaler un Profil Utilisateur"
 
 #: src/components/modals/IARModal.tsx:119
 #: src/components/uikit/context_menu/items/GuildMenuData.tsx:353
 #: src/components/uikit/context_menu/items/ReportGuildMenuItem.tsx:57
 msgid "Report Community"
-msgstr "Signaler une communauté"
+msgstr "Signaler une Communauté"
 
 #: src/components/pages/report/ReportStepDetails.tsx:74
 msgid "Report details"
@@ -17766,17 +17766,17 @@ msgstr "Détails du rapport"
 #: src/components/pages/report/ReportStepSelection.tsx:42
 #: src/components/pages/ReportPage.tsx:65
 msgid "Report Illegal Content"
-msgstr "Signaler du contenu illégal"
+msgstr "Signaler du Contenu Illégal"
 
 #: src/components/channel/MessageActionMenu.tsx:355
 #: src/components/modals/IARModal.tsx:115
 #: src/components/uikit/context_menu/items/ReportMessageMenuItem.tsx:58
 msgid "Report Message"
-msgstr "Signaler le message"
+msgstr "Signaler le Message"
 
 #: src/components/pages/report/ReportStepComplete.tsx:36
 msgid "Report Submitted"
-msgstr "Rapport soumis"
+msgstr "Rapport Soumis"
 
 #: src/components/modals/IARModal.tsx:161
 msgid "Report submitted successfully. Our Safety Team will review it shortly."
@@ -17784,17 +17784,17 @@ msgstr "Signalement envoyé avec succès. Notre équipe de sécurité l'examiner
 
 #: src/components/pages/report/ReportStepSelection.tsx:54
 msgid "Report Type"
-msgstr "Type de rapport"
+msgstr "Type de Rapport"
 
 #: src/components/modals/IARModal.tsx:117
 #: src/components/modals/UserProfileActionsSheet.tsx:290
 #: src/components/modals/UserProfileModal.tsx:1213
 msgid "Report User"
-msgstr "Signaler l'utilisateur"
+msgstr "Signaler l'Utilisateur"
 
 #: src/components/pages/report/ReportStepDetails.tsx:123
 msgid "Reported User Tag (Optional)"
-msgstr "Tag utilisateur signalé (Facultatif)"
+msgstr "Tag Utilisateur Signalé (Facultatif)"
 
 #: src/components/channel/embeds/Embed.tsx:760
 msgid "repost"
@@ -17802,16 +17802,16 @@ msgstr "reposter"
 
 #: src/components/channel/embeds/Embed.tsx:760
 msgid "reposts"
-msgstr "Reposts"
+msgstr "reposts"
 
 #: src/components/modals/tabs/privacy_safety_tab/DataExportTab.tsx:47
 #: src/components/modals/tabs/privacy_safety_tab/DataExportTab.tsx:126
 msgid "Request Data Export"
-msgstr "Demander l'exportation de données"
+msgstr "Demander l'Exportation des Données"
 
 #: src/components/modals/tabs/privacy_safety_tab/DataExportTab.tsx:89
 msgid "Request Export"
-msgstr "Demander l'export"
+msgstr "Demander l'Export"
 
 #: src/components/pages/OAuthAuthorizePage.tsx:814
 msgid "Requested scopes"
@@ -17823,7 +17823,7 @@ msgstr "demandes"
 
 #: src/components/modals/guild_tabs/GuildModerationTab.tsx:309
 msgid "Require 2FA for Moderation Actions"
-msgstr "Exiger la 2FA pour les actions de modération"
+msgstr "Exiger la 2FA pour les Actions de Modération"
 
 #: src/components/modals/tabs/appearance_tab/InterfaceTab.tsx:147
 msgid "Require double-click to join voice channels"
@@ -17835,11 +17835,11 @@ msgstr "Exiger l'approbation manuelle des amis"
 
 #: src/components/modals/tabs/applications_tab/application_detail/ApplicationInfoSection.tsx:68
 msgid "Require OAuth2 code grant"
-msgstr "Exiger le grant de code OAuth2"
+msgstr "Exiger que le code OAuth2 soit accordé"
 
 #: src/components/modals/guild_tabs/GuildModerationTab.tsx:294
 msgid "Require two-factor authentication for moderators before they can ban, kick, timeout, or remove messages."
-msgstr "Exiger l'authentification à deux facteurs pour les modérateurs avant qu'ils puissent bannir, expulser, temporiser ou supprimer des messages."
+msgstr "Exiger l'authentification à deux facteurs pour les modérateurs avant qu'ils puissent bannir, expulser, mettre en temps mort ou supprimer des messages."
 
 #: src/components/pages/OAuthAuthorizePage.tsx:839
 msgid "Required"
@@ -17873,7 +17873,7 @@ msgstr "Requiert Plutonium"
 
 #: src/components/channel/ChannelTextarea.tsx:1030
 msgid "Reschedule Message"
-msgstr "Replanifier le message"
+msgstr "Replanifier le Message"
 
 #: src/components/modals/ClaimAccountModal.tsx:222
 #: src/components/modals/EmailChangeModal.tsx:236
@@ -17904,7 +17904,7 @@ msgstr "Renvoyer ({secondsRemaining}s)"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:227
 msgid "Resend Button Loading"
-msgstr "Bouton de renvoi en cours"
+msgstr "Bouton de Renvoi en Cours"
 
 #: src/components/pages/report/ReportStepVerification.tsx:116
 msgid "Resend code"
@@ -17912,7 +17912,7 @@ msgstr "Renvoyer le code"
 
 #: src/components/modals/RequiredActionModal.tsx:517
 msgid "Resend Code"
-msgstr "Renvoyer le code"
+msgstr "Renvoyer le Code"
 
 #: src/components/auth/IpAuthorizationScreen.tsx:148
 msgid "Resend email"
@@ -17924,11 +17924,11 @@ msgstr "Renvoyer l'Email"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:234
 msgid "Resend Outcome"
-msgstr "Résultat du renvoi"
+msgstr "Résultat du Renvoi"
 
 #: src/components/modals/RequiredActionModal.tsx:568
 msgid "Resend Verification Email"
-msgstr "Renvoyer l'Email de vérification"
+msgstr "Renvoyer l'Email de Vérification"
 
 #: src/components/auth/IpAuthorizationScreen.tsx:148
 msgid "Resent"
@@ -17945,11 +17945,11 @@ msgstr "Réinitialiser"
 
 #: src/components/modals/tabs/developer_options_tab/NagbarsTab.tsx:97
 msgid "Reset All Nagbars"
-msgstr "Réinitialiser toutes les barres d'alerte"
+msgstr "Réinitialiser Toutes les Barres d'Alerte"
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:546
 msgid "Reset all overrides to theme default"
-msgstr "Réinitialiser tous les overrides aux valeurs par défaut du thème"
+msgstr "Réinitialiser tous les remplacements aux valeurs par défaut du thème"
 
 #: src/components/ErrorFallback.tsx:133
 msgid "Reset app data"
@@ -17957,11 +17957,11 @@ msgstr "Réinitialiser les données de l'appli"
 
 #: src/components/BootstrapErrorScreen.tsx:74
 msgid "Reset App Data"
-msgstr "Réinitialiser les données de l'appli"
+msgstr "Réinitialiser les Données de l'Appli"
 
 #: src/components/modals/tabs/KeybindsTab.tsx:153
 msgid "Reset Keyboard Shortcuts"
-msgstr "Réinitialiser les raccourcis clavier"
+msgstr "Réinitialiser les Raccourcis Clavier"
 
 #: src/components/pages/ResetPasswordPage.tsx:121
 msgid "Reset password"
@@ -17969,25 +17969,25 @@ msgstr "Réinitialiser le mot de passe"
 
 #: src/components/pages/ResetPasswordPage.tsx:39
 msgid "Reset Password"
-msgstr "Réinitialiser le mot de passe"
+msgstr "Réinitialiser le Mot de Passe"
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:197
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:204
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:262
 msgid "Reset Premium State"
-msgstr "Réinitialiser l'état Premium"
+msgstr "Réinitialiser l'État Premium"
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:218
 msgid "Reset Socket"
-msgstr "Réinitialiser le socket"
+msgstr "Réinitialiser le Socket"
 
 #: src/components/modals/tabs/developer_options_tab/PremiumScenarioOptions.tsx:67
 msgid "Reset to Actual Values"
-msgstr "Réinitialiser aux valeurs réelles"
+msgstr "Réinitialiser aux Valeurs Réelles"
 
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:771
 msgid "Reset to Default"
-msgstr "Réinitialiser par défaut"
+msgstr "Réinitialiser aux Valeurs par Défaut"
 
 #: src/components/modals/tabs/KeybindsTab.tsx:187
 msgid "Reset to defaults"
@@ -25397,15 +25397,15 @@ msgstr "Vous avez atteint la limite maximale de {maxFavoriteMemes} éléments mu
 
 #: src/components/alerts/MaxBookmarksModal.tsx:58
 msgid "You've reached the maximum number of bookmarks ({bookmarksText}). Please remove some bookmarks before adding new ones."
-msgstr "Vous avez atteint le nombre maximum de signets ({bookmarksText}). Veuillez supprimer quelques signets avant d'en ajouter de nouveaux."
+msgstr "Vous avez atteint le nombre maximum de marque-pages ({bookmarksText}). Veuillez supprimer quelques marque-pages avant d'en ajouter de nouveaux."
 
 #: src/components/alerts/MaxBookmarksModal.tsx:47
 msgid "You've reached the maximum number of bookmarks ({bookmarksText}). This limit is configured by your instance administrator. Please remove some bookmarks before adding new ones."
-msgstr "Vous avez atteint le nombre maximum de signets ({bookmarksText}). Cette limite est configurée par l'administrateur de votre instance. Veuillez supprimer quelques signets avant d'en ajouter de nouveaux."
+msgstr "Vous avez atteint le nombre maximum de marque-pages ({bookmarksText}). Cette limite est configurée par l'administrateur de votre instance. Veuillez supprimer quelques marque-pages avant d'en ajouter de nouveaux."
 
 #: src/components/alerts/MaxBookmarksModal.tsx:71
 msgid "You've reached the maximum number of bookmarks for free users ({bookmarksText}). Upgrade to Plutonium to increase your limit to {premiumBookmarksText}, or remove some bookmarks to add new ones."
-msgstr "Vous avez atteint le nombre maximum de signets pour les utilisateurs gratuits ({bookmarksText}). Passez à Plutonium pour augmenter votre limite à {premiumBookmarksText}, ou supprimez quelques signets pour en ajouter de nouveaux."
+msgstr "Vous avez atteint le nombre maximum de marque-pages pour les utilisateurs gratuits ({bookmarksText}). Passez à Plutonium pour augmenter votre limite à {premiumBookmarksText}, ou supprimez quelques marque-pages pour en ajouter de nouveaux."
 
 #: src/components/alerts/MaxGuildsModal.tsx:39
 msgid "You've reached the maximum number of communities you can join ({maxGuilds} communities). Please leave a community before joining another one."

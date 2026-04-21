@@ -442,12 +442,12 @@ msgstr "{backgroundCount} / {maxBackgroundImages} arrière-plans personnalisés"
 
 #: src/components/alerts/FileSizeTooLargeModal.tsx:63
 msgid "{baseDescription} This limit is configured by your instance administrator."
-msgstr "{baseDescription} Cette limite est configurée par l'administrateur de votre instance."
+msgstr "{baseDescription} Cette limite est configurée par l'administrateur de ton instance."
 
 #. placeholder {0}: formatFileSize(premiumMaxAttachmentFileSize)
 #: src/components/alerts/FileSizeTooLargeModal.tsx:78
 msgid "{baseDescription} With Plutonium, your per-file upload limit increases to {0}, plus animated avatars, longer messages, and many other premium features."
-msgstr "{baseDescription} Avec Plutonium, votre limite de téléchargement par fichier augmente à {0}, plus des avatars animés, des messages plus longs et de nombreuses autres fonctionnalités premium."
+msgstr "{baseDescription} Avec Plutonium, ta limite de téléchargement par fichier augmente à {0}, plus des avatars animés, des messages plus longs et de nombreuses autres fonctionnalités premium."
 
 #: src/components/pages/OAuthAuthorizePage.tsx:743
 msgid "{clientLabel} wants to connect"
@@ -2241,7 +2241,7 @@ msgstr "Tous les types de statut"
 
 #: src/components/modals/tabs/LanguageTab.tsx:190
 msgid "All translations are currently LLM-generated with minimal human revision. We'd love to get real people to help us localize Fluxer into your language! To do so, send an email to <0>i18n@fluxer.app</0> and we'll be happy to accept your contributions."
-msgstr "Toutes les traductions sont actuellement générées par LLM avec une révision humaine minimale. Nous aimerions que de vraies personnes nous aident à localiser Fluxer dans votre langue ! Pour cela, envoyez un Email à <0>i18n@fluxer.app</0> et nous serons ravis d'accepter vos contributions."
+msgstr "Toutes les traductions sont actuellement générées par LLM avec une révision humaine minimale. Nous aimerions que de vraies personnes nous aident à localiser Fluxer dans ta langue ! Pour cela, envoie un Email à <0>i18n@fluxer.app</0> et nous serons ravis d'accepter tes contributions."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.tsx:232
 #: src/components/modals/guild_tabs/GuildAuditLogTab.tsx:394
@@ -2278,7 +2278,7 @@ msgstr "Autoriser n'importe qui à inviter ce bot dans leurs communautés."
 
 #: src/components/modals/EditConnectionModal.tsx:90
 msgid "Allow anyone to see this connection on your profile"
-msgstr "Autoriser tout le monde à voir cette connexion sur votre profil"
+msgstr "Autoriser tout le monde à voir cette connexion sur ton profil"
 
 #: src/components/modals/tabs/privacy_safety_tab/ConnectionsTab.tsx:202
 msgid "Allow anyone to send you friend requests"
@@ -2386,7 +2386,7 @@ msgstr "Autoriser les utilisateurs à envoyer des demandes d'amis à ce bot pour
 
 #: src/components/modals/EditConnectionModal.tsx:96
 msgid "Allow your friends to see this connection"
-msgstr "Autoriser vos amis à voir cette connexion"
+msgstr "Autoriser tes amis à voir cette connexion"
 
 #. placeholder {0}: renderInline(addedLabels, i18nInstance)
 #. placeholder {1}: renderInline(removedLabels, i18nInstance)
@@ -2666,15 +2666,15 @@ msgstr "Niveau de zoom de l'application"
 
 #: src/hooks/useCommands.tsx:51
 msgid "Appends (╯°□°)╯︵ ┻━┻ to your message."
-msgstr "Ajoute (╯°□°)╯︵ ┻━┻ à votre message."
+msgstr "Ajoute (╯°□°)╯︵ ┻━┻ à ton message."
 
 #: src/hooks/useCommands.tsx:46
 msgid "Appends ¯\\_(ツ)_/¯ to your message."
-msgstr "Ajoute ¯\\_(ツ)_/¯ à votre message."
+msgstr "Ajoute ¯\\_(ツ)_/¯ à ton message."
 
 #: src/hooks/useCommands.tsx:57
 msgid "Appends ┬─┬ ノ( ゜-゜ノ) to your message."
-msgstr "Ajoute ┬─┬ ノ( ゜-゜ノ) à votre message."
+msgstr "Ajoute ┬─┬ ノ( ゜-゜ノ) à ton message."
 
 #: src/components/modals/utils/SettingsConstants.tsx:100
 msgid "Application"
@@ -2778,7 +2778,7 @@ msgstr "Es-tu sûr de vouloir fermer ton MP avec {displayName} ? Tu pourras tou
 
 #: src/components/modals/tabs/AuthorizedAppsTab.tsx:91
 msgid "Are you sure you want to deauthorize {appName}? This application will no longer have access to your account."
-msgstr "Êtes-vous sûr de vouloir désautoriser {appName} ? Cette application n'aura plus accès à votre compte."
+msgstr "Es-tu sûr de vouloir désautoriser {appName} ? Cette application n'aura plus accès à ton compte."
 
 #. placeholder {0}: emoji.name
 #: src/components/emojis/EmojiListItem.tsx:194
@@ -4374,7 +4374,7 @@ msgstr "Modifier ce que les utilisateurs sans l'historique des messages peuvent 
 
 #: src/components/modals/EmailChangeModal.tsx:186
 msgid "Change Your Email"
-msgstr "Changer Votre Email"
+msgstr "Changer Ton Email"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:101
 msgid "Change your email address"
@@ -4382,7 +4382,7 @@ msgstr "Changer ton adresse Email"
 
 #: src/components/modals/FluxerTagChangeModal.tsx:164
 msgid "Change Your FluxerTag"
-msgstr "Changer Votre FluxerTag"
+msgstr "Changer Ton FluxerTag"
 
 #: src/hooks/useCommands.tsx:70
 msgid "Change your nickname in this community."
@@ -4763,7 +4763,7 @@ msgstr "Choisis comment les indicateurs de saisie apparaissent dans la liste des
 
 #: src/components/modals/guild_tabs/GuildDiscoveryTab.tsx:346
 msgid "Choose the category that best describes your community."
-msgstr "Choisissez la catégorie qui décrit le mieux votre communauté."
+msgstr "Choisissez la catégorie qui décrit le mieux ta communauté."
 
 #: src/components/pages/OAuthAuthorizePage.tsx:605
 msgid "Choose what {clientLabel} can do in your community. Uncheck any permissions you don't want to grant."
@@ -4787,7 +4787,7 @@ msgstr "Choisis quelle variante prévisualiser"
 
 #: src/components/modals/EditConnectionModal.tsx:86
 msgid "Choose who can see this connection on your profile."
-msgstr "Choisissez qui peut voir cette connexion sur votre profil."
+msgstr "Choisissez qui peut voir cette connexion sur ton profil."
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:166
 msgid "Choose your language"
@@ -4831,7 +4831,7 @@ msgstr "Récupère ton compte"
 #: src/components/channel/direct_message/AddFriendForm.tsx:55
 #: src/components/modals/ClaimAccountModal.tsx:137
 msgid "Claim Your Account"
-msgstr "Réclamer Votre Compte"
+msgstr "Réclamer Ton Compte"
 
 #: src/components/modals/ClaimAccountModal.tsx:143
 msgid "Claim your account by adding an email and password. We will send a verification code to confirm your email before finishing."
@@ -4873,7 +4873,7 @@ msgstr "Revendique to compte pour acheter Fluxer Plutonium."
 
 #: src/components/modals/components/plutonium/SubscriptionCard.tsx:104
 msgid "Claim your account to purchase or redeem Fluxer Plutonium."
-msgstr "Revendiquer votre compte pour acheter ou échanger Fluxer Plutonium."
+msgstr "Revendique ton compte pour acheter ou échanger Fluxer Plutonium."
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:240
 msgid "Claim your account to redeem or manage Plutonium gift codes."
@@ -5340,7 +5340,7 @@ msgstr "Communautés"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/DefaultNotificationsSection.tsx:52
 msgid "Communities with over 250 people are forced onto the \"mentions only\" setting. Your original setting is preserved and will be restored if the community drops below 250 members."
-msgstr "Les communautés de plus de 250 personnes sont obligées d'utiliser le réglage \"mentions uniquement\". Votre réglage d'origine est conservé et sera restauré si la communauté tombe en dessous de 250 membres."
+msgstr "Les communautés de plus de 250 personnes sont obligées d'utiliser le réglage \"mentions uniquement\". Ton réglage d'origine est conservé et sera restauré si la communauté tombe en dessous de 250 membres."
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:463
 msgid "community"
@@ -5910,11 +5910,11 @@ msgstr "Contrôle la visibilité des favoris dans toute l'application."
 #: src/components/modals/tabs/AppearanceTab.tsx:101
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:197
 msgid "Control unread indicator behavior for muted channels in channel lists."
-msgstr "Contrôlez le comportement de l'indicateur de non-lu pour les canaux muets dans les listes de canaux."
+msgstr "Contrôlee le comportement de l'indicateur de non-lu pour les canaux muets dans les listes de canaux."
 
 #: src/components/modals/tabs/chat_settings_tab/InputTab.tsx:58
 msgid "Control what appears in the expression autocomplete when you type colon. Customize what suggestions show up to match your preferences."
-msgstr "Contrôlez ce qui apparaît dans l'autocomplétion d'expressions lorsque vous tapez deux-points. Personnalisez les suggestions qui s'affichent pour correspondre à vos préférences."
+msgstr "Contrôlee ce qui apparaît dans l'autocomplétion d'expressions lorsque tu tapes deux-points. Personnalise les suggestions qui s'affichent pour correspondre à tes préférences."
 
 #: src/components/modals/tabs/appearance_tab/InterfaceTab.tsx:130
 msgid "Control whether keyboard shortcut hints appear inside tooltips."
@@ -6730,7 +6730,7 @@ msgstr "Personnalisez quels boutons sont visibles dans la zone de saisie de mess
 #. placeholder {0}: user.discriminator
 #: src/components/modals/tabs/my_profile_tab/UsernameSection.tsx:75
 msgid "Customize your 4-digit tag (#{0}) to your liking with Plutonium"
-msgstr "Personnalisez votre tag à 4 chiffres (#{0}) selon vos préférences avec Plutonium"
+msgstr "Personnalise ton tag à 4 chiffres (#{0}) selon tes préférences avec Plutonium"
 
 #: src/components/modals/FluxerTagChangeModal.tsx:286
 msgid "Customize your 4-digit tag or keep it when changing your username"
@@ -6750,7 +6750,7 @@ msgstr "Personnalise la couleur de bordure et de bannière de ton profil"
 
 #: src/components/modals/tabs/my_profile_tab/PerGuildPremiumUpsell.tsx:35
 msgid "Customizing your avatar, banner, accent color, and bio for individual communities is not enabled on this instance. Community nickname and pronouns are available for everyone."
-msgstr "La personnalisation de votre avatar, bannière, couleur d'accent et bio pour des communautés individuelles n'est pas activée sur cette instance. Le surnom de la communauté et les pronoms sont disponibles pour tout le monde."
+msgstr "La personnalisation de ton avatar, bannière, couleur d'accent et bio pour des communautés individuelles n'est pas activée sur cette instance. Le surnom de la communauté et les pronoms sont disponibles pour tout le monde."
 
 #: src/components/modals/tabs/my_profile_tab/PerGuildPremiumUpsell.tsx:30
 msgid "Customizing your avatar, banner, accent color, and bio for individual communities requires Plutonium. Community nickname and pronouns are free for everyone."
@@ -8002,7 +8002,7 @@ msgstr "Télécharger"
 
 #: src/components/modals/AddConnectionModal.tsx:283
 msgid "Download <0>fluxer-verification</0> and place it in your <1>.well-known</1> folder so we can validate the domain."
-msgstr "Téléchargez <0>fluxer-verification</0> et placez-le dans votre dossier <1>.well-known</1> afin que nous puissions valider le domaine."
+msgstr "Téléchargez <0>fluxer-verification</0> et place-le dans ton dossier <1>.well-known</1> afin que nous puissions valider le domaine."
 
 #: src/components/modals/tabs/PrivacySafetyTab.tsx:54
 msgid "Download a complete package of your account data, including all messages and attachment URLs"
@@ -8544,7 +8544,7 @@ msgstr "Activer la Lecture Vocale /tts"
 
 #: src/components/modals/guild_tabs/GuildModerationTab.tsx:149
 msgid "Enable 2FA on your account to change this setting"
-msgstr "Activez l'A2F sur votre compte pour changer ce paramètre"
+msgstr "Activez l'A2F sur ton compte pour changer ce paramètre"
 
 #: src/components/modals/tabs/AdvancedTab.tsx:151
 msgid "Enable advanced features for debugging and development. Note that copying snowflake IDs for entities is always available to all users without needing developer mode."
@@ -9099,7 +9099,7 @@ msgstr "Les packs d'expressions sont une fonctionnalité Plutonium"
 
 #: src/components/modals/tabs/ExpressionPacksTab.tsx:131
 msgid "Expression packs are not enabled on this instance. Contact your instance administrator for more information."
-msgstr "Les packs d'expressions ne sont pas activés sur cette instance. Contactez l'administrateur de votre instance pour plus d'informations."
+msgstr "Les packs d'expressions ne sont pas activés sur cette instance. Contacte l'administrateur de ton instance pour plus d'informations."
 
 #: src/components/modals/ExpressionPickerSheet.tsx:215
 #: src/components/panels/ExpressionPickerPanel.tsx:178
@@ -10267,7 +10267,7 @@ msgstr "Gratuit vs Plutonium"
 
 #: src/components/modals/tabs/VideoTab.tsx:237
 msgid "Freezes your preview while Fluxer is in the background to save resources."
-msgstr "Gèle votre aperçu pendant que Fluxer est en arrière-plan pour économiser des ressources."
+msgstr "Gèle ton aperçu pendant que Fluxer est en arrière-plan pour économiser des ressources."
 
 #: src/utils/LocaleUtils.tsx:49
 msgid "French"
@@ -11182,11 +11182,11 @@ msgstr "Masquer le badge d'identification Visionary (#{premiumLifetimeSequence})
 
 #: src/components/modals/HideOwnCameraConfirmModal.tsx:48
 msgid "Hide Your Own Camera?"
-msgstr "Cacher Votre Propre Caméra ?"
+msgstr "Cacher Ta Propre Caméra ?"
 
 #: src/components/modals/HideOwnScreenShareConfirmModal.tsx:48
 msgid "Hide Your Own Screen Share?"
-msgstr "Cacher Votre Propre Partage d'Écran ?"
+msgstr "Cacher Ton Propre Partage d'Écran ?"
 
 #: src/components/modals/guild_tabs/GuildModerationTab.tsx:172
 msgid "High"
@@ -11809,7 +11809,7 @@ msgstr "Installer un Pack d'Émojis"
 
 #: src/components/layout/app_layout/nagbars/MobileDownloadNagbar.tsx:50
 msgid "Install Fluxer on your phone as a home screen app to receive notifications on the go!"
-msgstr "Installez Fluxer sur votre téléphone en tant qu'application d'écran d'accueil pour recevoir des notifications lors de tes déplacements !"
+msgstr "Installe Fluxer sur ton téléphone en tant qu'application d'écran d'accueil pour recevoir des notifications lors de tes déplacements !"
 
 #: src/components/channel/InviteEmbed.tsx:223
 #: src/components/modals/InviteAcceptModal.tsx:160
@@ -12703,7 +12703,7 @@ msgstr "Infobulle Gauche"
 
 #: src/components/modals/tabs/notifications_tab/TextToSpeech.tsx:71
 msgid "Let /tts read your message aloud; disabling the setting keeps those commands as regular text."
-msgstr "Laissez /tts lire votre message à voix haute ; désactiver ce paramètre garde ces commandes en tant que texte normal."
+msgstr "Laisse /tts lire ton message à voix haute ; désactiver ce paramètre garde ces commandes en tant que texte normal."
 
 #: src/components/modals/tabs/notifications_tab/TextToSpeech.tsx:49
 msgid "Let every incoming message be spoken, regardless of which channel is open."
@@ -12799,11 +12799,11 @@ msgstr "Le lien a expiré. Ton adresse IP a probablement déjà été autorisée
 
 #: src/components/modals/tabs/LinkedAccountsTab.tsx:284
 msgid "Link external accounts and domains to your Fluxer profile. Verified connections will be displayed on your profile for others to see."
-msgstr "Liez les comptes et domaines externes à votre profil Fluxer. Les connexions vérifiées seront affichées sur votre profil pour que les autres puissent les voir."
+msgstr "Lie les comptes et domaines externes à ton profil Fluxer. Les connexions vérifiées seront affichées sur ton profil pour que les autres puissent les voir."
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:321
 msgid "Link external accounts and domains to your profile"
-msgstr "Liez des comptes et des domaines externes à votre profil"
+msgstr "Lie des comptes et des domaines externes à ton profil"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:312
 msgid "link preview"
@@ -12823,7 +12823,7 @@ msgstr "avertissements de lien"
 
 #: src/components/modals/tabs/LinkedAccountsTab.tsx:321
 msgid "Link your Bluesky account or verify domain ownership to display them on your profile."
-msgstr "Liez votre compte Bluesky ou vérifiez la propriété du domaine pour les afficher sur votre profil."
+msgstr "Lie ton compte Bluesky ou vérifiez la propriété du domaine pour les afficher sur ton profil."
 
 #: src/utils/SearchUtils.tsx:208
 msgid "link, embed or file"
@@ -12856,7 +12856,7 @@ msgstr "Liens"
 
 #: src/components/modals/guild_tabs/GuildDiscoveryTab.tsx:215
 msgid "List your community in Discovery so others can find and join it."
-msgstr "Listez votre communauté dans Découverte afin que d'autres puissent la trouver et la rejoindre."
+msgstr "Liste ta communauté dans Découverte afin que d'autres puissent la trouver et la rejoindre."
 
 #: src/components/modals/tabs/component_gallery_tab/MarkdownTab.tsx:109
 msgid "Lists"
@@ -14571,11 +14571,11 @@ msgstr "Nouvelles communautés uniquement"
 
 #: src/components/modals/tabs/chat_settings_tab/SidebarTab.tsx:44
 msgid "New communities you join will automatically have muted channels hidden. Would you also like to apply this setting to all your existing communities?"
-msgstr "Les nouvelles communautés que vous rejoignez auront automatiquement les canaux muets cachés. Souhaitez-vous également appliquer ce paramètre à toutes vos communautés existantes ?"
+msgstr "Les nouvelles communautés que tu rejoins auront automatiquement les canaux muets cachés. Souhaites-tu également appliquer ce paramètre à toutes tes communautés existantes ?"
 
 #: src/components/modals/tabs/chat_settings_tab/SidebarTab.tsx:74
 msgid "New communities you join will no longer have muted channels hidden automatically. Would you also like to show muted channels in all your existing communities?"
-msgstr "Les nouvelles communautés que vous rejoignez n'auront plus les canaux muets cachés automatiquement. Souhaitez-vous également afficher les canaux muets dans toutes vos communautés existantes ?"
+msgstr "Les nouvelles communautés que tu rejoins n'auront plus les canaux muets cachés automatiquement. Souhaite-tu également afficher les canaux muets dans toutes tes communautés existantes ?"
 
 #: src/components/modals/EmailChangeModal.tsx:258
 #: src/components/modals/RequiredActionModal.tsx:471
@@ -14788,7 +14788,7 @@ msgstr "Aucun émoji ne correspond à ta recherche."
 
 #: src/components/channel/EmojiPicker.tsx:351
 msgid "No emojis match your search"
-msgstr "Aucun emoji ne correspond à votre recherche"
+msgstr "Aucun emoji ne correspond à ta recherche"
 
 #: src/components/common/FriendSelector.tsx:211
 #: src/components/modals/shared/RecipientList.tsx:188
@@ -15006,7 +15006,7 @@ msgstr "Aucun sticker ne correspond à ta recherche."
 
 #: src/components/channel/StickersPicker.tsx:327
 msgid "No stickers match your search"
-msgstr "Aucun sticker ne correspond à votre recherche"
+msgstr "Aucun sticker ne correspond à ta recherche"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/SystemWelcomeSection.tsx:40
 msgid "No System Channel"
@@ -16056,7 +16056,7 @@ msgstr "Les personnes des communautés que vous partagez peuvent t'ajouter aux d
 
 #: src/components/modals/tabs/privacy_safety_tab/CommunicationTab.tsx:185
 msgid "People from communities you're both in can call you"
-msgstr "Les personnes des communautés que vous avez en commun peuvent t'appeler"
+msgstr "Les personnes des communautés que Tu as en commun peuvent t'appeler"
 
 #: src/components/modals/tabs/privacy_safety_tab/CommunicationTab.tsx:255
 msgid "People who are friends with your friends can add you to group chats"
@@ -16096,7 +16096,7 @@ msgstr "Supprimer définitivement tous les messages que tu as envoyés sur la pl
 
 #: src/components/modals/tabs/account_security_tab/DangerZoneTab.tsx:69
 msgid "Permanently delete your account and all associated data. This action cannot be undone."
-msgstr "Supprimer définitivement votre compte et toutes les données associées. Cette action est irréversible."
+msgstr "Supprimer définitivement ton compte et toutes les données associées. Cette action est irréversible."
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:254
 msgid "permissions"
@@ -16436,7 +16436,7 @@ msgstr "Attends le chargement des tarifs."
 
 #: src/components/pages/SsoCallbackPage.tsx:133
 msgid "Please wait while we complete your sign-in."
-msgstr "Veuillez patienter pendant que nous complétons votre connexion."
+msgstr "Veuillez patienter pendant que nous complétons ta connexion."
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:92
 #: src/components/modals/utils/SettingsSearchIndex.tsx:262
@@ -16795,7 +16795,7 @@ msgstr "Protège ton compte avec l'authentification à deux facteurs et les clé
 
 #: src/components/layout/app_layout/nagbars/VisionaryMfaNagbar.tsx:52
 msgid "Protect your Visionary account by enabling two-factor authentication. Thanks for supporting Fluxer!"
-msgstr "Protégez votre compte Visionary en activant l'authentification à deux facteurs. Merci de soutenir Fluxer !"
+msgstr "Protége ton compte Visionary en activant l'authentification à deux facteurs. Merci de soutenir Fluxer !"
 
 #: src/components/modals/IARModal.tsx:244
 msgid "Provide any additional context that may help our Safety Team..."
@@ -19483,7 +19483,7 @@ msgstr "Affiche un faux code cadeau dans ton inventaire pour tester"
 
 #: src/components/modals/tabs/my_profile_tab/BannerUploader.tsx:86
 msgid "Show accent color only, ignoring your global profile"
-msgstr "Afficher uniquement la couleur d'accent, en ignorant votre profil global"
+msgstr "Afficher uniquement la couleur d'accent, en ignorant ton profil global"
 
 #: src/components/modals/tabs/appearance_tab/ActiveNowTab.tsx:36
 msgid "Show Active Now on the home screen"
@@ -19524,7 +19524,7 @@ msgstr "Affiche les émojis personnalisés dans l'autocomplétion d'expressions"
 
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:94
 msgid "Show default avatar, ignoring your global profile"
-msgstr "Afficher l'avatar par défaut, en ignorant votre profil global"
+msgstr "Afficher l'avatar par défaut, en ignorant ton profil global"
 
 #: src/components/modals/tabs/chat_settings_tab/InputTab.tsx:63
 msgid "Show default emojis in expression autocomplete"
@@ -19747,11 +19747,11 @@ msgstr "Afficher ton arrière-plan réel"
 
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:83
 msgid "Show your global profile avatar in this community"
-msgstr "Afficher votre avatar de profil global dans cette communauté"
+msgstr "Afficher ton avatar de profil global dans cette communauté"
 
 #: src/components/modals/tabs/my_profile_tab/BannerUploader.tsx:75
 msgid "Show your global profile banner in this community"
-msgstr "Afficher votre bannière de profil global dans cette communauté"
+msgstr "Afficher ton bannière de profil global dans cette communauté"
 
 #: src/components/modals/tabs/my_profile_tab/PremiumBadgeSettings.tsx:92
 msgid "Show your Visionary as a regular subscription instead"
@@ -20076,7 +20076,7 @@ msgstr "Une erreur s'est produite lors du chargement des membres. Réessayez plu
 
 #: src/components/pages/ConnectionCallbackPage.tsx:60
 msgid "Something went wrong while connecting your account. You can close this tab and try again."
-msgstr "Une erreur s'est produite lors de la connexion de votre compte. Vous pouvez fermer cet onglet et réessayer."
+msgstr "Une erreur s'est produite lors de la connexion de ton compte. Vous pouvez fermer cet onglet et réessayer."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.tsx:337
 #: src/components/modals/guild_tabs/GuildAuditLogTab.tsx:371
@@ -20248,7 +20248,7 @@ msgstr "Vitesse de lecture de la parole"
 
 #: src/components/modals/tabs/AccessibilityTab.tsx:251
 msgid "Speech synthesis is unavailable in your browser."
-msgstr "La synthèse vocale n'est pas disponible dans votre navigateur."
+msgstr "La synthèse vocale n'est pas disponible dans ton navigateur."
 
 #: src/components/channel/textarea/TextareaContextMenu.tsx:141
 msgid "Spellcheck"
@@ -21066,7 +21066,7 @@ msgstr "Synthèse vocale"
 
 #: src/components/alerts/TtsUnsupportedModal.tsx:30
 msgid "Text-to-speech is not supported by your browser. Some browsers like Brave block this feature for privacy reasons. Try using Chrome, Firefox, or Edge, or adjust your browser's privacy settings."
-msgstr "La synthèse vocale n'est pas prise en charge par votre navigateur. Certains navigateurs comme Brave bloquent cette fonctionnalité pour des raisons de confidentialité. Essayez d'utiliser Chrome, Firefox ou Edge, ou ajustez les paramètres de confidentialité de votre navigateur."
+msgstr "La synthèse vocale n'est pas prise en charge par ton navigateur. Certains navigateurs comme Brave bloquent cette fonctionnalité pour des raisons de confidentialité. Essayez d'utiliser Chrome, Firefox ou Edge, ou ajustez les paramètres de confidentialité de ton navigateur."
 
 #: src/components/alerts/TtsUnsupportedModal.tsx:29
 msgid "Text-to-Speech Not Supported"
@@ -21383,7 +21383,7 @@ msgstr "Ce salon est synchronisé avec la catégorie parente <0>{0}</0>."
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:199
 msgid "This clears your backend premium state entirely, including premium type, billing metadata, and override flags."
-msgstr "Cela efface complètement votre état premium backend, y compris le type premium, les métadonnées de facturation et les flags de dérogation."
+msgstr "Cela efface complètement ton état premium backend, y compris le type premium, les métadonnées de facturation et les flags de dérogation."
 
 #: src/components/auth/BrowserLoginHandoffModal.tsx:158
 msgid "This code hasn't been used yet. Please complete login in your browser first."
@@ -21636,7 +21636,7 @@ msgstr "Cette raison sera affichée dans le journal d'activité des paramètres 
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:121
 msgid "This removes all previously authorized IP addresses on your account. The next login from any IP will require email verification."
-msgstr "Cela supprime toutes les adresses IP précédemment autorisées sur votre compte. La prochaine connexion depuis n'importe quelle IP nécessitera une vérification par Email."
+msgstr "Cela supprime toutes les adresses IP précédemment autorisées sur ton compte. La prochaine connexion depuis n'importe quelle IP nécessitera une vérification par Email."
 
 #: src/components/channel/MentionEveryonePopout.tsx:45
 msgid "this role"
@@ -21720,7 +21720,7 @@ msgstr "Cela masquera tous les éléments d'interface liés aux favoris, y compr
 
 #: src/components/modals/BackupCodesRegenerateModal.tsx:72
 msgid "This will invalidate your existing backup codes and generate new ones."
-msgstr "Cela invalidera vos codes de sauvegarde existants et en générera de nouveaux."
+msgstr "Cela invalidera tes codes de sauvegarde existants et en générera de nouveaux."
 
 #: src/components/channel/ChannelTextarea.tsx:1034
 msgid "This will modify the existing scheduled message rather than sending immediately."
@@ -21760,7 +21760,7 @@ msgstr "Cela remplacera ton thème personnalisé actuel. Tu pourras le modifier 
 
 #: src/components/modals/tabs/chat_settings_tab/LinksTab.tsx:53
 msgid "This will trust all external links and skip the warning for every domain. Your existing trusted domains will be replaced. This is less secure."
-msgstr "Cela fera confiance à tous les liens externes et ignorera l'avertissement pour chaque domaine. Vos domaines de confiance existants seront remplacés. C'est moins sécurisé."
+msgstr "Cela fera confiance à tous les liens externes et ignorera l'avertissement pour chaque domaine. Tes domaines de confiance existants seront remplacés. C'est moins sécurisé."
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/MessageHistoryThresholdContent.tsx:215
 msgid "Threshold Date"
@@ -22270,7 +22270,7 @@ msgstr "Désactiver ceci ne masque ta caméra que pour toi. Les autres participa
 
 #: src/components/modals/HideOwnScreenShareConfirmModal.tsx:51
 msgid "Turning this off only hides your screen share from your own view. Others in the call can still see your screen."
-msgstr "Désactiver cela ne cache ton partage d'écran que pour toi. Les autres participants à l'appel peuvent toujours voir votre écran."
+msgstr "Désactiver cela ne cache ton partage d'écran que pour toi. Les autres participants à l'appel peuvent toujours voir ton écran."
 
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:471
 msgid "Tweak this category's basics."
@@ -23174,7 +23174,7 @@ msgstr "Téléverser l'Image"
 
 #: src/utils/PermissionUtils.tsx:285
 msgid "Upload new emoji and stickers, and manage your own creations."
-msgstr "Téléverser de nouveaux émojis et stickers, et gérer vos propres créations."
+msgstr "Téléverser de nouveaux émojis et stickers, et gérer tes propres créations."
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:577
 msgid "upload sound"
@@ -23191,7 +23191,7 @@ msgstr "Téléverser sur {displayName}"
 #: src/components/channel/textarea/MobileTextareaPlusBottomSheet.tsx:57
 #: src/components/channel/textarea/TextareaPlusMenu.tsx:81
 msgid "Upload your message as a file"
-msgstr "Téléversez votre message en tant que fichier"
+msgstr "Téléverser ton message en tant que fichier"
 
 #: src/components/modals/tabs/chat_settings_tab/MediaTab.tsx:148
 msgid "Uploaded attachments"
@@ -23538,7 +23538,7 @@ msgstr "Utilisations"
 
 #: src/components/modals/tabs/AdvancedTab.tsx:139
 msgid "Uses H.265 for screen sharing when enabled. Turn this off to prefer VP9. Changes apply the next time you start sharing your screen."
-msgstr "Utilise H.265 pour le partage d'écran lorsqu'il est activé. Désactivez cela pour préférer VP9. Les changements s'appliquent la prochaine fois que vous commencez à partager votre écran."
+msgstr "Utilise H.265 pour le partage d'écran lorsqu'il est activé. Désactivez cela pour préférer VP9. Les changements s'appliquent la prochaine fois que vous commencez à partager ton écran."
 
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:93
 msgid "Uses the OS notification center. For per-channel/per-community controls, right-click a community icon and open Notification Settings."
@@ -23655,7 +23655,7 @@ msgstr "Code de vérification envoyé"
 
 #: src/components/modals/RequiredActionModal.tsx:278
 msgid "Verification code sent. Check your new email inbox."
-msgstr "Code de vérification envoyé. Vérifiez votre nouvelle boîte de réception."
+msgstr "Code de vérification envoyé. Vérifie ta nouvelle boîte de réception."
 
 #: src/components/modals/components/EmailVerificationAlert.tsx:40
 #: src/components/modals/RequiredActionModal.tsx:335
@@ -23973,7 +23973,7 @@ msgstr "Voir le fichier entier"
 
 #: src/AppConstants.tsx:29
 msgid "View your connected accounts"
-msgstr "Voir vos comptes connectés"
+msgstr "Voir tes comptes connectés"
 
 #: src/AppConstants.tsx:27
 msgid "View your email address"
@@ -24011,11 +24011,11 @@ msgstr "Visionary"
 
 #: src/components/modals/tabs/developer_options_tab/PremiumScenarioOptions.tsx:66
 msgid "Visionary (Lifetime #42)"
-msgstr "Visionary (à vie #42)"
+msgstr "Visionary (#42 à vie)"
 
 #: src/utils/GiftUtils.tsx:48
 msgid "Visionary (Lifetime Plutonium)"
-msgstr "Visionary (à vie Plutonium)"
+msgstr "Visionary (Plutonium à vie)"
 
 #: src/components/modals/tabs/developer_options_tab/NagbarControls.tsx:172
 msgid "Visionary 2FA Nagbar"
@@ -24023,7 +24023,7 @@ msgstr "Barre de notification 2FA Visionary"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:137
 msgid "Visionary Badge Override"
-msgstr "Remplacement du badge Visionary"
+msgstr "Remplacement du Badge Visionary"
 
 #. placeholder {0}: profile.premiumLifetimeSequence
 #: src/components/popouts/UserProfileBadges.tsx:150
@@ -24032,11 +24032,11 @@ msgstr "ID Visionary #{0}"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:139
 msgid "Visionary ID Number"
-msgstr "Numéro d'identification Visionary"
+msgstr "Numéro d'Identification Visionary"
 
 #: src/components/modals/ExternalLinkWarningModal.tsx:111
 msgid "Visit Site"
-msgstr "Visiter le site"
+msgstr "Visiter le Site"
 
 #: src/components/modals/tabs/accessibility_tab/Inline.tsx:33
 #: src/components/modals/tabs/AccessibilityTab.tsx:201
@@ -24076,7 +24076,7 @@ msgstr "activité vocale"
 
 #: src/components/modals/tabs/VoiceTab.tsx:122
 msgid "Voice Activity"
-msgstr "Activité vocale"
+msgstr "Activité Vocale"
 
 #: src/components/bottomsheets/DirectCallLobbyBottomSheet.tsx:97
 #: src/components/bottomsheets/DirectCallLobbyBottomSheet.tsx:179
@@ -24090,7 +24090,7 @@ msgstr "Appel vocal"
 #: src/components/modals/UserProfileMobileSheet.tsx:563
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:553
 msgid "Voice Call"
-msgstr "Appel vocal"
+msgstr "Appel Vocal"
 
 #: src/components/voice/CompactVoiceCallView.tsx:331
 msgid "Voice call. {statusText}."
@@ -24098,7 +24098,7 @@ msgstr "Appel vocal. {statusText}."
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:107
 msgid "Voice Calls"
-msgstr "Appels vocaux"
+msgstr "Appels Vocaux"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:184
 msgid "voice channel"
@@ -24114,11 +24114,11 @@ msgstr "Salon vocal"
 #: src/components/channel/channel_header/useChannelHeaderData.tsx:100
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:322
 msgid "Voice Channel"
-msgstr "Salon vocal"
+msgstr "Salon Vocal"
 
 #: src/components/alerts/VoiceChannelFullModal.tsx:29
 msgid "Voice Channel Full"
-msgstr "Salon vocal complet"
+msgstr "Salon Vocal Complet"
 
 #: src/components/modals/tabs/appearance_tab/InterfaceTab.tsx:143
 msgid "Voice channel join behavior"
@@ -24133,28 +24133,28 @@ msgstr "Salons vocaux"
 #: src/components/voice/VoiceConnectionStatus.tsx:323
 #: src/components/voice/VoiceConnectionStatus.tsx:1039
 msgid "Voice Connected"
-msgstr "Voix connectée"
+msgstr "Voix Connectée"
 
 #: src/components/voice/VoiceConnectionStatus.tsx:144
 #: src/components/voice/VoiceConnectionStatus.tsx:908
 msgid "Voice Connection"
-msgstr "Connexion vocale"
+msgstr "Connexion Vocale"
 
 #: src/components/alerts/VoiceConnectionConfirmModal.tsx:45
 msgid "Voice Connection Confirmation"
-msgstr "Confirmation de la connexion vocale"
+msgstr "Confirmation de la Connexion Vocale"
 
 #: src/utils/SoundLabels.tsx:29
 msgid "Voice Deafen"
-msgstr "Couper le son"
+msgstr "Couper le Son en Appel Vocal"
 
 #: src/utils/SoundLabels.tsx:36
 msgid "Voice Disconnected"
-msgstr "Voix déconnectée"
+msgstr "Appel Vocal Déconnectée"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:189
 msgid "voice join"
-msgstr "rejoindre vocalement"
+msgstr "rejoindre appel vocal"
 
 #: src/components/channel/textarea/HoldToRecordButton.tsx:244
 #: src/components/channel/textarea/TextareaButtons.tsx:168
@@ -24165,7 +24165,7 @@ msgstr "Message vocal"
 #: src/components/channel/textarea/HoldToRecordButton.tsx:115
 #: src/components/channel/VoiceMessageRecorder.tsx:350
 msgid "Voice Message"
-msgstr "Message vocal"
+msgstr "Message Vocal"
 
 #: src/components/channel/embeds/media/VoiceMessagePlayer.tsx:312
 msgid "Voice message player"
@@ -24173,11 +24173,11 @@ msgstr "Lecteur de message vocal"
 
 #: src/utils/SoundLabels.tsx:27
 msgid "Voice Mute"
-msgstr "Muet vocal"
+msgstr "Appel Vocal en Mode Muet"
 
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:640
 msgid "Voice Quality"
-msgstr "Qualité vocale"
+msgstr "Qualité Vocale"
 
 #: src/components/channel/textarea/HoldToRecordButton.tsx:166
 #: src/components/channel/VoiceMessageRecorder.tsx:366
@@ -24187,21 +24187,21 @@ msgstr "L'enregistrement vocal n'est pas pris en charge dans ce navigateur."
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:728
 #: src/components/voice/VoiceSettingsMenus.tsx:483
 msgid "Voice Region"
-msgstr "Région vocale"
+msgstr "Région Appel Vocale"
 
 #: src/components/bottomsheets/VoiceSettingsBottomSheets.tsx:165
 #: src/components/voice/VoiceSettingsMenus.tsx:204
 #: src/components/voice/VoiceSettingsMenus.tsx:291
 msgid "Voice Settings"
-msgstr "Paramètres vocaux"
+msgstr "Paramètres Vocaux"
 
 #: src/utils/SoundLabels.tsx:30
 msgid "Voice Undeafen"
-msgstr "Réactiver le son"
+msgstr "Réactiver le Son en Appel Vocal"
 
 #: src/utils/SoundLabels.tsx:28
 msgid "Voice Unmute"
-msgstr "Désactiver le muet vocal"
+msgstr "Désactiver le Mode Muet en Appel Vocal"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:389
 msgid "volume"
@@ -24220,11 +24220,11 @@ msgstr "Contrôle du volume"
 
 #: src/components/modals/AddGuildModal.tsx:154
 msgid "Volunteer Heroes"
-msgstr "Héros bénévoles"
+msgstr "Héros Bénévoles"
 
 #: src/components/modals/tabs/appearance_tab/MessagesTab.tsx:93
 msgid "Waiting for you to..."
-msgstr "En attente de ton action..."
+msgstr "En attente de ton action…"
 
 #: src/lib/markdown/renderers/common/BlockElements.tsx:180
 msgid "Warning"
@@ -24249,16 +24249,16 @@ msgstr "Regarder"
 #: src/components/voice/VoiceParticipantTile.tsx:1334
 #: src/components/voice/VoiceParticipantTile.tsx:1383
 msgid "Watch Stream"
-msgstr "Regarder le stream"
+msgstr "Regarder le Stream"
 
 #: src/components/profile/VoiceActivityCard.tsx:224
 msgid "Watching"
-msgstr "En suivi"
+msgstr "Regarde"
 
 #: src/components/voice/StreamWatchHoverCard.tsx:91
 #: src/components/voice/StreamWatchHoverPopout.tsx:168
 msgid "Watching Stream"
-msgstr "Regarder le flux"
+msgstr "Regarde le Stream"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:581
 msgid "wav"
@@ -24342,7 +24342,7 @@ msgstr "Nous avons envoyé un lien par email pour autoriser cette connexion. Ouv
 #: src/components/layout/GuildLayout.tsx:290
 #: src/components/layout/GuildLayout.tsx:331
 msgid "We fluxed up! Hang tight, we're working on it."
-msgstr "On a merdé ! Reste dans les parages, on gère ça."
+msgstr "On a tout fluxé ! Reste dans les parages, on gère ça."
 
 #: src/components/alerts/MessageDeleteFailedModal.tsx:29
 msgid "We hit a snag. Try deleting that message again."
@@ -24390,7 +24390,7 @@ msgstr "Nous enverrons un code de vérification à cette adresse email."
 
 #: src/components/modals/PasswordChangeModal.tsx:139
 msgid "We'll send a verification code to your email before you can change your password."
-msgstr "Nous vous enverrons un code de vérification à votre Email avant que vous puissiez changer votre mot de passe."
+msgstr "Nous vous enverrons un code de vérification à ton Email avant que vous puissiez changer ton mot de passe."
 
 #: src/components/modals/EmailChangeModal.tsx:193
 msgid "We'll verify your current email and then your new email with one-time codes."
@@ -24411,31 +24411,31 @@ msgstr "Nous avons du mal à nous connecter au continuum espace-temps. Vérifie 
 #: src/components/bottomsheets/ChannelSearchBottomSheet.tsx:303
 #: src/components/channel/ChannelSearchResults.tsx:681
 msgid "We're indexing this channel for the first time. This might take a little while..."
-msgstr "Nous indexons ce canal pour la première fois. Cela peut prendre un peu de temps..."
+msgstr "Nous indexons ce canal pour la première fois. Cela peut prendre un peu de temps…"
 
 #: src/components/modals/RequiredActionModal.tsx:166
 msgid "We've detected suspicious activity on your account. Please reverify your email address or phone number to continue using Fluxer."
-msgstr "Nous avons détecté une activité suspecte sur votre compte. Veuillez vérifier à nouveau votre adresse Email ou votre numéro de téléphone pour continuer à utiliser Fluxer."
+msgstr "Nous avons détecté une activité suspecte sur ton compte. Vérifie à nouveau ton adresse Email ou ton numéro de téléphone pour continuer à utiliser Fluxer."
 
 #: src/components/modals/RequiredActionModal.tsx:158
 msgid "We've detected suspicious activity on your account. Please reverify your email address to continue using Fluxer."
-msgstr "Nous avons détecté une activité suspecte sur votre compte. Veuillez vérifier à nouveau votre adresse Email pour continuer à utiliser Fluxer."
+msgstr "Nous avons détecté une activité suspecte sur ton compte. Vérifie à nouveau ton adresse Email pour continuer à utiliser Fluxer."
 
 #: src/components/modals/RequiredActionModal.tsx:162
 msgid "We've detected suspicious activity on your account. Please reverify your phone number to continue using Fluxer."
-msgstr "Nous avons détecté une activité suspecte sur votre compte. Veuillez vérifier à nouveau votre numéro de téléphone pour continuer à utiliser Fluxer."
+msgstr "Nous avons détecté une activité suspecte sur ton compte. Vérifie à nouveau ton numéro de téléphone pour continuer à utiliser Fluxer."
 
 #: src/components/modals/RequiredActionModal.tsx:167
 msgid "We've detected suspicious activity on your account. Please verify your email address or phone number to continue using Fluxer."
-msgstr "Nous avons détecté une activité suspecte sur votre compte. Veuillez vérifier votre adresse Email ou votre numéro de téléphone pour continuer à utiliser Fluxer."
+msgstr "Nous avons détecté une activité suspecte sur ton compte. Vérifie à nouveau ton adresse Email ou ton numéro de téléphone pour continuer à utiliser Fluxer."
 
 #: src/components/modals/RequiredActionModal.tsx:159
 msgid "We've detected suspicious activity on your account. Please verify your email address to continue using Fluxer."
-msgstr "Nous avons détecté une activité suspecte sur votre compte. Veuillez vérifier votre adresse Email pour continuer à utiliser Fluxer."
+msgstr "Nous avons détecté une activité suspecte sur ton compte. Vérifie à nouveau ton adresse Email pour continuer à utiliser Fluxer."
 
 #: src/components/modals/RequiredActionModal.tsx:163
 msgid "We've detected suspicious activity on your account. Please verify your phone number to continue using Fluxer."
-msgstr "Nous avons détecté une activité suspecte sur votre compte. Veuillez vérifier votre numéro de téléphone pour continuer à utiliser Fluxer."
+msgstr "Nous avons détecté une activité suspecte sur ton compte. Vérifie à nouveau ton numéro de téléphone pour continuer à utiliser Fluxer."
 
 #: src/components/pages/ForgotPasswordPage.tsx:65
 msgid "We've sent password reset instructions to your email address. Please check your inbox and follow the link to reset your password."
@@ -24459,11 +24459,11 @@ msgstr "Webhook créé"
 
 #: src/constants/AuditLogConstants.tsx:160
 msgid "Webhook Created"
-msgstr "Webhook créé"
+msgstr "Webhook Créé"
 
 #: src/constants/AuditLogConstants.tsx:170
 msgid "Webhook Deleted"
-msgstr "Webhook supprimé"
+msgstr "Webhook Supprimé"
 
 #: src/components/webhooks/WebhookListItem.tsx:240
 msgid "Webhook name"
@@ -24471,11 +24471,11 @@ msgstr "Nom du webhook"
 
 #: src/constants/AuditLogConstants.tsx:165
 msgid "Webhook Updated"
-msgstr "Webhook mis à jour"
+msgstr "Webhook Mis à Jour"
 
 #: src/components/webhooks/WebhookListItem.tsx:262
 msgid "Webhook URL"
-msgstr "URL du webhook"
+msgstr "URL du Webhook"
 
 #: src/components/modals/channel_tabs/ChannelWebhooksTab.tsx:99
 #: src/components/modals/guild_tabs/GuildWebhooksTab.tsx:98
@@ -24490,7 +24490,7 @@ msgstr "Webhooks mis à jour"
 
 #: src/components/modals/AddGuildModal.tsx:160
 msgid "Weekend Warriors"
-msgstr "Guerriers du week-end"
+msgstr "Guerriers du Week-end"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/SystemWelcomeSection.tsx:59
 msgid "Welcome and system messages will appear here."
@@ -24507,7 +24507,7 @@ msgstr "Bienvenue sur #{0}"
 
 #: src/components/favorites/FavoritesWelcomeSection.tsx:49
 msgid "Welcome to Favorites"
-msgstr "Bienvenue dans les favoris"
+msgstr "Bienvenue Dans les Favoris"
 
 #: src/components/layout/app_layout/nagbars/PremiumOnboardingNagbar.tsx:52
 msgid "Welcome to Fluxer Plutonium! Explore your premium features and manage your subscription."
@@ -24546,7 +24546,7 @@ msgstr "Ce qui se passe ensuite :"
 #: src/components/auth/AuthRegisterFormCore.tsx:276
 #: src/components/auth/MockMinimalRegisterForm.tsx:99
 msgid "What should people call you?"
-msgstr "Comment les gens doivent-ils t'appeler ?"
+msgstr "Comment les gens devraient-ils t'appeler ?"
 
 #: src/components/modals/CustomStatusBottomSheet.tsx:192
 #: src/components/modals/CustomStatusModal.tsx:295
@@ -24583,11 +24583,11 @@ msgstr "Lorsqu'il est activé, aucun avertissement de lien externe ne sera affic
 
 #: src/components/modals/tabs/VideoTab.tsx:257
 msgid "When enabled, other people will not see a thumbnail preview of your screen share. Your stream content is still visible to anyone watching."
-msgstr "Lorsque cette option est activée, les autres personnes ne verront pas d'aperçu miniature de votre partage d'écran. Le contenu de votre flux est toujours visible pour quiconque regarde."
+msgstr "Lorsque cette option est activée, les autres personnes ne verront pas d'aperçu miniature de ton partage d'écran. Le contenu de ton flux est toujours visible pour quiconque regarde."
 
 #: src/components/modals/tabs/VoiceTab.tsx:294
 msgid "When enabled, quickly tapping your push-to-talk shortcut will keep your microphone on until pressed again."
-msgstr "Quand activé, un appui rapide sur ton raccourci push-to-talk gardera ton micro ouvert jusqu'à la prochaine pression."
+msgstr "Quand activé, un appui rapide sur ton raccourci appuyer-pour-parler gardera ton micro ouvert jusqu'à la prochaine pression."
 
 #: src/components/modals/tabs/AdvancedTab.tsx:160
 msgid "When enabled, reveals debugging menus throughout the app to inspect and copy raw JSON objects of internal data structures like messages, channels, users, and communities. Also includes tools to debug the Fluxer Markdown parser performance and AST for any given message."
@@ -24647,7 +24647,7 @@ msgstr "Quand ils atteindront 140 km/h, ils apparaîtront ici."
 
 #: src/components/modals/tabs/chat_settings_tab/DisplayTab.tsx:73
 msgid "When uploaded directly to Fluxer"
-msgstr "Lorsqu'ils sont uploadés directement sur Fluxer"
+msgstr "Lorsqu'ils sont téléversés directement sur Fluxer"
 
 #: src/components/shared/ChannelPinsContent.tsx:158
 msgid "Whenever someone pins a message, it'll appear here."
@@ -24659,7 +24659,7 @@ msgstr "Là où nous allons, nous avons besoin de plus d'amis."
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:185
 msgid "Which tab is selected when the overlay opens"
-msgstr "Quel onglet est sélectionné lorsque la superposition s'ouvre"
+msgstr "Quel onglet est sélectionné lorsque l'interface superposée s'ouvre"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:457
 msgid "who can add"
@@ -24667,7 +24667,7 @@ msgstr "qui peut ajouter"
 
 #: src/components/modals/tabs/privacy_safety_tab/CommunicationTab.tsx:213
 msgid "Who Can Add You to Group Chats"
-msgstr "Qui peut t'ajouter aux discussions de groupe"
+msgstr "Qui Peut t'Ajouter aux Discussions de Groupe"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:444
 msgid "who can call"
@@ -24683,16 +24683,16 @@ msgstr "qui est en train de taper"
 
 #: src/components/channel/TypingUsers.tsx:44
 msgid "Whoa, it's a typing apocalypse"
-msgstr "Whoa, c'est une apocalypse de frappe"
+msgstr "Wahou, c'est une frappocalypse"
 
 #: src/components/alerts/TooManyAttachmentsModal.tsx:32
 #: src/components/alerts/TooManyReactionsModal.tsx:29
 msgid "Whoa, this is heavy"
-msgstr "Whoa, ça envoie du lourd"
+msgstr "Wahou, ça envoie du lourd"
 
 #: src/components/ErrorFallback.tsx:105
 msgid "Whoa, this is heavy."
-msgstr "Whoa, ça envoie du lourd."
+msgstr "Wahou, ça envoie du lourd."
 
 #: src/components/modals/IARModal.tsx:228
 msgid "Why are you reporting this?"
@@ -24712,7 +24712,7 @@ msgstr "Avec erreur"
 
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:131
 msgid "With Plutonium, you can use animated avatars and banners (in GIF, APNG, animated WebP, or AVIF), customize your 4-digit tag, and unlock many other premium features."
-msgstr "Avec Plutonium, vous pouvez utiliser des avatars et des bannières animés (en GIF, APNG, WebP animé ou AVIF), personnaliser votre tag à 4 chiffres et débloquer de nombreuses autres fonctionnalités premium."
+msgstr "Avec Plutonium, vous pouvez utiliser des avatars et des bannières animés (en GIF, APNG, WebP animé ou AVIF), personnaliser ton tag à 4 chiffres et débloquer de nombreuses autres fonctionnalités premium."
 
 #: src/components/modals/guild_tabs/GuildDiscoveryTab.tsx:353
 msgid "Withdraw"
@@ -24720,12 +24720,12 @@ msgstr "Retirer"
 
 #: src/components/modals/AddGuildModal.tsx:182
 msgid "Work Friends"
-msgstr "Amis de boulot"
+msgstr "Amis du Boulot"
 
 #: src/components/channel/embeds/attachments/TextualAttachmentPreviewBottomSheet.tsx:84
 #: src/components/channel/embeds/attachments/TextualPreviewContextMenu.tsx:42
 msgid "Wrap text"
-msgstr "Envelopper le texte"
+msgstr "Renvoyer le texte à la ligne"
 
 #: src/components/modals/tabs/component_gallery_tab/InputsTab.tsx:157
 msgid "Write a short bio (max 280 characters)"
@@ -24741,7 +24741,7 @@ msgstr ""
 
 #: src/components/modals/tabs/component_gallery_tab/InputsTab.tsx:174
 msgid "Write your content here... This textarea expands as you type."
-msgstr "Écris ton contenu ici... Cette zone de texte s'agrandit en tapant."
+msgstr "Écris ton contenu ici… Cette zone de texte s'agrandit en tapant."
 
 #: src/utils/AttachmentPreviewUtils.tsx:193
 msgid "YAML"
@@ -24784,7 +24784,7 @@ msgstr "Tu as déjà un groupe avec ces personnes. Tu veux vraiment en créer un
 
 #: src/components/modals/AddConnectionModal.tsx:101
 msgid "You already have this connection."
-msgstr "Vous avez déjà cette connexion."
+msgstr "Tu as déjà cette connexion."
 
 #: src/components/modals/ExternalLinkWarningModal.tsx:74
 msgid "You are about to leave Fluxer"
@@ -24825,7 +24825,7 @@ msgstr "Tu es redirigé vers Stripe pour finaliser le paiement. Reviens sur Flux
 #: src/components/uikit/context_menu/items/MessageUserMenuItem.tsx:66
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:208
 msgid "You blocked {0}. You won't be able to send messages unless you unblock them."
-msgstr "Vous avez bloqué {0}. Vous ne pourrez pas envoyer de messages tant que vous ne les débloquez pas."
+msgstr "Tu as bloqué {0}. Vous ne pourrez pas envoyer de messages tant que vous ne les débloquez pas."
 
 #. placeholder {0}: Math.max(0, modalLogic.maxSelections - modalLogic.selectedUserIds.length)
 #. placeholder {0}: modalLogic.remainingSlotsCount
@@ -24841,11 +24841,11 @@ msgstr "Tu peux ajouter {remaining} amis supplémentaires"
 
 #: src/components/modals/UploadDropModal.tsx:56
 msgid "You can add comments before uploading. Direct upload is disabled during slowmode."
-msgstr "Tu peux ajouter des commentaires avant le téléchargement. Le téléchargement direct est désactivé en mode ralenti."
+msgstr "Tu peux ajouter des commentaires avant le téléversement. Le téléversement direct est désactivé en mode ralenti."
 
 #: src/components/modals/UploadDropModal.tsx:57
 msgid "You can add comments before uploading. Hold shift to upload directly."
-msgstr "Tu peux ajouter des commentaires avant le téléchargement. Maintiens shift pour télécharger directement."
+msgstr "Tu peux ajouter des commentaires avant le téléversement. Maintiens shift pour téléverser directement."
 
 #: src/components/channel/direct_message/AddFriendView.tsx:35
 msgid "You can add friends with their FluxerTag."
@@ -24883,11 +24883,11 @@ msgstr "Tu ne peux avoir qu'un seul fond d'écran personnalisé sur la formule g
 
 #: src/components/alerts/TooManyAttachmentsModal.tsx:36
 msgid "You can only upload {maxAttachments} files at a time. Try again with fewer files."
-msgstr "Vous ne pouvez télécharger que {maxAttachments} fichiers à la fois. Réessayez avec moins de fichiers."
+msgstr "Tu ne peux téléverser que {maxAttachments} fichiers à la fois. Réessayez avec moins de fichiers."
 
 #: src/components/alerts/TooManyAttachmentsModal.tsx:35
 msgid "You can only upload 1 file at a time. Try again with fewer files."
-msgstr "Vous ne pouvez télécharger qu'un seul fichier à la fois. Réessayez avec moins de fichiers."
+msgstr "Tu ne peux téléverser qu'un seul fichier à la fois. Réessaie avec moins de fichiers."
 
 #: src/components/shared/ChannelPinsContent.tsx:139
 msgid "You can pin messages in this conversation for everyone to see."
@@ -24895,11 +24895,11 @@ msgstr "Tu peux épingler des messages dans cette conversation pour que tout le 
 
 #: src/components/modals/components/plutonium/SubscriptionCard.tsx:176
 msgid "You can redeem additional gift codes to <0>extend</0> your gift time."
-msgstr "Vous pouvez échanger des codes cadeaux supplémentaires pour <0>prolonger</0> votre temps de cadeau."
+msgstr "Tu peux échanger des codes cadeaux supplémentaires pour <0>prolonger</0> ton temps de cadeau."
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/MessageHistoryThresholdContent.tsx:52
 msgid "You can remove the <0>Read Message History</0> permission from the <1>@everyone</1> role in the <2>Roles & Permissions</2> tab and grant it to one or more trusted roles instead."
-msgstr "Vous pouvez retirer la permission <0>Lire l'historique des messages</0> du rôle <1>@everyone</1> dans l'onglet <2>Rôles et permissions</2> et l'accorder à un ou plusieurs rôles de confiance à la place."
+msgstr "Tu peux retirer la permission <0>Lire l'historique des messages</0> du rôle <1>@everyone</1> dans l'onglet <2>Rôles et permissions</2> et l'accorder à un ou plusieurs rôles de confiance à la place."
 
 #: src/components/modals/tabs/privacy_safety_tab/DataExportTab.tsx:120
 msgid "You can request a data export once every 7 days. You'll receive an email with a download link valid for 7 days."
@@ -24916,11 +24916,11 @@ msgstr "Tu peux toujours créer un compte ou te connecter. Si les invitations so
 
 #: src/components/modals/tabs/my_profile_tab/BioEditor.tsx:203
 msgid "You can use links, emoji, and Markdown."
-msgstr "Vous pouvez utiliser des liens, des émojis et Markdown."
+msgstr "Tu peux utiliser des liens, des émojis et Markdown."
 
 #: src/actions/ReactionActionCreators.tsx:58
 msgid "You can't add new reactions while you're on timeout."
-msgstr "Tu ne peux pas ajouter de nouvelles réactions pendant ton timeout."
+msgstr "Tu ne peux pas ajouter de nouvelles réactions pendant ton temps mort."
 
 #: src/components/modals/UserProfileModal.tsx:1227
 msgid "You can't befriend yourself"
@@ -24935,7 +24935,7 @@ msgstr "Tu ne peux pas interagir avec les réactions dans les résultats de rech
 #: src/stores/voice/MediaEngineFacade.tsx:168
 #: src/stores/voice/MediaEngineFacade.tsx:828
 msgid "You can't join while you're on timeout."
-msgstr "Tu ne peux pas rejoindre pendant ton timeout."
+msgstr "Tu ne peux pas rejoindre pendant ton temps mort."
 
 #: src/components/modals/UserProfileModal.tsx:1239
 #: src/components/popouts/UserProfilePopout.tsx:327
@@ -24980,7 +24980,7 @@ msgstr "Tu ne peux pas utiliser de codes cadeaux Plutonium tant que tu es en pre
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:708
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:728
 msgid "You cannot remove this permission because it would remove it from yourself"
-msgstr "Tu ne peux pas supprimer cette permission car cela te supprimerait aussi"
+msgstr "Tu ne peux pas supprimer cette permission car cela te la retirerait également"
 
 #: src/components/alerts/RoleNameBlankModal.tsx:29
 msgid "You cannot save a role with a blank name. Please provide a valid name before saving."
@@ -25017,7 +25017,7 @@ msgstr "Tu n'as accès à aucun canal dans cette communauté."
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:400
 msgid "You don't have any custom theme overrides to share yet."
-msgstr "Tu n'as pas encore d'overrides de thème personnalisés à partager."
+msgstr "Tu n'as pas encore de remplacements de thème personnalisés à partager."
 
 #: src/lib/markdown/renderers/MentionRenderer.tsx:212
 msgid "You don't have permission to connect to this voice channel."
@@ -25025,7 +25025,7 @@ msgstr "Tu n'as pas la permission de te connecter à ce salon vocal."
 
 #: src/actions/InviteActionCreators.tsx:320
 msgid "You don't have permission to install this emoji pack."
-msgstr "Tu n'as pas la permission d'installer ce pack d'emojis."
+msgstr "Tu n'as pas la permission d'installer ce pack d'émojis."
 
 #: src/actions/InviteActionCreators.tsx:321
 msgid "You don't have permission to install this sticker pack."
@@ -25033,31 +25033,31 @@ msgstr "Tu n'as pas la permission d'installer ce pack de stickers."
 
 #: src/components/profile/VoiceActivityCard.tsx:176
 msgid "You don't have permission to join this voice channel"
-msgstr "Vous n'avez pas la permission de rejoindre ce canal vocal"
+msgstr "Tu n'as pas la permission de rejoindre ce canal vocal"
 
 #: src/lib/markdown/renderers/LinkRenderer.tsx:236
 msgid "You found a secret link, but it wasn't meant for you!"
-msgstr "Vous avez trouvé un lien secret, mais il n'était pas destiné à vous !"
+msgstr "Tu as trouvé un lien secret, mais il n'était pas destiné à toi !"
 
 #: src/components/modals/components/plutonium/GiftInventoryBanner.tsx:40
 msgid "You have {count} new gift codes waiting for you!"
-msgstr "Vous avez {count} nouveaux codes cadeaux qui vous attendent !"
+msgstr "Tu as {count} nouveaux codes cadeaux qui t'attendent !"
 
 #: src/components/modals/tabs/chat_settings_tab/LinksTab.tsx:40
 msgid "You have {trustedCount} trusted domain(s). Add more by checking the box when visiting external links."
-msgstr "Vous avez {trustedCount} domaine(s) de confiance. Ajoutez-en plus en cochant la case lors de la visite de liens externes."
+msgstr "Tu as {trustedCount} domaine(s) de confiance. Ajoute-en plus en cochant la case lors de la visite de liens externes."
 
 #: src/components/layout/app_layout/nagbars/GiftInventoryNagbar.tsx:43
 msgid "You have {unreadCount} new gift codes waiting in your Gift Inventory."
-msgstr "Vous avez {unreadCount} nouveaux codes cadeaux en attente dans votre Inventaire de cadeaux."
+msgstr "Tu as {unreadCount} nouveaux codes cadeaux en attente dans ton Inventaire de cadeaux."
 
 #: src/components/modals/components/plutonium/GiftInventoryBanner.tsx:40
 msgid "You have a new gift code waiting for you!"
-msgstr "Vous avez un nouveau code cadeau qui vous attend !"
+msgstr "Tu as un nouveau code cadeau qui t'attend !"
 
 #: src/components/layout/app_layout/nagbars/GiftInventoryNagbar.tsx:42
 msgid "You have a new gift code waiting in your Gift Inventory."
-msgstr "Vous avez un nouveau code cadeau en attente dans votre Inventaire de cadeaux."
+msgstr "Tu as un nouveau code cadeau en attente dans ton Inventaire de cadeaux."
 
 #: src/components/modals/components/plutonium/SubscriptionCard.tsx:200
 msgid "You have all <0/> for <1>{monthlyPrice}/month</1>."
@@ -25085,11 +25085,11 @@ msgstr "Tu as bloqué {username}. Débloque-le pour envoyer des messages."
 
 #: src/actions/InviteActionCreators.tsx:264
 msgid "You have created the maximum of {limit} emoji pack. Delete one to create another."
-msgstr "Tu as créé le maximum de {limit} pack d'emoji. Supprime-en un pour en créer un autre."
+msgstr "Tu as créé le maximum de {limit} pack d'émoji. Supprime-en un pour en créer un autre."
 
 #: src/actions/InviteActionCreators.tsx:265
 msgid "You have created the maximum of {limit} emoji packs. Delete one to create another."
-msgstr "Tu as créé le maximum de {limit} packs d'emoji. Supprime-en un pour en créer un autre."
+msgstr "Tu as créé le maximum de {limit} packs d'émoji. Supprime-en un pour en créer un autre."
 
 #: src/actions/InviteActionCreators.tsx:296
 msgid "You have created the maximum of {limit} sticker pack. Delete one to create another."
@@ -25097,23 +25097,23 @@ msgstr "Tu as créé le maximum de {limit} pack d'stickers. Supprime-en un pour 
 
 #: src/actions/InviteActionCreators.tsx:297
 msgid "You have created the maximum of {limit} sticker packs. Delete one to create another."
-msgstr "Tu as créé le maximum de {limit} packs d'stickers. Supprime-en un pour en créer un autre."
+msgstr "Tu as créé le maximum de {limit} packs de stickers. Supprime-en un pour en créer un autre."
 
 #: src/actions/InviteActionCreators.tsx:250
 msgid "You have installed the maximum of {limit} emoji pack. Remove one to install another."
-msgstr "Tu as installé le maximum de {limit} pack d'emoji. Retire-en un pour en installer un autre."
+msgstr "Tu as installé le maximum de {limit} packs d'émoji. Retire-en un pour en installer un autre."
 
 #: src/actions/InviteActionCreators.tsx:251
 msgid "You have installed the maximum of {limit} emoji packs. Remove one to install another."
-msgstr "Tu as installé le maximum de {limit} packs d'emoji. Retire-en un pour en installer un autre."
+msgstr "Tu as installé le maximum de {limit} packs d'émoji. Retire-en un pour en installer un autre."
 
 #: src/actions/InviteActionCreators.tsx:282
 msgid "You have installed the maximum of {limit} sticker pack. Remove one to install another."
-msgstr "Tu as installé le maximum de {limit} pack d'stickers. Retire-en un pour en installer un autre."
+msgstr "Tu as installé le maximum de {limit} pack de stickers. Retire-en un pour en installer un autre."
 
 #: src/actions/InviteActionCreators.tsx:283
 msgid "You have installed the maximum of {limit} sticker packs. Remove one to install another."
-msgstr "Tu as installé le maximum de {limit} packs d'stickers. Retire-en un pour en installer un autre."
+msgstr "Tu as installé le maximum de {limit} packs de stickers. Retire-en un pour en installer un autre."
 
 #: src/components/common/FriendSelector.tsx:211
 msgid "You have no friends yet"
@@ -25125,15 +25125,15 @@ msgstr "Tu as atteint la limite de création de packs d'emojis. Supprime un de t
 
 #: src/actions/InviteActionCreators.tsx:300
 msgid "You have reached the limit for creating sticker packs. Delete one of your packs to create another."
-msgstr "Tu as atteint la limite de création de packs d'stickers. Supprime un de tes packs pour en créer un autre."
+msgstr "Tu as atteint la limite de création de packs de stickers. Supprime un de tes packs pour en créer un autre."
 
 #: src/actions/InviteActionCreators.tsx:254
 msgid "You have reached the limit for installing emoji packs. Remove one of your installed packs to install another."
-msgstr "Tu as atteint la limite d'installation de packs d'emojis. Supprime un des packs installés pour en installer un autre."
+msgstr "Tu as atteint la limite d'installation de packs d'émojis. Supprime un des packs installés pour en installer un autre."
 
 #: src/actions/InviteActionCreators.tsx:286
 msgid "You have reached the limit for installing sticker packs. Remove one of your installed packs to install another."
-msgstr "Tu as atteint la limite d'installation de packs d'stickers. Supprime un des packs installés pour en installer un autre."
+msgstr "Tu as atteint la limite d'installation de packs de stickers. Supprime un des packs installés pour en installer un autre."
 
 #: src/components/modals/tabs/AuthorizedAppsTab.tsx:133
 msgid "You haven't authorized any applications to access your account."
@@ -25157,7 +25157,7 @@ msgstr "Tu viens d'appuyer sur Tab. Le mode clavier est activé pour naviguer su
 
 #: src/utils/ExpressionPermissionUtils.tsx:111
 msgid "You lack permission to use external emojis in this channel"
-msgstr "Tu n'as pas la permission d'utiliser des emojis externes dans ce salon"
+msgstr "Tu n'as pas la permission d'utiliser des émojis externes dans ce salon"
 
 #: src/utils/ExpressionPermissionUtils.tsx:203
 #: src/utils/ExpressionPermissionUtils.tsx:210
@@ -25190,7 +25190,7 @@ msgstr "Tu dois avoir 18 ans ou plus pour voir ce salon. <0>En savoir plus</0>"
 
 #: src/components/channel/NSFWChannelGate.tsx:79
 msgid "You must be 18 or older to view this community. <0>Learn more</0>"
-msgstr "Vous devez avoir 18 ans ou plus pour voir cette communauté. <0>En savoir plus</0>"
+msgstr "Tu dois avoir 18 ans ou plus pour voir cette communauté. <0>En savoir plus</0>"
 
 #: src/components/channel/embeds/NSFWBlurOverlay.tsx:50
 msgid "You must be 18 or older to view this content. <0>Learn more</0>"
@@ -25231,7 +25231,7 @@ msgstr "Tu dois réclamer ton compte pour envoyer des messages directs."
 
 #: src/utils/RelationshipActionUtils.tsx:51
 msgid "You need to claim your account to send friend requests."
-msgstr "Tu dois réclamer ton compte pour envoyer des demandes d'amitié."
+msgstr "Tu dois réclamer ton compte pour envoyer des demandes d'ami."
 
 #: src/components/channel/barriers/BarrierComponents.tsx:128
 msgid "You need to claim your account to send messages in this community."
@@ -25274,7 +25274,7 @@ msgstr "Tu recevras un Email lorsque ton paquet de données sera prêt"
 
 #: src/components/popouts/UnreadChannelsContent.tsx:419
 msgid "You're all caught up."
-msgstr "Vous êtes à jour."
+msgstr "Tu es à jour."
 
 #: src/components/alerts/VoiceConnectionConfirmModal.tsx:48
 msgid "You're already connected to this voice channel from {existingConnectionsCount} other device. What would you like to do?"
@@ -25290,16 +25290,16 @@ msgstr "Tu es déjà ami avec cet utilisateur."
 
 #: src/components/modals/components/plutonium/hooks/useCheckoutActions.tsx:50
 msgid "You're already Lifetime. Starting a new subscription isn't allowed. You can still buy gifts for others."
-msgstr "Tu as déjà un abonnement Lifetime. Impossible d'en souscrire un nouveau. Tu peux toujours acheter des cadeaux pour d'autres."
+msgstr "Tu as déjà un abonnement à vie. Impossible d'en souscrire un nouveau. Tu peux toujours acheter des cadeaux pour d'autres."
 
 #: src/components/alerts/UserBannedFromGuildModal.tsx:28
 msgid "You're Banned"
-msgstr "Tu es banni"
+msgstr "Tu es Banni"
 
 #. placeholder {0}: formatRateLimitTime(retryAfter)
 #: src/components/alerts/RateLimitedConfirmModal.tsx:70
 msgid "You're being rate limited. Please wait {0} before trying again."
-msgstr "Tu es limité par le taux. Attends {0} avant de réessayer."
+msgstr "Tes transmissions sont limitées. Attends {0} avant de réessayer."
 
 #: src/components/popouts/ScheduledMessagesContent.tsx:129
 msgid "You're caught up"
@@ -25307,7 +25307,7 @@ msgstr "Tu es à jour"
 
 #: src/components/modals/components/plutonium/hooks/useCheckoutActions.tsx:70
 msgid "You're currently on a gift subscription. It won't renew. You can redeem more gift codes to extend it. Recurring subscriptions can be started after your gift time ends."
-msgstr "Vous êtes actuellement sur un abonnement cadeau. Il ne se renouvellera pas. Vous pouvez échanger plus de codes cadeaux pour le prolonger. Les abonnements récurrents peuvent être commencés après la fin de votre temps de cadeau."
+msgstr "Tu es actuellement sur un abonnement cadeau. Il ne se renouvellera pas. Tu peux échanger plus de codes cadeaux pour le prolonger. Les abonnements récurrents peuvent être commencés après la fin de ton temps de cadeau."
 
 #: src/components/channel/barriers/BarrierComponents.tsx:224
 msgid "You're currently timed out from this community. Messaging, reactions, and voice access are blocked until the timeout expires."
@@ -25323,7 +25323,7 @@ msgstr "Tu modifies des messages trop rapidement"
 
 #: src/utils/SystemMessageUtils.tsx:54
 msgid "You're here, {username}! Just in time to rock 'n' roll!"
-msgstr "Tu es là, {username} ! Juste à temps pour faire du rock 'n' roll !"
+msgstr "Tu es là, {username} ! Juste à temps pour rock 'n' roll !"
 
 #: src/components/modals/InvitePagePreviewModal.tsx:104
 msgid "You're in preview mode"
@@ -25331,7 +25331,7 @@ msgstr "Tu es en mode aperçu"
 
 #: src/components/bottomsheets/DirectCallLobbyBottomSheet.tsx:320
 msgid "You're in the call"
-msgstr "Vous êtes dans l'appel"
+msgstr "Tu es dans l'appel"
 
 #: src/components/bottomsheets/VoiceLobbyBottomSheet.tsx:245
 msgid "You're in the voice channel"
@@ -25343,7 +25343,7 @@ msgstr "Tu envoies des messages trop rapidement"
 
 #: src/components/voice/StreamWatchHoverPopout.tsx:167
 msgid "You're Streaming!"
-msgstr "Vous êtes en streaming !"
+msgstr "Tu es en Streaming !"
 
 #: src/components/channel/Messages.tsx:686
 msgid "You're viewing older messages"
@@ -25351,7 +25351,7 @@ msgstr "Tu consultes d'anciens messages"
 
 #: src/utils/SystemMessageUtils.tsx:55
 msgid "You've arrived, {username}! Enjoy the Jigowatt Joyride!"
-msgstr "Tu es arrivé, {username} ! Profite de la Jigowatt Joyride !"
+msgstr "Tu es arrivé, {username} ! Profite de la Joie des Gigawatts !"
 
 #: src/components/auth/InviteHeader.tsx:153
 msgid "You've been invited to install"
@@ -25364,7 +25364,7 @@ msgstr "Tu as été invité à rejoindre"
 
 #: src/components/auth/InviteHeader.tsx:119
 msgid "You've been invited to join a group DM by"
-msgstr "Tu as été invité à rejoindre un DM groupé par"
+msgstr "Tu as été invité à rejoindre un MP de groupe par"
 
 #: src/components/channel/ThemeEmbed.tsx:69
 #: src/components/pages/ThemeLoginPage.tsx:80
@@ -25381,43 +25381,43 @@ msgstr "Tu as atteint la fin"
 
 #: src/components/alerts/MaxFavoriteMemesModal.tsx:64
 msgid "You've reached the maximum limit of {freeItemsText} for free users. Upgrade to Plutonium to increase your limit to {premiumItemsText}!"
-msgstr "Vous avez atteint la limite maximale de {freeItemsText} pour les utilisateurs gratuits. Passez à Plutonium pour augmenter votre limite à {premiumItemsText} !"
+msgstr "Tu as atteint la limite maximale de {freeItemsText} pour les utilisateurs gratuits. Passe à Plutonium pour augmenter ta limite à {premiumItemsText} !"
 
 #: src/components/alerts/MaxFavoriteMemesModal.tsx:45
 msgid "You've reached the maximum limit of {freeItemsText}. This limit is configured by your instance administrator."
-msgstr "Vous avez atteint la limite maximale de {freeItemsText}. Cette limite est configurée par l'administrateur de votre instance."
+msgstr "Tu as atteint la limite maximale de {freeItemsText}. Cette limite est configurée par l'administrateur de ton instance."
 
 #: src/components/alerts/MaxFavoriteMemesModal.tsx:55
 msgid "You've reached the maximum limit of {maxFavoriteMemes} saved media item. To add more, you'll need to remove some existing items from your collection."
-msgstr "Vous avez atteint la limite maximale de {maxFavoriteMemes} élément multimédia sauvegardé. Pour en ajouter plus, vous devrez supprimer certains éléments existants de votre collection."
+msgstr "Tu as atteint la limite maximale de {maxFavoriteMemes} élément multimédia sauvegardé. Pour en ajouter plus, tu devras supprimer certains éléments existants de ta collection."
 
 #: src/components/alerts/MaxFavoriteMemesModal.tsx:56
 msgid "You've reached the maximum limit of {maxFavoriteMemes} saved media items. To add more, you'll need to remove some existing items from your collection."
-msgstr "Vous avez atteint la limite maximale de {maxFavoriteMemes} éléments multimédias sauvegardés. Pour en ajouter plus, vous devrez supprimer certains éléments existants de votre collection."
+msgstr "Tu as atteint la limite maximale de {maxFavoriteMemes} éléments multimédias sauvegardés. Pour en ajouter plus, tu devras supprimer certains éléments existants de ta collection."
 
 #: src/components/alerts/MaxBookmarksModal.tsx:58
 msgid "You've reached the maximum number of bookmarks ({bookmarksText}). Please remove some bookmarks before adding new ones."
-msgstr "Vous avez atteint le nombre maximum de marque-pages ({bookmarksText}). Veuillez supprimer quelques marque-pages avant d'en ajouter de nouveaux."
+msgstr "Tu as atteint le nombre maximum de marque-pages ({bookmarksText}). Veuillez supprimer quelques marque-pages avant d'en ajouter de nouveaux."
 
 #: src/components/alerts/MaxBookmarksModal.tsx:47
 msgid "You've reached the maximum number of bookmarks ({bookmarksText}). This limit is configured by your instance administrator. Please remove some bookmarks before adding new ones."
-msgstr "Vous avez atteint le nombre maximum de marque-pages ({bookmarksText}). Cette limite est configurée par l'administrateur de votre instance. Veuillez supprimer quelques marque-pages avant d'en ajouter de nouveaux."
+msgstr "Tu as atteint le nombre maximum de marque-pages ({bookmarksText}). Cette limite est configurée par l'administrateur de ton instance. Veuillez supprimer quelques marque-pages avant d'en ajouter de nouveaux."
 
 #: src/components/alerts/MaxBookmarksModal.tsx:71
 msgid "You've reached the maximum number of bookmarks for free users ({bookmarksText}). Upgrade to Plutonium to increase your limit to {premiumBookmarksText}, or remove some bookmarks to add new ones."
-msgstr "Vous avez atteint le nombre maximum de marque-pages pour les utilisateurs gratuits ({bookmarksText}). Passez à Plutonium pour augmenter votre limite à {premiumBookmarksText}, ou supprimez quelques marque-pages pour en ajouter de nouveaux."
+msgstr "Tu as atteint le nombre maximum de marque-pages pour les utilisateurs gratuits ({bookmarksText}). Passe à Plutonium pour augmenter ta limite à {premiumBookmarksText}, ou supprimez quelques marque-pages pour en ajouter de nouveaux."
 
 #: src/components/alerts/MaxGuildsModal.tsx:39
 msgid "You've reached the maximum number of communities you can join ({maxGuilds} communities). Please leave a community before joining another one."
-msgstr "Vous avez atteint le nombre maximum de communautés que vous pouvez rejoindre ({maxGuilds} communautés). Veuillez quitter une communauté avant d'en rejoindre une autre."
+msgstr "Tu as atteint le nombre maximum de communautés que tu peux rejoindre ({maxGuilds} communautés). Veuillez quitter une communauté avant d'en rejoindre une autre."
 
 #: src/components/alerts/MaxGuildsModal.tsx:38
 msgid "You've reached the maximum number of communities you can join ({maxGuilds} community). Please leave a community before joining another one."
-msgstr "Vous avez atteint le nombre maximum de communautés que vous pouvez rejoindre ({maxGuilds} communauté). Veuillez quitter une communauté avant d'en rejoindre une autre."
+msgstr "Tu as atteint le nombre maximum de communautés que tu peux rejoindre ({maxGuilds} communauté). Veuillez quitter une communauté avant d'en rejoindre une autre."
 
 #: src/components/modals/guild_tabs/GuildEmojiTab.tsx:203
 msgid "You've reached the maximum number of static emojis. Delete some existing emojis or upgrade your server to increase the limit."
-msgstr "Vous avez atteint le nombre maximum d'emojis statiques. Supprimez quelques emojis existants ou passez à un serveur supérieur pour augmenter la limite."
+msgstr "Tu as atteint le nombre maximum d'emojis statiques. Supprime quelques émojis existants ou améliore ton serveur pour augmenter la limite."
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:375
 msgid "You've reached the maximum of {maxBackgroundImages} backgrounds. Remove one to add a new background."
@@ -25434,11 +25434,11 @@ msgstr "Tu as vu toutes tes mentions récentes. Ne t'en fais pas, d'autres arriv
 
 #: src/components/modals/utils/SettingsConstants.tsx:98
 msgid "Your Account"
-msgstr "Ton compte"
+msgstr "Ton Compte"
 
 #: src/components/pages/ConnectionCallbackPage.tsx:44
 msgid "Your account has been linked successfully. You can now close this tab and return to the app."
-msgstr "Votre compte a été lié avec succès. Vous pouvez maintenant fermer cet onglet et revenir à l'application."
+msgstr "Ton compte a été lié avec succès. Tu peux maintenant fermer cet onglet et revenir à l'application."
 
 #: src/components/modals/components/UnclaimedAccountAlert.tsx:36
 msgid "Your account is not yet claimed. Without an email and password, you won't be able to sign in from other devices and you could lose access to your account. Claim your account now to secure it."
@@ -25450,7 +25450,7 @@ msgstr "Ton compte est trop récent pour envoyer des messages dans cette communa
 
 #: src/components/modals/guild_tabs/GuildDiscoveryTab.tsx:278
 msgid "Your application is pending review. You can still update your listing details or withdraw the application."
-msgstr "Votre demande est en attente de révision. Vous pouvez toujours mettre à jour les détails de votre annonce ou retirer la demande."
+msgstr "Ta demande est en attente de vérification. Tu peux toujours mettre à jour les détails de ton annonce ou retirer la demande."
 
 #: src/components/layout/app_layout/nagbars/DesktopNotificationNagbar.tsx:53
 msgid "Your browser does not support desktop notifications."
@@ -25479,11 +25479,11 @@ msgstr "Votre communauté a besoin d'au moins {minMemberCount} membres avant de 
 #. placeholder {0}: user?.email
 #: src/components/modals/RequiredActionModal.tsx:456
 msgid "Your current email <0>{0}</0> could not receive messages. Enter a different email address to continue."
-msgstr "Votre email actuel <0>{0}</0> n'a pas pu recevoir de messages. Entrez une adresse email différente pour continuer."
+msgstr "Ton email actuel <0>{0}</0> n'a pas pu recevoir de messages. Entre une adresse email différente pour continuer."
 
 #: src/components/modals/RequiredActionModal.tsx:155
 msgid "Your current email address couldn't receive messages. Please update it to continue using Fluxer."
-msgstr "Votre adresse email actuelle n'a pas pu recevoir de messages. Veuillez la mettre à jour pour continuer à utiliser Fluxer."
+msgstr "Ton adresse email actuelle n'a pas pu recevoir de messages. Veuillez la mettre à jour pour continuer à utiliser Fluxer."
 
 #: src/components/modals/tabs/privacy_safety_tab/DataExportTab.tsx:52
 msgid "Your data export will include all your user information, messages, and URLs to download any attachments."
@@ -25495,7 +25495,7 @@ msgstr "Ta demande de suppression sera mise en file d'attente et traitée en arr
 
 #: src/components/modals/RequiredActionModal.tsx:295
 msgid "Your email address has been updated."
-msgstr "Votre adresse email a été mise à jour."
+msgstr "Ton adresse email a été mise à jour."
 
 #: src/components/pages/VerifyEmailPage.tsx:119
 msgid "Your email has been verified. You can now log in to your account."
@@ -25511,7 +25511,7 @@ msgstr "Ta demande d'exportation sera traitée"
 
 #: src/components/pages/report/ReportStepDetails.tsx:213
 msgid "Your FluxerTag (Optional)"
-msgstr "Votre FluxerTag (facultatif)"
+msgstr "Ton FluxerTag (facultatif)"
 
 #: src/components/channel/friends/views/FriendsList.tsx:87
 msgid "Your friends are currently stuck in another timeline"
@@ -25536,7 +25536,7 @@ msgstr "Ton adresse IP est bannie de cette communauté et tu ne peux pas rejoind
 
 #: src/components/alerts/UserIpBannedFromGuildModal.tsx:29
 msgid "Your IP is Banned"
-msgstr "Ton IP est bannie"
+msgstr "Ton IP est Bannie"
 
 #: src/lib/MessageQueue.tsx:386
 msgid "Your message could not be delivered. This is usually because you don't share a community with the recipient or the recipient is only accepting direct messages from friends."
@@ -25548,7 +25548,7 @@ msgstr "Ton message n'a pas pu être délivré. Tu dois réclamer ton compte pou
 
 #: src/lib/MessageQueue.tsx:399
 msgid "Your message could not be delivered. You need to claim your account to send messages."
-msgstr "Votre message n'a pas pu être délivré. Vous devez revendiquer votre compte pour envoyer des messages."
+msgstr "Ton message n'a pas pu être délivré. Tu dois revendiquer ton compte pour envoyer des messages."
 
 #: src/components/alerts/MessageSendFailedModal.tsx:28
 msgid "Your message didn't go through"
@@ -25560,11 +25560,11 @@ msgstr "Ton message n'a pas été mis à jour"
 
 #: src/components/modals/RequiredActionModal.tsx:501
 msgid "your new email"
-msgstr "votre nouvel email"
+msgstr "ton nouvel email"
 
 #: src/components/pages/PremiumCallbackPage.tsx:59
 msgid "Your payment was canceled. You can now close this tab and return to the app."
-msgstr "Votre paiement a été annulé. Vous pouvez maintenant fermer cet onglet et revenir à l'application."
+msgstr "Ton paiement a été annulé. Tu peux maintenant fermer cet onglet et revenir à l'application."
 
 #: src/components/favorites/FavoritesWelcomeSection.tsx:53
 msgid "Your personal space for quick access to channels, DMs, and groups you love. Press the star on any channel to add it here."
@@ -25584,11 +25584,11 @@ msgstr "Ton espace privé pour pensées et rappels"
 
 #: src/components/modals/tabs/MyProfileTab.tsx:121
 msgid "Your profile bio is too long."
-msgstr "La bio de votre profil est trop longue."
+msgstr "La bio de ton profil est trop longue."
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:301
 msgid "Your Purchased Gifts"
-msgstr "Tes cadeaux achetés"
+msgstr "Tes Cadeaux Achetés"
 
 #: src/utils/GeoUtils.tsx:26
 msgid "your region"
@@ -25597,7 +25597,7 @@ msgstr "ta région"
 #: src/components/voice/PiPOverlay.tsx:782
 #: src/components/voice/VoiceParticipantTile.tsx:1405
 msgid "Your stream is still being broadcast"
-msgstr "Ton stream est toujours diffusé"
+msgstr "Ton stream est toujours en train d'être diffusé"
 
 #: src/components/modals/components/plutonium/SubscriptionCard.tsx:156
 msgid "Your subscription ended, but you still have all <0/> until <1>{graceDate}</1>. Resubscribe to keep them."
@@ -25630,7 +25630,7 @@ msgstr "Ton URL personnalisée a été supprimée."
 #. placeholder {0}: RuntimeConfigStore.inviteEndpoint
 #: src/components/modals/guild_tabs/GuildVanityURLTab.tsx:118
 msgid "Your vanity URL has been set to {0}/{trimmedValue}"
-msgstr "Ton URL personnalisée a été définie sur {0}/{trimmedValue}"
+msgstr "Ton URL personnalisée a été définie comme {0}/{trimmedValue}"
 
 #: src/components/modals/guild_tabs/GuildVanityURLTab.tsx:196
 msgid "your-custom-url"
